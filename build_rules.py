@@ -3,11 +3,8 @@ import os
 SRC_DIR = './v2fly_src/data'
 OUTPUT_DIR = 'rule/surge'
 
-def parse_file(file_name, visited=None):
-    if visited is None:
-        visited = set()
-    
-    # 防止循环嵌套死循环
+def parse_file(file_name, visited):
+    # 🎯 每次递归强制检查当前大盘链路下的防死循环边界
     if file_name in visited:
         return set()
     visited.add(file_name)
@@ -25,7 +22,7 @@ def parse_file(file_name, visited=None):
                 if not line or line.startswith('#'):
                     continue
                 
-                # 2. 递归处理 include: 嵌套
+                # 2. 递归处理 include: 嵌套 (传递当前链路的 visited)
                 if line.startswith('include:'):
                     inc_file = line.split(':')[1].strip()
                     domains.update(parse_file(inc_file, visited))
@@ -55,17 +52,19 @@ def parse_file(file_name, visited=None):
 # 创建深层收纳目录
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# 🎯 核心黑科技：自动扫描整个 data 目录下的所有规则源文件
+# 自动扫描整个 data 目录下的所有规则源文件
 if os.path.exists(SRC_DIR):
     all_sources = [f for f in os.listdir(SRC_DIR) if os.path.isfile(os.path.join(SRC_DIR, f))]
     print(f"🚀 侦测到上游共包含 {len(all_sources)} 个规则源文件，开始全量提炼...")
     
     success_count = 0
     for src_file in all_sources:
-        # 执行 DFS 递归提纯
-        final_set = parse_file(src_file)
+        # 💡【核心修复】每次开启一个全新的顶级应用文件转译时，必须初始化一个专属的空集合
+        # 这样既能完美防止单体文件内部循环嵌套死循环，又绝对不会污染到下一个独立文件的转译！
+        local_visited = set()
+        final_set = parse_file(src_file, local_visited)
         
-        # 💡 只有当清洗后里面确实包含合法域名时，才输出文件，防止生成无意义空文本
+        # 只有当清洗后里面确实包含合法域名时，才输出文件
         if final_set:
             target_file_name = f"{src_file}.txt"
             full_output_path = os.path.join(OUTPUT_DIR, target_file_name)
