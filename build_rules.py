@@ -27,7 +27,7 @@ def parse_file(file_name, visited=None):
     with open(file_path, 'r', encoding='utf-8') as f:
         for line in f:
             line = line.strip()
-            # 1. 过滤掉空行和注释行1
+            # 1. 过滤掉空行和注释行
             if not line or line.startswith('#'):
                 continue
             
