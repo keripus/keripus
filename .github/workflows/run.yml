@@ -1,0 +1,56 @@
+name: 🔄 Surge Domain-Set 工业级转译车间
+on:
+  schedule:
+    - cron: "0 21 * * *" # 北京时间每天清晨 5:00 自动触发同步
+  workflow_dispatch:      # 允许你在网页端随时随地点击按钮手动生产
+
+jobs:
+  build_and_unpack:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📂 检出当前仓库代码
+        uses: actions/checkout@v4
+
+      - name: 🐹 部署原生 Go 语言环境
+        uses: actions/setup-go@v5
+        with:
+          go-version: 'stable'
+
+      - name: 🛠️ 编译安装最新的 MetaCubeX/geo 核心转换器
+        run: |
+          go install github.com/MetaCubeX/geo@latest
+          echo "$(go env GOPATH)/bin" >> $GITHUB_PATH
+
+      - name: 📥 同步抓取全球最权威的 Geosite 根源码 (v2fly data)
+        run: |
+          git clone --depth 1 https://github.com/v2fly/domain-list-community.git v2fly_src
+
+      - name: 🧬 工业级熔炼：编译成完备的二进制 dat 并反向揉碎解包
+        run: |
+          # 1. 将带 include: 等高级嵌套关系的 data 目录编译展开成完整的单体大包
+          geo dat site -d ./v2fly_src/data -o ./geosite.dat
+          
+          # 2. 原地对二进制包执行高并发反向拆解，释放出纯净的域名集合文件
+          mkdir -p extracted
+          geo unpack site geosite.dat -d extracted/
+
+      - name: 🧼 提纯并重新归档你需要的 Surge 专属 .txt 域名集
+        run: |
+          # 提取具体应用 (如果你以后还需要别的大厂，可以在这里继续加 cp 命令)
+          cp extracted/youtube youtube.txt
+          cp extracted/netflix netflix.txt
+          cp extracted/openai openai.txt
+          cp extracted/telegram telegram.txt
+          
+          # 提取大盘骨干兜底（剩余国外流量大集合与国内流量大集合）
+          cp extracted/geolocation-!cn proxy.txt
+          cp extracted/cn cn.txt
+
+      - name: 🚀 自动推送到你的专属 GitHub 仓库
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add *.txt
+          
+          # 只有当文件内容真的有变动时才提交，防止刷无意义的 commit 历史
+          git diff --cached --quiet || (git commit -m "🔄 生产线同步：成功从 Geosite 根节点转译最新 Domain-Set" && git push)
