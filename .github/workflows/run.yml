@@ -11,38 +11,77 @@ jobs:
       - name: 📂 检出当前仓库代码
         uses: actions/checkout@v4
 
-      - name: 📥 下载并部署 MetaCubeX/geo 官方原装二进制
-        run: |
-          # 直接拉取官方最新的 Linux-amd64 编译成品，绕过本机 go install 路径坑
-          wget https://github.com/MetaCubeX/geo/releases/latest/download/geo-linux-amd64
-          chmod +x geo-linux-amd64
-          # 将二进制移动到系统全局路径，确保任何地方都能直接调用 "geo" 命令
-          sudo mv geo-linux-amd64 /usr/local/bin/geo
-
       - name: 📥 同步抓取全球最权威的 Geosite 根源码 (v2fly data)
         run: |
           git clone --depth 1 https://github.com/v2fly/domain-list-community.git v2fly_src
 
-      - name: 🧬 工业级熔炼：编译成完备的二进制 dat 并反向揉碎解包
+      - name: 🧼 部署 Python 并执行正统分布式递归编译清洗 (DFS)
+        shell: python
         run: |
-          # 1. 将带 include: 等高级嵌套关系的 data 目录编译展开成完整的单体大包
-          geo dat site -d ./v2fly_src/data -o ./geosite.dat
-          
-          # 2. 原地对二进制包执行高并发反向拆解，释放出纯净的域名集合文件
-          mkdir -p extracted
-          geo unpack site geosite.dat -d extracted/
+          import os
+          import re
 
-      - name: 🧼 提纯并重新归档你需要的 Surge 专属 .txt 域名集
-        run: |
-          # 提取具体应用
-          cp extracted/youtube youtube.txt
-          cp extracted/netflix netflix.txt
-          cp extracted/openai openai.txt
-          cp extracted/telegram telegram.txt
-          
-          # 提取大盘骨干兜底（剩余国外流量大集合与国内流量大集合）
-          cp extracted/geolocation-!cn proxy.txt
-          cp extracted/cn cn.txt
+          SRC_DIR = './v2fly_src/data'
+          OUTPUTS = {
+              'youtube.txt': ['youtube'],
+              'netflix.txt': ['netflix'],
+              'openai.txt': ['openai'],
+              'telegram.txt': ['telegram'],
+              'proxy.txt': ['geolocation-!cn'],
+              'cn.txt': ['cn']
+          }
+
+          def parse_file(file_name, visited=None):
+              if visited is None:
+                  visited = set()
+              
+              # 防止循环嵌套死循环
+              if file_name in visited:
+                  return set()
+              visited.add(file_name)
+
+              domains = set()
+              file_path = os.path.join(SRC_DIR, file_name)
+              if not os.path.exists(file_path):
+                  return domains
+
+              with open(file_path, 'r', encoding='utf-8') as f:
+                  for line in f:
+                      line = line.strip()
+                      # 1. 过滤掉空行和注释行
+                      if not line or line.startswith('#'):
+                          continue
+                      
+                      # 2. 递归处理 include: 嵌套
+                      if line.startswith('include:'):
+                          inc_file = line.split(':')[1].strip()
+                          domains.update(parse_file(inc_file, visited))
+                          continue
+                      
+                      # 3. 过滤掉 Surge 无法识别的 keyword: 和 regex:
+                      if line.startswith('keyword:') or line.startswith('regex:'):
+                          continue
+
+                      # 4. 洗掉 v2fly 特有的各种后置修饰尾缀（例如 @!cn, :@ads 等属性旗标）
+                      # 只保留最纯粹的域名部分
+                      clean_domain = line.split()[0].split(':')[0].strip()
+                      
+                      # 确保符合域名基本特征才录入
+                      if clean_domain and not clean_domain.startswith('@'):
+                          domains.add(clean_domain)
+                          
+              return domains
+
+          # 批量开始组装生产线
+          for target_file, source_files in OUTPUTS.items():
+              final_set = set()
+              for src in source_files:
+                  final_set.update(parse_file(src))
+              
+              # 排序后写入，方便 Git 追踪文本差异
+              with open(target_file, 'w', encoding='utf-8') as out:
+                  out.write('\n'.join(sorted(list(final_set))))
+              print(f"✅ 成功生成完美 Surge Domain-Set: {target_file}, 包含 {len(final_set)} 条唯一域名。")
 
       - name: 🚀 自动推送到你的专属 GitHub 仓库
         run: |
@@ -50,5 +89,5 @@ jobs:
           git config --local user.name "GitHub Actions"
           git add *.txt
           
-          # 只有当文件内容真的有变动时才提交，防止刷无意义的 commit 历史
-          git diff --cached --quiet || (git commit -m "🔄 生产线同步：成功从 Geosite 根节点转译最新 Domain-Set" && git push)
+          # 只有当文件内容真的有变动时才提交
+          git diff --cached --quiet || (git commit -m "🔄 生产线同步：纯 Python 引擎成功转译最新 Domain-Set" && git push)
