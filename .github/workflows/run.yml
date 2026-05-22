@@ -1,4 +1,4 @@
-name: 🔄 Surge Domain-Set 工业级转译车间
+name: 🔄 自动转译rule
 on:
   schedule:
     - cron: "0 21 * * *" # 北京时间每天清晨 5:00 自动触发同步
@@ -27,6 +27,9 @@ jobs:
           
           # 递归追踪生成的深层目录
           git add rule/surge/*.txt
+
+          # TZ="Asia/Shanghai" 确保虚拟机在不同时区下也能精准输出国内时间
+          CURRENT_TIME=$(TZ="Asia/Shanghai" date +"%Y-%m-%d %H:%M")
           
           # 只有当文件内容真的有变动时才提交
-          git diff --cached --quiet || (git commit -m "🔄 生产线同步：解耦版 Python 引擎成功转译最新 Domain-Set" && git push)
+          git diff --cached --quiet || (git commit -m "🔄 Released on ${CURRENT_TIME}" && git push)
