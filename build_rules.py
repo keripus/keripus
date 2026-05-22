@@ -65,7 +65,7 @@ def parse_file(file_name: str, visited: set) -> set:
             continue
         
         # 情况 B：发现 Surge 无法识别的特异性语义，直接跳过
-        if line.startswith('keyword:') or line.startswith('regex:'):
+        if line.startswith('keyword:') or line.startswith('regex:') or line.startswith('regexp:'):
             continue
 
         # 情况 C：标准数据行，送去清洗
