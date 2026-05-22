@@ -2,7 +2,7 @@ name: 🔄 Surge Domain-Set 工业级转译车间
 on:
   schedule:
     - cron: "0 21 * * *" # 北京时间每天清晨 5:00 自动触发同步
-  workflow_dispatch:      # 允许手动一键触发2
+  workflow_dispatch:      # 允许手动一键触发
 
 jobs:
   build_and_unpack:
