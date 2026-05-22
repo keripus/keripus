@@ -297,6 +297,7 @@ kyotobank.co.jp
 lbctrl.com
 lbkrs.com
 lifestyle-tec.ru
+link.com
 longbridge.cloud
 longbridge.com
 longbridge.global
@@ -482,6 +483,10 @@ ssb.msk.ru
 standardchartered.com
 standchartbank.sc.omtrdc.net
 standchartbank.tt.omtrdc.net
+stripe-terminal-local-reader.net
+stripe.com
+stripe.network
+stripecdn.com
 surugabank.co.jp
 t-access.ru
 t-bank-app.ru
