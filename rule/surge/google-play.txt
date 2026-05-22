@@ -5,5 +5,4 @@ play-lh.googleusercontent.com
 play.google.com
 play.googleapis.com
 redirector.c.play.google.com
-regexp
 xn--ngstr-lra8j.com

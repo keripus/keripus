@@ -133,7 +133,6 @@ pplx-res.cloudinary.com
 pplx.ai
 proactivebackend-pa.googleapis.com
 production-openaicom-storage.azureedge.net
-regexp
 robinfrontend-pa.googleapis.com
 servd-anthropic-website.b-cdn.net
 sora.com

@@ -6,7 +6,6 @@ ookla-speedtest-central.hgconair.hgc.com.hk
 ookla.com
 ooklaserver.net
 pingtest.net
-regexp
 speedtest.co
 speedtest.net
 speedtestcustom.com

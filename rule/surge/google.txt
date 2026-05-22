@@ -728,7 +728,6 @@ redirector.gvt1.com
 redirector.offline-maps.gvt1.com
 redirector.snap.gvt1.com
 redirector.xn--ngstr-lra8j.com
-regexp
 registry.google
 revolv.com
 ridepenguin.com

@@ -6,6 +6,5 @@ gog.qtlglb.com
 gogalaxy.gog-statics.com
 menu-static.gog-statics.com
 productcard.gog-statics.com
-regexp
 static-login.gog-statics.com
 www4-static.gog-statics.com

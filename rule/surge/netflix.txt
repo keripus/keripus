@@ -22,4 +22,3 @@ nflximg.net
 nflxsearch.net
 nflxso.net
 nflxvideo.net
-regexp

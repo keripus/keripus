@@ -442,7 +442,6 @@ redhat.org
 redis.io
 redislabs.com
 regex101.com
-regexp
 registry.gitlab.com
 registry.k8s.io
 remirepo.net

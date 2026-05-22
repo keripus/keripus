@@ -137,7 +137,6 @@ nationalgeographicpartners.com
 ngeo.com
 nomadlandmovie.ch
 playmation.com
-regexp
 shopdisney.com
 shops-disney.com
 sorcerersarena.com

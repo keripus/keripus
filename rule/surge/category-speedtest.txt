@@ -17,7 +17,6 @@ open.cachefly.net
 openspeedtest.com
 openspeedtest.ru
 pingtest.net
-regexp
 speed.cloudflare.com
 speed.dler.io
 speed.ee

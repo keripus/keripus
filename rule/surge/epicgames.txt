@@ -20,7 +20,6 @@ quixel.com
 quixel.se
 radgametools.com
 realityscan.com
-regexp
 roborecall.com
 shadowcomplex.com
 sketchfab.com

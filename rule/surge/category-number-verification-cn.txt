@@ -4,4 +4,3 @@ hap.10010.com
 hs.wosms.cn
 id6.me
 opencloud.wostore.cn
-regexp

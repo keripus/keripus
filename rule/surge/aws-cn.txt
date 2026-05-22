@@ -22,6 +22,5 @@ nwcdcloud.cn
 nwcdcloud.com.cn
 nwcddns.cn
 nwcdinfosec.cn
-regexp
 route53.cn
 sagemaker.com.cn

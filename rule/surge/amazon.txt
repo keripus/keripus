@@ -220,7 +220,6 @@ primevideo.info
 primevideo.org
 primevideo.tv
 prod.service.minerva.devices.a2z.com
-regexp
 route53.cn
 sagemaker.com.cn
 seattlespheres.com

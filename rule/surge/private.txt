@@ -115,7 +115,6 @@ oasisauth.h3c.com
 peiluyou.com
 phicomm.me
 plex.direct
-regexp
 router.asus.com
 router.ctc
 routerlogin.com

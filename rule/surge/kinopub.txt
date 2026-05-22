@@ -8,5 +8,4 @@ kinopub.online
 kpdl.link
 mos-gorsud.co
 pushbr.com
-regexp
 smarttvcdn.online

@@ -1,5 +1,4 @@
 livestream.com
-regexp
 vhx.tv
 vhxqa1.com
 vhxqa2.com

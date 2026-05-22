@@ -22,7 +22,6 @@ nowe.hk
 pccw.com
 pccwglobal.com
 pccwsolutions.com
-regexp
 theclub.com.hk
 uhub.com
 viu.com

@@ -3,4 +3,3 @@ hotstar-labs.com
 hotstar.com
 hotstarext.com
 hsprepack.akamaized.net
-regexp
