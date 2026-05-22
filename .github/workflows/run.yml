@@ -2,7 +2,7 @@ name: 🔄 Surge Domain-Set 工业级转译车间
 on:
   schedule:
     - cron: "0 21 * * *" # 北京时间每天清晨 5:00 自动触发同步
-  workflow_dispatch:      # 允许你在网页端随时随地点击按钮手动生产
+  workflow_dispatch:      # 允许手动一键触发
 
 jobs:
   build_and_unpack:
@@ -11,15 +11,13 @@ jobs:
       - name: 📂 检出当前仓库代码
         uses: actions/checkout@v4
 
-      - name: 🐹 部署原生 Go 语言环境
-        uses: actions/setup-go@v5
-        with:
-          go-version: 'stable'
-
-      - name: 🛠️ 编译安装最新的 MetaCubeX/geo 核心转换器
+      - name: 📥 下载并部署 MetaCubeX/geo 官方原装二进制
         run: |
-          go install github.com/MetaCubeX/geo@latest
-          echo "$(go env GOPATH)/bin" >> $GITHUB_PATH
+          # 直接拉取官方最新的 Linux-amd64 编译成品，绕过本机 go install 路径坑
+          wget https://github.com/MetaCubeX/geo/releases/latest/download/geo-linux-amd64
+          chmod +x geo-linux-amd64
+          # 将二进制移动到系统全局路径，确保任何地方都能直接调用 "geo" 命令
+          sudo mv geo-linux-amd64 /usr/local/bin/geo
 
       - name: 📥 同步抓取全球最权威的 Geosite 根源码 (v2fly data)
         run: |
@@ -36,7 +34,7 @@ jobs:
 
       - name: 🧼 提纯并重新归档你需要的 Surge 专属 .txt 域名集
         run: |
-          # 提取具体应用 (如果你以后还需要别的大厂，可以在这里继续加 cp 命令)
+          # 提取具体应用
           cp extracted/youtube youtube.txt
           cp extracted/netflix netflix.txt
           cp extracted/openai openai.txt
