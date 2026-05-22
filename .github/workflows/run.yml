@@ -2,7 +2,7 @@ name: 🔄 Surge Domain-Set 工业级转译车间
 on:
   schedule:
     - cron: "0 21 * * *" # 北京时间每天清晨 5:00 自动触发同步
-  workflow_dispatch:      # 允许手动一键触发
+  workflow_dispatch:      # 允许手动一键触发2
 
 jobs:
   build_and_unpack:
@@ -15,79 +15,18 @@ jobs:
         run: |
           git clone --depth 1 https://github.com/v2fly/domain-list-community.git v2fly_src
 
-      - name: 🧼 部署 Python 并执行正统分布式递归编译清洗 (DFS)
-        shell: python
+      - name: 🧼 运行根目录下的专属编译清洗脚本
         run: |
-          import os
-          import re
-
-          SRC_DIR = './v2fly_src/data'
-          OUTPUTS = {
-              'youtube.txt': ['youtube'],
-              'netflix.txt': ['netflix'],
-              'openai.txt': ['openai'],
-              'telegram.txt': ['telegram'],
-              'proxy.txt': ['geolocation-!cn'],
-              'cn.txt': ['cn']
-          }
-
-          def parse_file(file_name, visited=None):
-              if visited is None:
-                  visited = set()
-              
-              # 防止循环嵌套死循环
-              if file_name in visited:
-                  return set()
-              visited.add(file_name)
-
-              domains = set()
-              file_path = os.path.join(SRC_DIR, file_name)
-              if not os.path.exists(file_path):
-                  return domains
-
-              with open(file_path, 'r', encoding='utf-8') as f:
-                  for line in f:
-                      line = line.strip()
-                      # 1. 过滤掉空行和注释行
-                      if not line or line.startswith('#'):
-                          continue
-                      
-                      # 2. 递归处理 include: 嵌套
-                      if line.startswith('include:'):
-                          inc_file = line.split(':')[1].strip()
-                          domains.update(parse_file(inc_file, visited))
-                          continue
-                      
-                      # 3. 过滤掉 Surge 无法识别的 keyword: 和 regex:
-                      if line.startswith('keyword:') or line.startswith('regex:'):
-                          continue
-
-                      # 4. 洗掉 v2fly 特有的各种后置修饰尾缀（例如 @!cn, :@ads 等属性旗标）
-                      # 只保留最纯粹的域名部分
-                      clean_domain = line.split()[0].split(':')[0].strip()
-                      
-                      # 确保符合域名基本特征才录入
-                      if clean_domain and not clean_domain.startswith('@'):
-                          domains.add(clean_domain)
-                          
-              return domains
-
-          # 批量开始组装生产线
-          for target_file, source_files in OUTPUTS.items():
-              final_set = set()
-              for src in source_files:
-                  final_set.update(parse_file(src))
-              
-              # 排序后写入，方便 Git 追踪文本差异
-              with open(target_file, 'w', encoding='utf-8') as out:
-                  out.write('\n'.join(sorted(list(final_set))))
-              print(f"✅ 成功生成完美 Surge Domain-Set: {target_file}, 包含 {len(final_set)} 条唯一域名。")
+          # 💡 直接一行命令调用你抽离出来的独立脚本
+          python build_rules.py
 
       - name: 🚀 自动推送到你的专属 GitHub 仓库
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add *.txt
+          
+          # 递归追踪生成的深层目录
+          git add rule/surge/*.txt
           
           # 只有当文件内容真的有变动时才提交
-          git diff --cached --quiet || (git commit -m "🔄 生产线同步：纯 Python 引擎成功转译最新 Domain-Set" && git push)
+          git diff --cached --quiet || (git commit -m "🔄 生产线同步：解耦版 Python 引擎成功转译最新 Domain-Set" && git push)
