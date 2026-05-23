@@ -3,17 +3,6 @@ import os
 SRC_DIR = './v2fly_src/data'
 OUTPUT_DIR = 'rule/surge'
 
-
-def clean_line(line: str) -> str:
-    """
-    步骤 2：单行语法清洗器
-    专门剥离 v2fly 各种高级语法标签（full:, @!cn 等），提炼出 Surge 认识的纯域名
-    """
-    # 砍掉尾部的 @!cn, :@ads 等属性旗标，只拿第一段
-    main_part = line.split()[0].strip()
-
-    return ""
-
 def load_source_file(file_name: str) -> list:
     """
     步骤 3：单文件数据加载器
@@ -35,7 +24,6 @@ def load_source_file(file_name: str) -> list:
         print(f"⚠️ 读取文件失败 {file_name}: {e}")
         
     return valid_lines
-
 
 def parse_file(file_name: str, visited: set) -> set:
     """
@@ -60,18 +48,19 @@ def parse_file(file_name: str, visited: set) -> set:
         if line.startswith('keyword:') or line.startswith('regex:') or line.startswith('regexp:'):
             continue
 
+        # 清洗
+        raw_line = line.split()[0].strip()
+
         # 域名精准匹配（DOMAIN）
-        if line.startswith('full:'):
-            rule_domain = line.replace('full:', '', 1).split(':')[0].split()[0].strip()
+        if raw_line.startswith('full:'):
+            rule_domain = raw_line.replace('full:', '', 1)
             domains.add(rule_domain)
             continue
 
         # 域名泛型匹配（DOMAIN-SUFFIX）
-        rule_domain = line.split()[0].strip()
-        domains.add(f".{rule_domain}") 
+        domains.add(f".{raw_line}") 
             
     return domains
-
 
 def main():
     """
