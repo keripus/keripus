@@ -12,11 +12,6 @@ def clean_line(line: str) -> str:
     # 砍掉尾部的 @!cn, :@ads 等属性旗标，只拿第一段
     main_part = line.split()[0].strip()
 
-    # DOMAIN
-    if main_part.startswith('full:'):
-        rule_domain = main_part.replace('full:', '', 1).split(':')[0].strip()
-        return rule_domain if not rule_domain.startswith('@') else ""
-
     # DOMAIN-SUFFIX
     domain_part = main_part.split(':')[0].strip()
     if domain_part and not domain_part.startswith('@'):
@@ -74,6 +69,12 @@ def parse_file(file_name: str, visited: set) -> set:
         if line.startswith('keyword:') or line.startswith('regex:') or line.startswith('regexp:'):
             continue
 
+        # DOMAIN（域名精准匹配）
+        if line.startswith('full:'):
+            rule_domain = line.replace('full:', '', 1).split(':')[0].strip()
+            rule_domain = line.split()[0].strip()
+            domains.add(rule_domain)
+        
         # 情况 C：标准数据行，送去清洗
         clean_domain = clean_line(line)
         if clean_domain:
