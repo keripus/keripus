@@ -1,3 +1,6 @@
+.cloudflare-dns.com
+.nextdns.io
+.opendns.com
 ada.openbld.net
 adblock.dns.mullvad.net
 all.dns.mullvad.net
@@ -8,7 +11,6 @@ basic.rethinkdns.com
 ca-yyz.doh.sb
 child-noads.joindns4.eu
 child.joindns4.eu
-cloudflare-dns.com
 common.dot.dns.yandex.net
 dandelionsprout.asuscomm.com
 de-ber.doh.sb
@@ -87,12 +89,10 @@ jp.tiarap.org
 kaitain.restena.lu
 kids.ns.nwps.fi
 kr-sel.doh.sb
-nextdns.io
 nl-ams.doh.sb
 noads.joindns4.eu
 odvr.nic.cz
 one.one.one.one
-opendns.com
 ordns.he.net
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca

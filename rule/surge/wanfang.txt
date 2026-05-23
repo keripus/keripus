@@ -1,2 +1,2 @@
-wanfangdata.com.cn
-wf.pub
+.wanfangdata.com.cn
+.wf.pub

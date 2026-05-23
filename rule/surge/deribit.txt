@@ -1,2 +1,2 @@
+.deribit.com
 deribit.cdn.prismic.io
-deribit.com

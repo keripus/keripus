@@ -1,5 +1,5 @@
-dynacw.co.jp
-dynacw.com
-dynacw.com.cn
-dynacw.com.hk
-dynacw.com.tw
+.dynacw.co.jp
+.dynacw.com
+.dynacw.com.cn
+.dynacw.com.hk
+.dynacw.com.tw

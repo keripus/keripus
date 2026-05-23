@@ -1,5 +1,5 @@
-hupun.com
-hupun.com.cn
-kata.com.cn
-newniu.com
-wanliniu.com
+.hupun.com
+.hupun.com.cn
+.kata.com.cn
+.newniu.com
+.wanliniu.com

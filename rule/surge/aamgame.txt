@@ -1,5 +1,5 @@
-aamgame.com
-aamgame.mobi
-aamgame.net
-aamsmart.com
-singworld.net
+.aamgame.com
+.aamgame.mobi
+.aamgame.net
+.aamsmart.com
+.singworld.net

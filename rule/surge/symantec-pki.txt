@@ -1,5 +1,5 @@
-pki.symantec.com
-symauth.com
-symcb.com
-symcd.com
-ws.symantec.com
+.pki.symantec.com
+.symauth.com
+.symcb.com
+.symcd.com
+.ws.symantec.com

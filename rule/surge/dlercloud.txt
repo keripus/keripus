@@ -1,4 +1,4 @@
-dlercloud.com
-dlercloud.me
-dlercloud.org
-dleris.best
+.dlercloud.com
+.dlercloud.me
+.dlercloud.org
+.dleris.best

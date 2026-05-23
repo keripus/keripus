@@ -1,4 +1,4 @@
-rteam.tech
-russiatoday.com
-shop-rt.com
-swentr.site
+.rteam.tech
+.russiatoday.com
+.shop-rt.com
+.swentr.site

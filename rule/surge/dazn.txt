@@ -1,8 +1,8 @@
-dazn-api.com
-dazn.com
-dazndn.com
-daznfeeds.com
-daznplayer.com
-daznservices.com
-indazn.com
-indaznlab.com
+.dazn-api.com
+.dazn.com
+.dazndn.com
+.daznfeeds.com
+.daznplayer.com
+.daznservices.com
+.indazn.com
+.indaznlab.com

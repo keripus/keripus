@@ -1,4 +1,4 @@
-android
-android.com
+.android
+.android.com
+.androidify.com
 android.googlesource.com
-androidify.com

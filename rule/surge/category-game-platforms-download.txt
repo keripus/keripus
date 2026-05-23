@@ -1,3 +1,5 @@
+.domain:dl.playstation.net
+.egdownload.fastly-edge.com
 akamai.cdn.steampipe.steamcontent.com
 alibaba.cdn.steampipe.steamcontent.com
 ares.secure.dyn.riotcdn.net
@@ -426,7 +428,6 @@ cloudflare.epicgamescdn.com
 content.cdp.bethesda.net
 dl.delivery.mp.microsoft.com
 dl.steam.clngaa.com
-domain
 download.cdp.bethesda.net
 download.epicgames.com
 download2.epicgames.com
@@ -434,7 +435,6 @@ download3.epicgames.com
 download4.epicgames.com
 dyn.riotcdn.net
 edge.steam-dns.top.comcast.net
-egdownload.fastly-edge.com
 epicgames-download1-1251447533.file.myqcloud.com
 epicgames-download1.akamaized.net
 eu.cdn.blizzard.com

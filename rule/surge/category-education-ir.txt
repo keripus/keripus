@@ -1,7 +1,7 @@
-done.ir
-faradars.org
-git.ir
-iranlms.org
-learnby.ir
-toplearn.com
-webinarplus.online
+.done.ir
+.faradars.org
+.git.ir
+.iranlms.org
+.learnby.ir
+.toplearn.com
+.webinarplus.online

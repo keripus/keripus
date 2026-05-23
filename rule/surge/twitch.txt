@@ -1,3 +1,11 @@
+.ext-twitch.tv
+.jtvnw.net
+.live-video.net
+.ttvnw.net
+.twitch.tv
+.twitchcdn.net
+.twitchcon.com
+.twitchsvc.net
 d1g1f25tn8m2e6.cloudfront.net
 d1m7jfoe9zdc1j.cloudfront.net
 d1mhjrowxxagfy.cloudfront.net
@@ -24,11 +32,3 @@ dgeft87wbj63p.cloudfront.net
 dqrpb9wgowsf5.cloudfront.net
 ds0h3roq6wcgc.cloudfront.net
 dykkng5hnh52u.cloudfront.net
-ext-twitch.tv
-jtvnw.net
-live-video.net
-ttvnw.net
-twitch.tv
-twitchcdn.net
-twitchcon.com
-twitchsvc.net

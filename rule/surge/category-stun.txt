@@ -1,5 +1,5 @@
+.metered.live
 iphone-stun.strato-iphone.de
-metered.live
 numb.viagenie.ca
 relay.webwormhole.io
 s1.taraba.net

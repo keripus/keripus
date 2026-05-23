@@ -1,4 +1,4 @@
-account.xiaomi.com
-cn-ha.mqtt.io.mi.com
-ha.api.io.mi.com
-miot-spec.org
+.account.xiaomi.com
+.cn-ha.mqtt.io.mi.com
+.ha.api.io.mi.com
+.miot-spec.org

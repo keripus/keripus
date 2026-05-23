@@ -1,2 +1,2 @@
-waa.tw
-watchout.tw
+.waa.tw
+.watchout.tw

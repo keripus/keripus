@@ -1,3 +1,3 @@
-b2c-digest.ru
-t2.ru
-tele2.ru
+.b2c-digest.ru
+.t2.ru
+.tele2.ru

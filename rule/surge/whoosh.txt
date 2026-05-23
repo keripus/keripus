@@ -1,2 +1,2 @@
-whoosh-bike.ru
-whoosh.bike
+.whoosh-bike.ru
+.whoosh.bike

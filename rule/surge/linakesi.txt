@@ -1,4 +1,4 @@
-heiyu.space
-lazycat.cloud
-linakesi.cn
-linakesi.com
+.heiyu.space
+.lazycat.cloud
+.linakesi.cn
+.linakesi.com

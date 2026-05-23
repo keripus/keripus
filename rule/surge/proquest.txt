@@ -1,2 +1,2 @@
-proquest.com
-serialssolutions.com
+.proquest.com
+.serialssolutions.com

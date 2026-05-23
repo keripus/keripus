@@ -1,2 +1,2 @@
-squirrelgroup.net
-squirrelvpn.com
+.squirrelgroup.net
+.squirrelvpn.com

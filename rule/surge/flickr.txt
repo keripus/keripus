@@ -1,5 +1,5 @@
-flic.kr
-flickr
-flickr.com
-flickr.net
-staticflickr.com
+.flic.kr
+.flickr
+.flickr.com
+.flickr.net
+.staticflickr.com

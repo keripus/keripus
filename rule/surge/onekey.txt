@@ -1,4 +1,4 @@
-onekey-asset.com
-onekey.so
+.onekey-asset.com
+.onekey.so
+.onekeycn.com
 onekey.zendesk.com
-onekeycn.com

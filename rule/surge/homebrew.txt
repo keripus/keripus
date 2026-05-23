@@ -1,2 +1,2 @@
-brew.sh
+.brew.sh
 homebrew.bintray.com

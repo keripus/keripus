@@ -1,4 +1,4 @@
-fsdn.com
-sf.net
-sourceforge.com
-sourceforge.net
+.fsdn.com
+.sf.net
+.sourceforge.com
+.sourceforge.net
