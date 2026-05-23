@@ -11,16 +11,22 @@ def clean_line(line: str) -> str:
     """
     # 砍掉尾部的 @!cn, :@ads 等属性旗标，只拿第一段
     main_part = line.split()[0].strip()
-    
-    # 剥离 full: 前缀
-    if main_part.startswith('full:'):
-        clean_domain = main_part.replace('full:', '', 1).split(':')[0].strip()
-    else:
-        clean_domain = main_part.split(':')[0].strip()
-        
-    # 如果清洗后符合域名基本特征且不是特殊控制符，则返回，否则返回空字符串
-    return clean_domain if not clean_domain.startswith('@') else ""
 
+    # DOMAIN
+    if main_part.startswith('full:'):
+        rule_domain = main_part.replace('full:', '', 1).split(':')[0].strip()
+        return rule_domain if not rule_domain.startswith('@') else ""
+
+    # DOMAIN-SUFFIX
+    domain_part = main_part.split(':')[0].strip()
+    if domain_part and not domain_part.startswith('@'):
+        # 如果上游本身就带点，或者已经有特殊情况，防止重复加点
+        if domain_part.startswith('.'):
+            return domain_part
+        else:
+            return f".{domain_part}"
+
+    return ""
 
 def load_source_file(file_name: str) -> list:
     """
