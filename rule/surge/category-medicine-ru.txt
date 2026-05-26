@@ -1,5 +1,6 @@
 .emias.info
 .emias.ru
+.gorzdrav.spb.ru
 .klinikabudzdorov.ru
 .lk.emias.mos.ru
 .medsi-premium.ru

@@ -321,6 +321,7 @@
 .gogettaxi.org
 .goicq.org
 .gorodpay.ru
+.gorzdrav.spb.ru
 .gosdolgi.ru
 .goskey.ru
 .gosuslugi.ru
@@ -997,6 +998,7 @@
 .tomsk.ru
 .top-fwz1.mail.ru
 .tpension.ru
+.trace-flow.ru
 .tracker-api.my.com
 .tracker.my.com
 .travel-tec.ru
