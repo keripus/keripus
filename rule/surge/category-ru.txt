@@ -251,6 +251,7 @@
 .eligens.com.br
 .eligens.io
 .emias.info
+.emias.mos.ru
 .emias.ru
 .enterly.ru
 .envybox.company
@@ -530,7 +531,6 @@
 .lipetsk.ru
 .list.ru
 .litres.ru
-.lk.emias.mos.ru
 .log.dzen.ru
 .lovina.app
 .magadan.ru
@@ -593,6 +593,7 @@
 .mobile-icq.com
 .mobileicq.com
 .moex.com
+.mofoms.ru
 .mordovia.ru
 .more.tv
 .mos.ru
@@ -673,6 +674,7 @@
 .okl.lt
 .okolo.app
 .oktech.ru
+.oms.karelia.ru
 .omsk.ru
 .on-media.ru
 .oneme.ru
@@ -768,6 +770,8 @@
 .rencapbank.ru
 .rencredit.ru
 .report-megafon.ru
+.reso-med.com
+.reso-med.ru
 .restnproducts.ru
 .restream-media.net
 .restream.ru
@@ -901,6 +905,7 @@
 .spasibosb.ru
 .spasibosberbank.ru
 .spb.ru
+.spboms.ru
 .sportmail.ru
 .spvb.ru
 .srv-hub.org
@@ -1376,6 +1381,7 @@
 .zenit-card.ru
 .zenit.ru
 .ziraatbank.ru
+.zub.ru
 .zvuk-b2b.com
 .zvuk.com
 1l-hit.mail.ru

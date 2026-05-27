@@ -10,6 +10,7 @@
 .10099.com.cn
 .100bt.com
 .100offer.com
+.100tal.com
 .10jqka.com.cn
 .11183.com.cn
 .11185.cn
@@ -84,6 +85,7 @@
 .1xhh.cn
 .1zhe.com
 .21cn.com
+.21cnjy.com
 .21jingji.com
 .2265.com
 .2288.org
@@ -475,6 +477,7 @@
 .antaq.com
 .anticheatexpert.com
 .antpcdn.com
+.antpedia.com
 .antutu.com
 .antutu.net
 .anxia.com
@@ -482,6 +485,7 @@
 .anywlan.com
 .anzhuo.cn
 .ao-x.ac.cn
+.aoshu.com
 .aotrip.net
 .aoyou.com
 .apabi.com
@@ -602,6 +606,7 @@
 .baydn.com
 .bbbcdns.com
 .bblmw.com
+.bbtnews.com.cn
 .bbtv.cn
 .bce-cdn.cn
 .bce-cdn.com
@@ -809,6 +814,7 @@
 .cf-ns.net
 .cf-ns.site
 .cf-ns.tech
+.cfgw.net.cn
 .cfsc.com.cn
 .cftest5.cn
 .cftest6.cn
@@ -865,10 +871,12 @@
 .chinacache.com
 .chinacache.net
 .chinachugui.com
+.chinadevelopment.com.cn
 .chinadongchu.com
 .chinadsl.net
 .chinaepg.cn
 .chinaexpressair.com
+.chinafix.com
 .chinafph.com
 .chinahr.com
 .chinakaoyan.com
@@ -1154,6 +1162,7 @@
 .cyagen.com
 .cybtc.com
 .cyol.com
+.cyol.net
 .cyts.com
 .cyzone.cn
 .cztv.com
@@ -1253,6 +1262,7 @@
 .diopic.net
 .divoiotcloud.com
 .diyiyou.com
+.diyring.cc
 .dj99.com
 .djdjapp.com
 .dji.com
@@ -1428,6 +1438,9 @@
 .eduad.baidu.com
 .educoder.net
 .eduei.com
+.eduu.com
+.eduuu.com
+.eeo.com.cn
 .eeyy.com
 .eflycloud.com
 .efunds.com.cn
@@ -1462,6 +1475,7 @@
 .ets100.com
 .euads-o.api.leiniao.com
 .everbright.com
+.ewdcloud.com
 .ewww.com.cn
 .excelbbx.net
 .excelhome.net
@@ -1668,6 +1682,7 @@
 .ganjiangvpn.com
 .ganjistatic1.com
 .gaodun.com
+.gaokao.com
 .gaoshouyou.com
 .gaoxiaojob.com
 .gatzs.com.cn
@@ -2455,6 +2470,8 @@
 .keepcdn.com
 .kejet.net
 .kekeniu.com
+.kemen.cn
+.kepuchina.cn
 .kesong.co
 .ketangpai.com
 .kexinshe.com
@@ -2545,6 +2562,9 @@
 .kuqin.com
 .kurogames.com
 .kuwo.cn
+.kuyin123.com
+.kuyinxiu.com
+.kuyinyun.com
 .kuyiso.com
 .kwaicdn.com
 .kwaizt.com
@@ -3402,6 +3422,7 @@
 .schoopia.com
 .scid.cn
 .sciencechina.cn
+.sckg.com
 .sclick.baidu.com
 .scm121.cn
 .scm121.com
@@ -3686,6 +3707,7 @@
 .taipingfund.com.cn
 .tajiduo.com
 .takungpao.com
+.tal.com
 .talk-cloud.net
 .talkingdata.com
 .talkinggame.com
@@ -4201,6 +4223,7 @@
 .xiayx.com
 .xiazaiba.com
 .xiezuocat.com
+.xiguacity.cn
 .xilu.com
 .ximalaya.com
 .xinchacha.com
@@ -4363,6 +4386,7 @@
 .youjiao.com
 .youke.co
 .youku.com
+.youlai.cn
 .youlian.fun
 .youshang.com
 .youxiake.com
@@ -4619,6 +4643,8 @@
 .zuk.com.cn
 .zuowen.com
 .zuowen8.com
+.zuowenjun.com
+.zuowenku.net
 .zuowenwang.net
 .zuoyebang.cc
 .zuoyebang.com
