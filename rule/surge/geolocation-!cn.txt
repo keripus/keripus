@@ -2184,6 +2184,7 @@
 .arcraiders.com
 .area120.com
 .area51.to
+.arena.ai
 .arewereadyyet.com
 .areyoucreditwise.com
 .argo-bdp.com
@@ -23703,10 +23704,12 @@ adobe-dns-4.adobe.com
 adobe-dns.adobe.com
 adobeereg.com
 ads-gate.wildberries.ru
+ads-img.mozilla.org
 ads-integration.rustore.ru
 ads-media.wildberries.ru
 ads.dahlmessenger.com
 ads.icq.com
+ads.mozilla.org
 ads.rustore.ru
 ads.vk.com
 ads.vk.ru
@@ -24215,6 +24218,8 @@ imperial.insendi.com
 inappcheck-cn.itunes-apple.com.akadns.net
 inappcheck-lb.itunes-apple.com.akadns.net
 inappcheck.itunes.apple.com
+incoming-telemetry.thunderbird.net
+incoming.telemetry.mozilla.org
 informer.yandex.ru
 ingest.apple-studies.com
 init-kt.apple.com

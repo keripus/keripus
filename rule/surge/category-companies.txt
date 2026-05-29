@@ -7620,9 +7620,11 @@ adobe-dns-3.adobe.com
 adobe-dns-4.adobe.com
 adobe-dns.adobe.com
 adobeereg.com
+ads-img.mozilla.org
 ads-integration.rustore.ru
 ads.dahlmessenger.com
 ads.icq.com
+ads.mozilla.org
 ads.rustore.ru
 ads.vk.com
 ads.vk.ru
@@ -7987,6 +7989,8 @@ impala-media-production.s3.amazonaws.com
 inappcheck-cn.itunes-apple.com.akadns.net
 inappcheck-lb.itunes-apple.com.akadns.net
 inappcheck.itunes.apple.com
+incoming-telemetry.thunderbird.net
+incoming.telemetry.mozilla.org
 informer.yandex.ru
 ingest.apple-studies.com
 init-kt.apple.com
