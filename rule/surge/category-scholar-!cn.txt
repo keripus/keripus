@@ -215,6 +215,9 @@
 .libsolutions.domains
 .libsolutions.net
 .literatumonline.com
+.liv.ac.uk
+.liverpool.ac.uk
+.livinno.org
 .ma1lib.org
 .mdpi.com
 .medrxiv.org
@@ -235,6 +238,7 @@
 .oecd-ilibrary.org
 .oed.com
 .omscr.com
+.opac-project.eu
 .openreview.net
 .optica.org
 .osapublishing.org

@@ -12809,6 +12809,7 @@
 .litv.tv
 .litvfreepc.akamaized.net
 .liuhefabu.club
+.liv.ac.uk
 .live-video.net
 .live.com
 .live.com.au
@@ -12829,12 +12830,14 @@
 .liveprivates.com
 .liverail.com
 .liverail.tv
+.liverpool.ac.uk
 .livesex.com
 .livesexasian.com
 .livesketchshare.com
 .livestream.com
 .livexxx.me
 .livingyourambition.com
+.livinno.org
 .livrariart.com.br
 .lizardporn.com
 .lizol.co.in
@@ -15862,6 +15865,7 @@
 .ootbstudio.co.kr
 .op.gg
 .op7979.com
+.opac-project.eu
 .opal.google
 .opal.google.com
 .openai.com

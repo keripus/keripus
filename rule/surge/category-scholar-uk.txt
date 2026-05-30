@@ -13,8 +13,12 @@
 .ic.ac.uk
 .imperial.ac.uk
 .imperialbusiness.school
+.liv.ac.uk
+.liverpool.ac.uk
+.livinno.org
 .oed.com
 .omscr.com
+.opac-project.eu
 .oup.com
 .ouplaw.com
 .ox.ac.uk
