@@ -26,3 +26,4 @@ ads.mozilla.org
 incoming-telemetry.thunderbird.net
 incoming.telemetry.mozilla.org
 mdn.mozillademos.org
+mozilla-ohttp.fastly-edge.com
