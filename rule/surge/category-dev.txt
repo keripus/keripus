@@ -155,6 +155,7 @@
 .getbootstrap.com
 .getcomposer.org
 .getfedora.org
+.getpaint.net
 .getzola.org
 .gh.io
 .ghcr.io
@@ -334,6 +335,7 @@
 .packagecloud.io
 .packagist.org
 .packer.io
+.paint.net
 .parse.com
 .pcre.org
 .perl.apache.org
