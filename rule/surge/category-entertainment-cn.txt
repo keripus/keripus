@@ -1,3 +1,4 @@
+.11222.cn
 .13a.com
 .17173.com
 .172mix.com
@@ -48,6 +49,7 @@
 .7k7k.com
 .9game.cn
 .9xgame.com
+.9xsecndns.cn
 .aamgame.com
 .aamgame.mobi
 .aamgame.net
@@ -82,6 +84,9 @@
 .aixifan.com
 .aki-game.com
 .ali213.net
+.aligames.com
+.aliwx.com.cn
+.aliwx.net
 .amemv.cn
 .amemv.com
 .amemv.net
@@ -370,9 +375,12 @@
 .inke.cn
 .inkuai.com
 .inkwai.com
+.ishuqi.com
 .ja.gamersky.com
 .ja1.gamersky.com
 .ja2.gamersky.com
+.jiaoyimao.cn
+.jiaoyimao.com
 .jiuyue919.com
 .jjwxc.net
 .juequling.com
@@ -389,6 +397,7 @@
 .koowo.com
 .ksapisrv.com
 .kskwai.com
+.kspkg.com
 .ktv.com
 .ku6.com
 .ku6cdn.com
@@ -435,6 +444,7 @@
 .letv.com
 .letvcdn.com
 .letvimg.com
+.lingxigames.com
 .lizhi.fm
 .lizhifm.com
 .log-upload.mihoyo.com
@@ -555,12 +565,17 @@
 .shengqugames.com
 .shoutanjjj.com
 .shuhai.com
+.shuqi.com
+.shuqiapi.com
+.shuqiread.com
+.shuqireader.com
 .shyxhy.com
 .singworld.net
 .skydweller.cn
 .sl916.com
 .smgbb.cn
 .soku.com
+.sqreader.com
 .stat.youku.com
 .statis.api.3g.youku.com
 .supercachenet.com
@@ -583,6 +598,7 @@
 .tiancity.com
 .tiancitycdn.com
 .timibase.com
+.tudou.com
 .tuer123.com
 .tuyoo.com
 .u17.com
@@ -662,6 +678,7 @@
 .zhulang.com
 .zhuoyou.com
 .zhuoyuegame.com
+.zimgs.cn
 .zjshulong.com
 .zongheng.com
 ads3-normal-hl.zijieapi.com

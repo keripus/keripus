@@ -41,6 +41,7 @@
 .adv.yandex.com
 .adv.yandex.ru
 .adygeya.ru
+.adygtelecom.com
 .afisha.ru
 .akbars.ru
 .alefbank.com
