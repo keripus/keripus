@@ -337,6 +337,8 @@
 .alivevm.com
 .alivevmax.com
 .alivevue.com
+.allizom.net
+.allizom.org
 .alphassl.com
 .alt-ad.mail.ru
 .altera.co.jp
@@ -1744,6 +1746,7 @@
 .cadoverlay.com
 .cadren.com
 .caice.com
+.calicolabs.com
 .callbackkiller.com
 .callersbane.com
 .cam-duct.com
@@ -1825,6 +1828,7 @@
 .canonproprinters.com
 .canva.com
 .canvastatus.com
+.capitalg.com
 .carbon.com
 .careersatfb.com
 .carrot-mail.io
@@ -2396,6 +2400,7 @@
 .desktopmovies.org
 .destinationbim.com
 .detaliczny.com
+.detodosparatodos.org
 .dev-my.com
 .dev-my.games
 .developer-advisor.com
@@ -2472,6 +2477,7 @@
 .diretv.com
 .discountbeatsbydre-us.com
 .discountbeatsstore.com
+.discovershiretoko.org
 .discreet.com
 .discussionsapple.com
 .diskstation.me
@@ -2621,6 +2627,7 @@
 .ecgapp.net
 .echocdn.com
 .echosign.com
+.ecmascript.org
 .ecotect.com
 .ecotect.net
 .ecscad.com
@@ -2688,6 +2695,7 @@
 .experience-vmware.com
 .exploreintel.com
 .expresswifi.com
+.extendfirefox.com
 .extensions4revit.com
 .extensionworkshop.com
 .extremetube.com
@@ -3053,6 +3061,8 @@
 .firebaseapp.com
 .firebaseio.com
 .firefox.com
+.firefox.hu
+.firefoxtweetmachine.com
 .firefoxusercontent.com
 .firewire.cl
 .firewire.eu
@@ -3103,6 +3113,8 @@
 .fotolia.tv
 .fotolja.com
 .fourthns.systems
+.foxkeh.com
+.foxkeh.jp
 .fpacebook.com
 .fptolia.com
 .fqcebook.com
@@ -3225,11 +3237,14 @@
 .getdirect.tv
 .getdrebeatssale.com
 .getfiddler.com
+.getfirebug.com
+.getpersonas.com
 .getpocket.com
 .getprintersupports.com
 .getws1.com
 .getwsone.com
 .gfacecbook.com
+.gfiber.com
 .gfotolia.com
 .gfx.ms
 .gg.apple.com
@@ -3678,6 +3693,7 @@
 .gvt6.com
 .gvt7.com
 .gvt9.com
+.hackasaurus.org
 .hackerfacebook.com
 .hackfacebook.com
 .hackfacebookid.com
@@ -4374,6 +4390,7 @@
 .interactivebrokers.com.sg
 .interactivebrokers.eu
 .interactivebrokers.ie
+.interforest.org
 .internet.org
 .internet.ru
 .internetdownloadmanager.com
@@ -4521,6 +4538,7 @@
 .ischool.com
 .iskoot.com
 .islamiccenterofnewlondon.com
+.isomorphiclabs.com
 .istent.co.kr
 .istorytell.com
 .it-territory.com
@@ -4529,6 +4547,7 @@
 .itcanwait.com
 .itfromtheinside.com
 .itirex.ru
+.itisatrap.org
 .itnel.com
 .itools.info
 .itun.es
@@ -4726,6 +4745,7 @@
 .latticedata.com
 .launchpad.wang
 .le-direct.tv
+.learningfreedomandtheweb.org
 .leavinghpinc.com
 .leecountytimes.com
 .lerna.ru
@@ -4775,6 +4795,7 @@
 .liverail.tv
 .livesketchshare.com
 .livingyourambition.com
+.lizardwrangler.com
 .llama.com
 .lnstagram-help.com
 .log.dzen.ru
@@ -4953,6 +4974,7 @@
 .me.com
 .mearki.com
 .meccontroller.com
+.mecha-mozilla.org
 .media-amazon.com
 .media-imdb.com
 .mediafiles-cisco.com
@@ -5266,13 +5288,34 @@
 .movidius.net
 .movidius.org
 .movika.com
+.mozaws.net
 .mozgcp.net
+.mozilla-europe.org
+.mozilla-hispano.org
+.mozilla-mexico.org
 .mozilla.ai
 .mozilla.com
 .mozilla.community
+.mozilla.cz
+.mozilla.de
+.mozilla.jp
+.mozilla.lt
 .mozilla.net
 .mozilla.org
+.mozilla.org.uk
+.mozilla.pe
+.mozilla.pt
+.mozilla.ro
+.mozillabd.org
+.mozillademos.org
+.mozillafactory.org
 .mozillafoundation.org
+.mozillaignite.org
+.mozillalabs.com
+.mozillaquebec.org
+.mozillazine.jp
+.mozillians.org
+.mozit.cloud
 .mpgw-my.com
 .mpnevolution.com
 .mr-apple.com.tw
@@ -5630,6 +5673,7 @@
 .onefifteen.net
 .onefifteen.org
 .oneme.ru
+.onemozilla.org
 .onenote.com
 .onenote.net
 .onestore.ms
@@ -5663,6 +5707,7 @@
 .opensourceinsight.dev
 .opensourceinsights.dev
 .openthread.io
+.opentimetable.jp
 .opentranslatorstothings.org
 .openvino.ai
 .openvinotoolkit.org
@@ -5792,6 +5837,7 @@
 .pointtown.com
 .polymer-project.org
 .polymerproject.org
+.popcornjs.org
 .popmechanic.io
 .popmechanic.ru
 .porkbun.com
@@ -5867,6 +5913,7 @@
 .pstatic.net
 .pub.dev
 .publicca.hinet.net
+.publicsuffix.org
 .publishproxy.com
 .pullstring.net
 .pushgrow.io
@@ -6489,6 +6536,7 @@
 .tellmewhygame.com
 .tenbin.ai
 .tenbyfotolia.com
+.tenor.com
 .tensorflow.org
 .tenten.vn
 .terraform.io
@@ -6931,11 +6979,13 @@
 .webex.es
 .webex.fr
 .webhosting.com
+.webmademovies.org
 .webmproject.org
 .webobjects.co.uk
 .webobjects.de
 .webobjects.eu
 .webobjects.net
+.webpass.net
 .webpkgcache.com
 .webrtc.org
 .webtoons.com
@@ -6999,6 +7049,7 @@
 .windowssearch.com
 .windowsuem.com
 .windowsupdate.com
+.wing.com
 .winhec.com
 .winhec.net
 .wink.am

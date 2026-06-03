@@ -4,6 +4,7 @@
 .2mdn-cn.net
 .2mdn.net
 .466453.com
+.abc.xyz
 .adgoogle.net
 .admeld.com
 .admob-cn.com
@@ -137,7 +138,9 @@
 .bumptop.net
 .bumptop.org
 .bumptunes.com
+.calicolabs.com
 .campuslondon.com
+.capitalg.com
 .certificate-transparency.org
 .charlestonroadregistry.com
 .chrome
@@ -222,6 +225,7 @@
 .get.page
 .get.rsvp
 .getbumptop.com
+.gfiber.com
 .ggoogle.com
 .ggpht.cn
 .ggpht.com
@@ -513,6 +517,7 @@
 .gstaticcnapps.cn
 .gsuite.com
 .guge
+.gv.com
 .gvt0.com
 .gvt1-cn.com
 .gvt1.com
@@ -536,6 +541,7 @@
 .idx.dev
 .igoogle.com
 .impermium.com
+.isomorphiclabs.com
 .itasoftware.com
 .j2objc.org
 .jibemobile.com
@@ -661,16 +667,19 @@
 .v8.dev
 .v8project.org
 .velostrata.com
+.verily.com
 .verilylifesciences.com
 .verilystudyhub.com
 .verilystudywatch.com
 .verilystudywatch.org
 .wallet.com
+.waymo.com
 .waze.com
 .web.app
 .web.dev
 .webappfieldguide.com
 .webmproject.org
+.webpass.net
 .webpkgcache.com
 .webrtc.org
 .weltweitwachsen.de
@@ -678,6 +687,7 @@
 .whats.new
 .wide-youtube.l.google.com
 .widevine.com
+.wing.com
 .withgoogle.com
 .withyoutube.com
 .womenwill.com
