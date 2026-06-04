@@ -1,4 +1,5 @@
 .17roco.com
+.97ting.com
 .acimg.cn
 .ad.browser.qq.com
 .ad.qq.com
@@ -107,6 +108,7 @@
 .in.th
 .isdspeed.qq.com
 .ivweb.io
+.kg.qq.com
 .kgimg.com
 .kglink.cn
 .koowo.cn
@@ -144,6 +146,7 @@
 .mszdld.com
 .mszdld.net
 .mtrace.qq.com
+.music.qq.com
 .myapp.com
 .nagcloudcs.com
 .nextstudios.com
@@ -172,6 +175,7 @@
 .qqgameapp.com
 .qqgamedesign.com
 .qqmail.com
+.qqmusic.com
 .qzone.com
 .readnovel.com
 .realcybertron.com
@@ -231,12 +235,14 @@
 .tfogc.com
 .timibase.com
 .tingbook.com
+.tingmall.com
 .tjstats.com
 .tmead.y.qq.com
 .tmeadcomm.y.qq.com
 .tpstelemetry.tencent.com
 .trace.qq.com
 .ugdtimg.com
+.ultimatemusic.cn
 .videoxiaoyouxi.com
 .wcbygame.com
 .wechat.com
@@ -245,6 +251,7 @@
 .wegame.com.cn
 .wegamedeveloper.com
 .wegameplus.com
+.weishi.com
 .weixinbridge.com
 .weiyun.com
 .werepository.com.cn
@@ -264,6 +271,7 @@
 .xs.cn
 .xs8.cn
 .xxsy.net
+.y.qq.com
 .yuewen.com
 .yxdmgame.com
 .yximg.cn

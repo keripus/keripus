@@ -330,6 +330,7 @@
 .9553.com
 .962.net
 .9718.com
+.97ting.com
 .99166.com
 .998.com
 .999d.com
@@ -339,7 +340,6 @@
 .9game.cn
 .9ht.com
 .9xgame.com
-.9xsecndns.cn
 .9xu.com
 .a2z.org.cn
 .a9vg.com
@@ -369,11 +369,8 @@
 .activity-zhendingtech.com
 .acwifi.net
 .acwing.com
-.ad.api.3g.youku.com
-.ad.api.mobile.youku.com
 .ad.cctv.com
-.ad.mobile.youku.com
-.adashx.ut.youku.com
+.ad.tencentmusic.com
 .adbehavior.ximalaya.com
 .adbkwai.com
 .adkwai.com
@@ -390,6 +387,7 @@
 .adse.ximalaya.com
 .adserviceretry.kglink.cn
 .adserviceretry.kugou.com
+.adstats.tencentmusic.com
 .adukwai.com
 .adv-sv-show.focus.cn
 .adv-sv-stat.focus.cn
@@ -529,7 +527,6 @@
 .assp.sohu.com
 .astral-vector.com
 .atianqi.com
-.atm.youku.com
 .aurorapush.cn
 .autohome.com
 .autohome.com.cn
@@ -1420,7 +1417,6 @@
 .dzwww.com
 .e.kuaishou.cn
 .e.kuaishou.com
-.e.stat.ykimg.com
 .e0n.cn
 .eagsen.com
 .easec.com.cn
@@ -1474,7 +1470,6 @@
 .elongstatic.com
 .emarbox.com
 .ems.com.cn
-.ems.youku.com
 .emumax.com
 .enterdesk.com
 .eoeandroid.com
@@ -1833,7 +1828,6 @@
 .guaiku.com
 .guanaitong.com
 .guancha.cn
-.guanggaoad.youku.com
 .guangyacdn.com
 .guangyapan.com
 .guanhaobio.com
@@ -1868,7 +1862,6 @@
 .gzurl.cn
 .gzwanju.com
 .gzyowin.com
-.h-adashx.ut.youku.com
 .h2tcbox.baidu.com
 .h5uc.com
 .hack520.com
@@ -2519,6 +2512,7 @@
 .kf5.com
 .kfc.com.cn
 .kfzimg.com
+.kg.qq.com
 .kgimg.com
 .kglink.cn
 .kidsccshow.com
@@ -2600,9 +2594,9 @@
 .kugouyouth.com
 .kujiale.com
 .kujiang.com
-.kumiao.com
 .kuqin.com
 .kurogames.com
+.kurogames.net
 .kuwo.cn
 .kuyin123.com
 .kuyinxiu.com
@@ -2783,9 +2777,9 @@
 .loupan.com
 .lppz.com
 .lppzimg.com
+.lrts.me
 .ls66.cn
 .lsplayer.com
-.lstat.youku.com
 .lu.com
 .lu.sogou.com
 .lu.sogoucdn.com
@@ -2951,13 +2945,11 @@
 .mlzt.com.cn
 .mmbang.com
 .mmbang.info
-.mmstat.com
 .mndqlib.net
 .mob.com
 .mobads-logs.baidu.com
 .mobads-pre-config.cdn.bcebos.com
 .mobads.baidu.com
-.mobilemsg.youku.com
 .mobsdks.com
 .modelers.cn
 .modex.com.cn
@@ -2975,6 +2967,7 @@
 .mokahr.com
 .moleecel.com
 .monika.love
+.monitor.music.qq.com
 .mooc.cn
 .moocollege.com
 .moonshot.ai
@@ -2995,7 +2988,6 @@
 .ms-bank.cn
 .msanjia.com
 .mscbsc.com
-.msg.youku.com
 .msjyfund.com.cn
 .msmartlife.cn
 .msmartlife.com
@@ -3013,6 +3005,7 @@
 .mumbuy365.com
 .muomou.com
 .music.httpdns.c.163.com
+.music.qq.com
 .muwai.com
 .muyewx.com
 .muzhiwan.com
@@ -3176,7 +3169,6 @@
 .owsgo.com
 .ozonabc.com
 .ozonbigsell.com
-.p-log.ykimg.com
 .p.aty.sohu.com
 .p2cdn.com
 .p2peye.com
@@ -3188,7 +3180,6 @@
 .pan.xunlei.com
 .paopaoche.net
 .papocket.com
-.passport-log.youku.com
 .paydxm.com
 .pb.i.sogou.com
 .pc6.com
@@ -3242,7 +3233,6 @@
 .pkoplink.com
 .pkuh6.cn
 .pkulaw.com
-.pl.youku.com
 .pmphmooc.com
 .podcast.xyz
 .polyv.net
@@ -3370,6 +3360,7 @@
 .qqgameapp.com
 .qqgamedesign.com
 .qqgexingqianming.com
+.qqmusic.com
 .qqrizhi.com
 .qqshuoshuo.com
 .qschou.com
@@ -3411,6 +3402,7 @@
 .renren-inc.com
 .renren.com
 .renrendoc.com
+.report.tencentmusic.com
 .res.hunantv.com
 .resset.com
 .right.com.cn
@@ -3445,7 +3437,6 @@
 .rwkv.cn
 .rwkv.com
 .rzrc114.com
-.s-adashx.ut.youku.com
 .s.360.cn
 .s.so.360.cn
 .s.union.360.cn
@@ -3636,7 +3627,6 @@
 .sohucs.com
 .sojson.com
 .sojump.com
-.soku.com
 .solidot.org
 .somode.com
 .sootoo.com
@@ -3681,11 +3671,10 @@
 .starbaby.cc
 .starbaby.com
 .starworldgames.com
-.stat.youku.com
+.stat.y.qq.com
 .staticfile.net
 .staticfile.org
 .statickksmg.com
-.statis.api.3g.youku.com
 .stcn.com
 .steam302.xyz
 .steampp.net
@@ -3797,6 +3786,7 @@
 .tencent-gcloud.com
 .tencent.design
 .tencentcloud.com
+.tencentmusic.com
 .tencentstart.com
 .tendcloud.com
 .tenxcloud.com
@@ -3861,6 +3851,7 @@
 .timbrd.com
 .timedoo.com
 .timibase.com
+.tingmall.com
 .tingyun.com
 .tipdm.org
 .titanar.com
@@ -3871,6 +3862,8 @@
 .tlgslb.cn
 .tlgslb.com
 .tmcdn.net
+.tmead.y.qq.com
+.tmeadcomm.y.qq.com
 .tmjiasuqi.com
 .tmtpost.com
 .tmtsmartlife.com
@@ -3919,7 +3912,6 @@
 .trustutn.org
 .ttshitu.com
 .ttxsapp.com.cn
-.tudou.com
 .tuer123.com
 .tuicool.com
 .tuiwen.net
@@ -3989,6 +3981,7 @@
 .uiwow.com
 .ule.com
 .ulecdn.com
+.ultimatemusic.cn
 .ultracachenode.com
 .umajor.net
 .ume-trip.cn
@@ -4036,7 +4029,6 @@
 .uzzf.com
 .v5875.com
 .v6-adashx.ut.cainiao.com
-.v6-adashx.ut.youku.com
 .value500.com
 .vamaker.com
 .vancl.com
@@ -4366,6 +4358,7 @@
 .xyzfm.space
 .xyzq.com.cn
 .xzking.com
+.y.qq.com
 .yaduo.com
 .yahui.cc
 .yamibo.com
@@ -4385,6 +4378,7 @@
 .ydsc.com.cn
 .ydsys.cn
 .yebaojiasu.com
+.yebinnet.com
 .yeepay.com
 .yeshen.com
 .yeshj.com
@@ -4431,9 +4425,6 @@
 .yiyouliao.com
 .yizhibo.com
 .yjbys.com
-.yk-ssp.ad.youku.com
-.ykad-data.youku.com
-.ykimg.com
 .yksdks.com
 .ykzq.com
 .yl-scm.com
@@ -4456,7 +4447,6 @@
 .youhua.com
 .youjiao.com
 .youke.co
-.youku.com
 .youlai.cn
 .youlian.fun
 .youshang.com
@@ -4511,6 +4501,7 @@
 .ytoluohan.net
 .ytoluohan.xin
 .ytzq.com
+.yuanbao.tencent.com
 .yuanfudao.com
 .yuanqi.tencent.com
 .yuanshen.com

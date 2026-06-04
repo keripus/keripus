@@ -26,3 +26,6 @@
 .ykad-data.youku.com
 .ykimg.com
 .youku.com
+.youku.tv
+.youkuhonor.com
+.youkuplay.com

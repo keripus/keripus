@@ -79,6 +79,7 @@
 .xinghuo.xfyun.cn
 .xingyeai.com
 .yiyan.baidu.com
+.yuanbao.tencent.com
 .yuanqi.tencent.com
 .z.ai
 .zhiexa.com
