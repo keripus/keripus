@@ -30,6 +30,7 @@
 .analytics.umetrip.com
 .applovin.com
 .applvn.com
+.appsflyersdk.com
 .atom-data.io
 .atrace.chelaile.net.cn
 .beizi.biz
@@ -120,6 +121,7 @@
 .zhugeio.com
 .zxid-api.mobileservice.cn
 .zxid-m.mobileservice.cn
+logs.ads.vungle.com
 pinggai0.caixin.com
 pinggai1.caixin.com
 pinggai2.caixin.com
