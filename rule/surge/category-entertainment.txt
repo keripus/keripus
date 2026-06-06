@@ -1774,6 +1774,7 @@ gog-cdn.akamaized.net
 gog.qtlglb.com
 gogalaxy.gog-statics.com
 hamivideo.hinet.net
+hb.imgix.net
 heads-ak-spotify-com.akamaized.net
 heads4-ak-spotify-com.akamaized.net
 hls-amt.itunes.apple.com
