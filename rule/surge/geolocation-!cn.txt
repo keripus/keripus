@@ -1739,7 +1739,6 @@
 .api-priconne-redive.cygames.jp
 .api.ai
 .api.news
-.api.notion.com
 .apibay.org
 .apigee.com
 .apihub-internal.cn
@@ -11207,7 +11206,6 @@
 .imdb.com
 .imdb.to
 .imessage.tv
-.img.notionusercontent.com
 .imgbb.com
 .imgcrl.org
 .imgix.com
@@ -15491,6 +15489,7 @@
 .noticias-rt.com
 .notimundo.press
 .notion-static.com
+.notion-status.com
 .notion.com
 .notion.new
 .notion.site
@@ -24145,6 +24144,7 @@ cl1.apple.com
 cl2-cdn.origin-apple.com.akadns.net
 cl2-cn.apple.com
 cl2.apple.com
+cl2.apple.com.edgekey.net.globalredir.akadns.net
 cl3-cdn.origin-apple.com.akadns.net
 cl3.apple.com
 cl4-cdn.origin-apple.com.akadns.net
@@ -24411,6 +24411,7 @@ googlevads-cn.com
 gs-loc-cn.apple.com
 gs-loc.apple.com
 gsp10-ssl-cn.ls.apple.com
+gsp11-cn.ls.apple.com
 gsp12-cn.ls.apple.com
 gsp13-cn.ls.apple.com
 gsp4-cn.ls.apple.com
@@ -24453,8 +24454,6 @@ hulu.playback.edge.bamgrid.com
 i.dell.com
 i.jeded.com
 i.pki.goog
-icloud-cdn.icloud.com.akadns.net
-icloud.cdn-apple.com
 images-cn-8.ssl-images-amazon.com
 images-cn.ssl-images-amazon.com
 images-eu.ssl-images-amazon.com
@@ -24639,11 +24638,9 @@ nvidia.tt.omtrdc.net
 o.pki.goog
 o33249.ingest.sentry.io
 o4504926511693824.ingest.sentry.io
-ocsp-lb.apple.com.akadns.net
 ocsp.apple.com
 ocsp.microsoft.com
 ocsp.pki.goog
-ocsp2-lb.apple.com.akadns.net
 ocsp2.apple.com
 oemsoc.download.prss.microsoft.com
 officecdn-microsoft-com.akamaized.net
@@ -24688,7 +24685,6 @@ p19.upd.kaspersky.com
 packages.microsoft.com
 pagead-googlehosted.l.google.com
 pancake.apple.com
-pancake.cdn-apple.com.akadns.net
 paper-attachments.s3.amazonaws.com
 pba0.apple.com
 pchomeonline.com.tw
@@ -24774,7 +24770,6 @@ reklama.mail.ru
 report.ap.yandex-net.ru
 res-1.cdn.office.net
 res.cdn.office.net
-reserve-prime.apple.com
 rink.hockeyapp.net
 roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 roblox-poc.global.ssl.fastly.net
