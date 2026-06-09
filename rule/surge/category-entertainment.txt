@@ -949,6 +949,7 @@
 .nowe.hk
 .noxygames.com
 .nunuyy.cc
+.nxtv.jp
 .odysee.com
 .offworldindustries.com
 .offworldindustries.net
@@ -1377,6 +1378,9 @@
 .ultimaonline.com
 .umamusume.akamaized.net
 .underlords.com
+.unext-info.jp
+.unext.co.jp
+.unext.jp
 .unravel2.com
 .unraveltwo.com
 .unrealengine.com

@@ -104,6 +104,7 @@
 .focus.cn
 .fpb.sohu.com
 .freebuf.com
+.geekbang.org
 .geekpark.net
 .ggoplay.com
 .ggowan.com
@@ -140,6 +141,7 @@
 .imedao.com
 .imp.go.sohu.com
 .inewsweek.cn
+.infoq.cn
 .inte.sogou.com
 .inte.sogoucdn.com
 .ipanda.cn
