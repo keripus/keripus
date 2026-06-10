@@ -1,5 +1,6 @@
 .analog.com
 .arrow.cn
+.avermedia.cn
 .boe.com
 .boe.com.cn
 .bouffalolab.com

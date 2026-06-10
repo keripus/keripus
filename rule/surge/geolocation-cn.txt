@@ -280,6 +280,7 @@
 .6-u.com
 .61.com
 .6655.com
+.66law.cn
 .66wz.com
 .68h5.com
 .6rooms.com
@@ -403,8 +404,11 @@
 .agoraio.cn
 .agoralab.co
 .agrantsem.com
+.ahcaijing.com
+.ahcjw.com
 .ahfda.com
 .ahitv.com
+.ahwang.cn
 .aicdn.com
 .aichaoxing.com
 .aichongzoo.cn
@@ -535,6 +539,7 @@
 .autohome.tel
 .autoimg.cn
 .autoimg.com.cn
+.avermedia.cn
 .avicfund.cn
 .avicsec.com
 .avlyun.com
@@ -595,6 +600,7 @@
 .baltamatica.org.cn
 .bambulab.com
 .bamenzhushou.com
+.bandao.cn
 .bangongziyuan.com
 .bankcomm.cn
 .bankcomm.com
@@ -775,6 +781,8 @@
 .camscanner.com
 .cang.com
 .cankaoxiaoxi.com
+.caocao.com.cn
+.caocaokeji.cn
 .capitalonline.net
 .cardbaobao.com
 .carnoc.com
@@ -827,6 +835,7 @@
 .cf-ns.site
 .cf-ns.tech
 .cfgw.net.cn
+.cfp.cn
 .cfsc.com.cn
 .cftest5.cn
 .cftest6.cn
@@ -918,6 +927,7 @@
 .chinatea.com.cn
 .chinatowercom.cn
 .chinatranslation.net
+.chinaums.com
 .chinaunionpay.com
 .chinaunionpay.com.cn
 .chinaunionpay.net
@@ -1192,6 +1202,7 @@
 .dadajiasu.com
 .dadighost.com
 .daguzhe.com
+.dahe.cn
 .daheapp.com
 .dahebao.cn
 .dajiabao.com
@@ -1865,9 +1876,12 @@
 .gwm.com.cn
 .gxairlines.com
 .gxb.io
+.gxtv.cn
+.gxxmt.com
 .gyzq.com.cn
 .gzcqs.com
 .gzctyiptv.cn
+.gztv.com
 .gzurl.cn
 .gzwanju.com
 .gzyowin.com
@@ -1923,6 +1937,7 @@
 .heavenlywind.cc
 .hecdn.net
 .hefei.cc
+.heimadata.com
 .heisha.net
 .heiyan.com
 .heiyanimg.com
@@ -2079,6 +2094,7 @@
 .huajiao.com
 .huajingsec.com
 .huajinsc.cn
+.hualv.com
 .huangyuhui.net
 .huanleguang.com
 .huanqiu.com
@@ -2132,6 +2148,7 @@
 .hx168.com.cn
 .hxb.com.cn
 .hxfy888.com
+.hxnews.com
 .hxsd.com
 .hxzq.cn
 .hybiome.com
@@ -2237,6 +2254,7 @@
 .infinitynewtab.com
 .infoq.cn
 .inftab.com
+.infzm.com
 .inke.cn
 .inkuai.com
 .inkwai.com
@@ -2268,6 +2286,7 @@
 .irs01.com
 .irsnp.com
 .iscas.ac.cn
+.ishijue.com
 .ishuqi.com
 .istoreos.com
 .isxtv.com
@@ -2521,6 +2540,7 @@
 .kekeniu.com
 .kemen.cn
 .kepuchina.cn
+.keruyun.com
 .kesong.co
 .ketangpai.com
 .kexinshe.com
@@ -2626,6 +2646,7 @@
 .lady8844.com
 .lagou.com
 .lancdn.com
+.landian.news
 .landian.vip
 .landian.xyz
 .landiannews.com
@@ -2725,6 +2746,7 @@
 .lg3000.top
 .lgstatic.com
 .lhzq.com
+.liangtv.cn
 .lianjia.com
 .lianmeng.360.cn
 .lianmishu.com
@@ -2965,6 +2987,7 @@
 .mmbang.com
 .mmbang.info
 .mndqlib.net
+.mnw.cn
 .mob.com
 .mobads-logs.baidu.com
 .mobads-pre-config.cdn.bcebos.com
@@ -3090,6 +3113,7 @@
 .nextvid.net
 .nextworkshop.net
 .nffund.com
+.nfpeople.com
 .nga.cn
 .ngabbs.com
 .ngacn.cc
@@ -3120,6 +3144,7 @@
 .nowcoder.net
 .nowcoder.org
 .nowscore.com
+.npsv6.com
 .nruan.com
 .nsclick.baidu.com
 .nsclickvideo.baidu.com
@@ -3186,6 +3211,7 @@
 .ottcn.com
 .oupeng.com
 .ourdvsss.com
+.ourjiangsu.com
 .ourl.co
 .owsgo.com
 .ozonabc.com
@@ -3285,6 +3311,7 @@
 .pushcfg.com
 .pv.hd.sohu.com
 .pv.sohu.com
+.pwsannong.com
 .py-axa.com
 .qbitai.com
 .qbox.me
@@ -3488,6 +3515,7 @@
 .scctyiptv.cn
 .scdng.com
 .scescdn.cn
+.scgchc.com
 .schoopia.com
 .scid.cn
 .sciencechina.cn
@@ -3499,6 +3527,8 @@
 .scratch5.com
 .scsentry.cn
 .scsjb.cn
+.sctv-tf.com
+.sctv.com
 .sczsxx.com
 .sda.cn
 .sdgdwljt.com
@@ -3568,6 +3598,7 @@
 .shimo.im
 .shimonote.com
 .shinescan.tech
+.shipin520.com
 .shixiseng.com
 .shmetro.com
 .shobserver.com
@@ -3894,6 +3925,7 @@
 .tmtsmartlife.com
 .tmtsmartrun.com
 .tnettms.com
+.to8to.com
 .tobosu.com
 .todesk.cn
 .todesk.com
@@ -3990,6 +4022,7 @@
 .ucnaming.com
 .ucnaming.info
 .ucnaming.net
+.ucppt.com
 .udalogistic.cn
 .udalogistic.com
 .udesk.cn
@@ -4063,6 +4096,8 @@
 .vaptcha.com
 .vaptcha.net
 .variflight.com
+.vcg.com
+.vcgapi.com
 .vcimg.com
 .vdolady.com
 .veryhuo.com
@@ -4318,6 +4353,7 @@
 .xinhuaxmt.com
 .xinlishumeng.com
 .xinmeng.info
+.xinpianchang.com
 .xinrenxinshi.com
 .xinshipu.com
 .xinwuji.com
@@ -4349,6 +4385,7 @@
 .xnpic.com
 .xoyo.com
 .xoyocdn.com
+.xpccdn.com
 .xpgod.com
 .xqfunds.com
 .xsa239.com
@@ -4553,6 +4590,7 @@
 .yunfancdn.com
 .yunify.com
 .yunkanpan.com
+.yunnan.cn
 .yunpan.aliyun.com
 .yunpan.cn
 .yunpan.com
@@ -4630,6 +4668,7 @@
 .zggqzp.com
 .zgjm.org
 .zgjsks.com
+.zgjtb.com
 .zgjx.cn
 .zglxw.com
 .zgsydw.com

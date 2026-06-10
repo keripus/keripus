@@ -172,6 +172,7 @@
 .airbnb.tools
 .airbnb.travel
 .airmax360.com
+.allkeyshop.com
 .appforebay.cn
 .appsonebay.net
 .asebay.com
@@ -225,6 +226,7 @@
 .besztbuy.com
 .betternike.com
 .bextbuy.com
+.bfads.net
 .bidbay.com
 .bidorbuyindia.com
 .bienvenuechezbestbuy.ca
@@ -248,6 +250,7 @@
 .buyitnow.tv
 .buyitnowshop.net
 .buynikechina.com
+.buyservices.com
 .cafr.ca
 .carebay.com
 .cargigileads.com
@@ -304,6 +307,10 @@
 .eachpay.net
 .easynike.com
 .ebahy.com
+.ebates.ca
+.ebates.kr
+.ebates.sg
+.ebatescanada.com
 .ebay-authenticate.net
 .ebay-confirm.com
 .ebay-course.com
@@ -496,10 +503,13 @@
 .ebayworlds.com
 .ebayy.com
 .ebuyer.com
+.ecbsn.com
 .ecimg.tw
 .edisebay.com
 .eebay.com
 .eenike.com
+.eneba.com
+.eneba.games
 .epinions.com
 .etradebook.ru
 .eu-consumer-empowerment.com
@@ -514,6 +524,7 @@
 .farfetch.net
 .farfetch.net.cn
 .fashionnike.com
+.fatwallet.com
 .fflnk.net
 .finenike.com
 .foampositeshoes.com
@@ -538,6 +549,7 @@
 .geeksquadservices.org
 .geeksquadwebroot.org
 .geobasket.ru
+.gg.deals
 .ggsel.com
 .ggsel.net
 .gittigidiyor.net
@@ -689,6 +701,8 @@
 .kijijiraps.ca
 .kijji.ca
 .kijjiji.ca
+.kinguin.net
+.kobo.com
 .ladsp.com
 .letsmoveforabetterworld.com
 .liketwice.com
@@ -997,7 +1011,10 @@
 .rakuten.com
 .rakuten.com.tw
 .rakuten.ne.jp
+.rakuten.tv
 .rakuten.tw
+.rakutenadvertising.com
+.rakutengiftcards.ca
 .rakuya.com.tw
 .rclon.com
 .readmoo.com
@@ -1009,6 +1026,7 @@
 .rimg.com.tw
 .rocketfishproducts.com
 .rocketozon.by
+.rrcbsn.com
 .runnike.com
 .runningnike.com
 .russoutdoor.ru
@@ -1017,6 +1035,7 @@
 .rwbautomation.ru
 .rwbautomation.tech
 .rwbgeo.ru
+.s-bid.rmp.rakuten.com
 .sale-nikeshoes.com
 .shop.app
 .shopadidas.ca
@@ -1097,9 +1116,15 @@
 .unbrandedproducts.com
 .vamo.com
 .vamzakaz.ru
+.vbcdn.com
+.vbcdn.net
 .velberis.ru
 .vendu.com
 .verygoodnike.com
+.viber.co
+.viber.com
+.viber.me
+.viki.com
 .vildberis.ru
 .vsemrabota.ru
 .w-mt.co

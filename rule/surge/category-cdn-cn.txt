@@ -54,6 +54,7 @@
 .mcadn.cn
 .mwcdns.com
 .mwcloudcdn.com
+.npsv6.com
 .oncdp.com
 .ourdvsss.com
 .phpcomposer.com

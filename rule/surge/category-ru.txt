@@ -260,6 +260,18 @@
 .dostaevsky.ru
 .driveawaytaxi.org
 .drobbox.pro
+.drweb-av.de
+.drweb-av.es
+.drweb-av.it
+.drweb-av.pl
+.drweb.by
+.drweb.cn
+.drweb.co.jp
+.drweb.com
+.drweb.fr
+.drweb.kz
+.drweb.ru
+.drweb.uz
 .dzen.ru
 .dzeninfra.ru
 .e.mindbox.ru
@@ -581,6 +593,8 @@
 .lipetsk.ru
 .list.ru
 .litres.ru
+.livejournal.com
+.livejournal.net
 .log.dzen.ru
 .lovina.app
 .magadan.ru

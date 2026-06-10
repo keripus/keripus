@@ -84,6 +84,9 @@
 .devimages-cdn.apple.com
 .devopsassessment.net
 .devstreaming-cdn.apple.com
+.discourse-cdn.com
+.discourse.group
+.discourse.org
 .docker.com
 .docker.io
 .dockerstatic.com
@@ -94,6 +97,7 @@
 .draftjs.org
 .ecr.aws
 .electronjs.org
+.elegantthemes.com
 .elementary.io
 .elixir-lang.org
 .elrepo.org
@@ -161,6 +165,7 @@
 .getzola.org
 .gh.io
 .ghcr.io
+.ghe.com
 .git-scm.com
 .git.io
 .gitbook.com
@@ -208,6 +213,7 @@
 .hex.pm
 .hexdocs.pm
 .hhvm.com
+.hivepress.io
 .hyperscan.io
 .iads.unity3d.com
 .imageglass.org
@@ -291,6 +297,7 @@
 .mongodb.com
 .mongodb.org
 .mono-project.com
+.motopress.com
 .mpv.io
 .msdn.com
 .msinnovationchallenge.com
@@ -487,6 +494,7 @@
 .vfsforgit.org
 .videojs.com
 .videolan.org
+.videopress.com
 .vim.org
 .visualstudio-staging.com
 .visualstudio.co
@@ -498,6 +506,7 @@
 .vscode-cdn.net
 .vscode-unpkg.net
 .vscode.dev
+.w.org
 .wapm.io
 .wasmer.io
 .webflow.com
@@ -506,7 +515,16 @@
 .weblate.org
 .webobjects.com
 .wireshark.org
+.wordcamp.org
+.wordpress.com
+.wordpress.net
+.wordpress.org
+.wordpress.tv
+.wp-themes.com
+.wp.com
 .wpewebkit.org
+.wpmailsmtp.com
+.wpvip.com
 .x.org
 .xamarin.com
 .xfce.org

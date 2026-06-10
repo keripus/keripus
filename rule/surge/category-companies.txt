@@ -3254,6 +3254,7 @@
 .ggpht.com
 .gh.io
 .ghcr.io
+.ghe.com
 .gib-global.com
 .gib.sg
 .gibdev.net
