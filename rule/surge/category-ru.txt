@@ -593,8 +593,6 @@
 .lipetsk.ru
 .list.ru
 .litres.ru
-.livejournal.com
-.livejournal.net
 .log.dzen.ru
 .lovina.app
 .magadan.ru

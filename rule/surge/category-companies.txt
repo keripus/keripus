@@ -56,6 +56,7 @@
 .21vbc.com
 .21vbluecloud.com
 .21vbluecloud.net
+.265.com
 .2beatsdre.com
 .2buybeatsbydre.com
 .2drdrebeats.com
@@ -2120,6 +2121,7 @@
 .cpedge.com
 .cqcorea.com
 .crankplayer.com
+.crashlytics.com
 .createspace.com
 .createwhatsnext.com
 .creativecloud.com
@@ -6741,6 +6743,7 @@
 .uwn.com
 .uwpcommunitytoolkit.com
 .v-has.com
+.v.ps
 .v8.dev
 .v8project.org
 .vagrantcloud.com
@@ -6929,6 +6932,7 @@
 .votolia.com
 .vpro.com
 .vpro.net
+.vps.hosting
 .vred-essentials.com
 .vredessentials.com
 .vredprofessional.com
@@ -7177,6 +7181,16 @@
 .xplr.co
 .xrea.com
 .xscale.com
+.xtom.au
+.xtom.com
+.xtom.de
+.xtom.ee
+.xtom.hk
+.xtom.jp
+.xtom.nl
+.xtom.sg
+.xtom.social
+.xtom.us
 .xtracloud.cn
 .xtracloud.net
 .xuite.net
@@ -7636,7 +7650,6 @@
 .zukunftswerkstatt.de
 1l-hit.mail.ru
 1l-hit.vkplay.ru
-265.com
 2mdn-cn.net
 2mdn.net
 3dns-1.adobe.com
@@ -8586,6 +8599,7 @@ www.destinationurl.com
 www.gstatic.com
 www.microsoft.com
 www.pxcc.com
+www.recaptcha-cn.net
 www.recaptcha.net
 www.support.apple.com
 xp.apple.com

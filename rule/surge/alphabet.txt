@@ -1,6 +1,7 @@
 .0emm.com
 .1e100.net
 .1ucrs.com
+.265.com
 .2mdn-cn.net
 .2mdn.net
 .466453.com
@@ -163,6 +164,7 @@
 .coova.com
 .coova.net
 .coova.org
+.crashlytics.com
 .crossmediapanel.com
 .crr.com
 .cs4hs.com
@@ -880,7 +882,6 @@
 .yt.be
 .ytimg.com
 .zukunftswerkstatt.de
-265.com
 2mdn-cn.net
 2mdn.net
 admob-cn.com
@@ -1111,5 +1112,6 @@ www-googletagmanager.l.google.com
 www.destinationurl.com
 www.gstatic.com
 www.pxcc.com
+www.recaptcha-cn.net
 www.recaptcha.net
 yt3.googleusercontent.com
