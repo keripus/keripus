@@ -1316,7 +1316,6 @@
 .dlgslb.net
 .dlnel.com
 .dlnel.org
-.dlswbr.baidu.com
 .dmall.com
 .dmallcdn.com
 .dmzj.com
@@ -2156,6 +2155,7 @@
 .hxsd.com
 .hxzq.cn
 .hybiome.com
+.hypercachenode.com
 .hytung.cn
 .hzdtv.tv
 .hzman.net
@@ -2948,7 +2948,6 @@
 .mhystatic.com
 .mhyurl.cn
 .miaibox.com
-.miao.baidu.com
 .miaobolive.com
 .miaomiaoz.com
 .miaomiaozhe.com
