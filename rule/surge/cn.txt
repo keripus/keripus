@@ -439,7 +439,6 @@
 .aiyunxiao.com
 .aizhan.com
 .ajzq.com
-.aki-game.com
 .akspeedy.com
 .aldwx.com
 .ali213.net
@@ -454,6 +453,7 @@
 .aliyundrive.cloud
 .aliyundrive.com
 .aliyundrive.net
+.allday.work
 .allflow.cn
 .allhistory.com
 .allyes.com
@@ -782,6 +782,7 @@
 .camcard.com
 .camscanner.com
 .cang.com
+.cangpeng.com
 .cankaoxiaoxi.com
 .caocao.com.cn
 .caocaokeji.cn
@@ -1498,6 +1499,7 @@
 .er07.com
 .erji.net
 .erp.cn
+.erp198.com
 .erp321.cn
 .erp321.com
 .erp321.net
@@ -2636,8 +2638,6 @@
 .kujiale.com
 .kujiang.com
 .kuqin.com
-.kurogames.com
-.kurogames.net
 .kuwo.cn
 .kuyin123.com
 .kuyinxiu.com
@@ -3756,6 +3756,7 @@
 .suningholdings.com
 .sunlife-everbright.com
 .sunlogin.net
+.sunrocks.cn
 .sunrtb.com
 .supercachenet.com
 .supercachenode.com

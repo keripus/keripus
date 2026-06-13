@@ -80,7 +80,6 @@
 .aihst8.com
 .aisee.tv
 .aixifan.com
-.aki-game.com
 .ali213.net
 .aligames.com
 .aliwx.com.cn
@@ -417,8 +416,6 @@
 .kugouvoice.com
 .kugouyouth.com
 .kujiang.com
-.kurogames.com
-.kurogames.net
 .kuwo.cn
 .kuyin123.com
 .kuyinxiu.com
