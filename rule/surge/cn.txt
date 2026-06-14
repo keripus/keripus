@@ -11,6 +11,7 @@
 .100bt.com
 .100offer.com
 .100tal.com
+.100ycdn.com
 .10jqka.com.cn
 .11183.com.cn
 .11185.cn
@@ -60,6 +61,7 @@
 .16q.cn
 .16rd.com
 .17173.com
+.17173cdn.com
 .172mix.com
 .178.com
 .178linux.com
@@ -156,7 +158,10 @@
 .36krcdn.com
 .36krcnd.com
 .37.com
+.37.com.cn
 .3733.com
+.37wan.net
+.37wanimg.com
 .3839.com
 .3839apk.com
 .3839app.com
@@ -278,6 +283,7 @@
 .5wyxi.com
 .5you.com
 .6-u.com
+.6.cn
 .61.com
 .6655.com
 .66law.cn
@@ -791,6 +797,7 @@
 .carnoc.com
 .cb.baidu.com
 .cbern.com.cn
+.cbinews.com
 .cbjq.com
 .cbjs.baidu.com
 .cc-pay.cn
@@ -859,6 +866,7 @@
 .changba.com
 .changdunovel.com
 .changyan.com
+.changyou.com
 .chaojituzi.net
 .chaoxing.cc
 .chaoxing.com
@@ -872,6 +880,7 @@
 .chaziyu.com
 .chdi.com.cn
 .che168.com
+.cheaa.com
 .checkzeit.com
 .chei.com.cn
 .chelaile.net.cn
@@ -926,6 +935,7 @@
 .chinaqw.com
 .chinaso.com
 .chinasspp.com
+.chinastarmarket.cn
 .chinastock.com.cn
 .chinatea.com.cn
 .chinatowercom.cn
@@ -1193,6 +1203,7 @@
 .cwxzx.com
 .cxbiji.com
 .cxmt.com
+.cy.com
 .cyagen.com
 .cybtc.com
 .cyol.com
@@ -1210,6 +1221,7 @@
 .dahe.cn
 .daheapp.com
 .dahebao.cn
+.daikuan.com
 .dajiabao.com
 .dajie.com
 .dajieimg.com
@@ -1355,6 +1367,7 @@
 .doucang.cn
 .doucang.com
 .douding.cn
+.douguo.com
 .douxie.com
 .douyin.com
 .douyinact.com
@@ -1794,7 +1807,8 @@
 .glsc.com.cn
 .glxcc.net
 .gm86.com
-.gmw.com
+.gmdaily.cn
+.gmw.cn
 .gmz88.com
 .gneec.com
 .gneec.com.cn
@@ -1853,6 +1867,7 @@
 .guaiku.com
 .guanaitong.com
 .guancha.cn
+.guangmingdaily.cn
 .guangyacdn.com
 .guangyapan.com
 .guanhaobio.com
@@ -2015,6 +2030,7 @@
 .hnair.com
 .hnbntv.com
 .hndt.com
+.hnol.net
 .hnrcsc.com
 .hntv.tv
 .hnyuyuhui.com
@@ -2244,6 +2260,7 @@
 .imcome.net
 .imcoming.com
 .imedao.com
+.img-space.com
 .img4399.com
 .imgcdc.com
 .imgo.tv
@@ -2296,6 +2313,7 @@
 .ishijue.com
 .ishuqi.com
 .istoreos.com
+.istv.cn
 .isxtv.com
 .it165.net
 .it168.com
@@ -2374,6 +2392,7 @@
 .jindidata.com
 .jingheiot.com
 .jinglingbiaozhu.com
+.jingpt.com
 .jinianbi.com
 .jinjiang.com
 .jinjianghotels.com.cn
@@ -2433,6 +2452,7 @@
 .job5588.com
 .job910.com
 .jobjm.com
+.jobui.com
 .joinpay.com
 .jomocdn.cn
 .jomocdn.net
@@ -2608,6 +2628,7 @@
 .ku6cdn.com
 .ku6img.com
 .kuaaa.com
+.kuaidi.com
 .kuaidi100.com
 .kuaidilab.com
 .kuaiduizuoye.com
@@ -2650,6 +2671,7 @@
 .labycore.cn
 .lady8844.com
 .lagou.com
+.laiyagushi.com
 .lancdn.com
 .landian.news
 .landian.vip
@@ -2657,6 +2679,7 @@
 .landiannews.com
 .langrenclub.com
 .lanhuapp.com
+.lanjinger.com
 .lanosso.com
 .lanrar.com
 .lanzou.com
@@ -2923,7 +2946,7 @@
 .meipian.me
 .meiqia.com
 .meishichina.com
-.meishij.net
+.meishitx.com
 .meitu.com
 .meituan.com
 .meituan.net
@@ -3001,6 +3024,7 @@
 .modex.com.cn
 .moegirl.org
 .moegirl.org.cn
+.moer.cn
 .mofang.com
 .mofazhu.com
 .mogoo.com
@@ -3285,6 +3309,7 @@
 .pkoplink.com
 .pkuh6.cn
 .pkulaw.com
+.playcool.com
 .pmphmooc.com
 .podcast.xyz
 .polyv.net
@@ -3486,7 +3511,6 @@
 .ruguoapp.com
 .ruiwen.com
 .runoob.com
-.runsheng.com
 .ruseer.com
 .rwkv.cn
 .rwkv.com
@@ -3537,7 +3561,9 @@
 .sda.cn
 .sdgdwljt.com
 .sdo.com
+.seasungames.cn
 .seasungames.com
+.seasunwbl.com
 .sec-wiki.com
 .secec.com
 .seclab.online
@@ -3981,6 +4007,8 @@
 .tuiwen.net
 .tujia.com
 .tuniu.com
+.tuniu.net
+.tuniucdn.com
 .tutuapp.com
 .tuwan.com
 .tuwanjun.com
@@ -4104,6 +4132,8 @@
 .vaptcha.com
 .vaptcha.net
 .variflight.com
+.vbdata.cn
+.vcbeat.top
 .vcg.com
 .vcgapi.com
 .vcimg.com
@@ -4124,6 +4154,7 @@
 .vipstatic.com
 .viviv.com
 .vobao.com
+.voc.com.cn
 .vpgame.com
 .vrzwk.cn
 .vrzwk.com
@@ -4363,7 +4394,6 @@
 .xinmeng.info
 .xinpianchang.com
 .xinrenxinshi.com
-.xinshipu.com
 .xinwuji.com
 .xinyan.cn
 .xinyuanfin.com
@@ -4372,6 +4402,7 @@
 .xitong8.com
 .xitu.com
 .xitu.io
+.xiu123.cn
 .xiu8.com
 .xiucai.com
 .xiumi.us
@@ -4512,6 +4543,7 @@
 .yingjiesheng.com
 .yingjiesheng.net
 .yingxiong.com
+.yingyonghui.com
 .yinhang123.net
 .yinxiang.com
 .yinyuetai.com
@@ -4668,6 +4700,7 @@
 .z28j.com
 .zaifan.com
 .zaifan.com.cn
+.zaih.com
 .zaixiankaoshi.com
 .zampda.net
 .zampdsp.com
@@ -4731,6 +4764,7 @@
 .zhenai.com
 .zhfund.com
 .zhibo8.cc
+.zhibo8.com
 .zhichanli.com
 .zhidemai.com
 .zhiding.cn

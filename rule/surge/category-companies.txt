@@ -5519,8 +5519,10 @@
 .nginxconfig.io
 .nheos.com
 .nhncorp.jp
+.nic.ru
 .nicesrv.de
 .nicesshop.net
+.nichost.ru
 .niosii.com
 .niosii.net
 .nomachine.com
@@ -5988,6 +5990,7 @@
 .qwapi.com
 .r.bing.com
 .r.mail.ru
+.r01.ru
 .rabbitcounter.com
 .rabota.by
 .radar.imgsmail.ru
@@ -6023,6 +6026,9 @@
 .redtubepremium.com
 .redzonechannel.com
 .reform-apple.com
+.reg.cloud
+.reg.com
+.reg.ru
 .registeridm.com
 .registry.google
 .relap.mail.ru
@@ -6486,6 +6492,7 @@
 .swcdn.apple.com
 .swdist.apple.com
 .swdownload.apple.com
+.sweb.ru
 .swiss-machining.com
 .swiss-turn.com
 .swscan.apple.com

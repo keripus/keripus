@@ -703,6 +703,8 @@
 .neon.click
 .netmonet.co
 .ngenix.net
+.nic.ru
+.nichost.ru
 .nn.ru
 .noosferabank.ru
 .noticias-rt.com
@@ -827,6 +829,7 @@
 .qms.ru
 .quizlink.ru
 .r.mail.ru
+.r01.ru
 .rabbitcounter.com
 .rabota.by
 .radar.imgsmail.ru
@@ -837,6 +840,9 @@
 .rbcollect.ru
 .rbcredit.ru
 .rbth.com
+.reg.cloud
+.reg.com
+.reg.ru
 .regard.ru
 .relap.mail.ru
 .rencapbank.ru
@@ -1062,6 +1068,7 @@
 .support-uber.com
 .surgut.ru
 .sushiwok.ru
+.sweb.ru
 .swentr.site
 .t-access.ru
 .t-bank-app.ru

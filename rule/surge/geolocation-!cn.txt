@@ -2139,7 +2139,6 @@
 .appmetrica.yango.com
 .approvedusedbmw.com
 .appserviceenvironment.cn
-.appsflayer.com
 .appsmail.ru
 .appsonebay.net
 .appspot.com
@@ -2890,6 +2889,7 @@
 .barrons-conferences.com
 .barrons.com
 .barss1207.pro
+.base.org
 .baselinestudy.com
 .baselinestudy.org
 .basilisk-browser.org
@@ -3548,6 +3548,7 @@
 .bitflyer.com
 .bitflyer.jp
 .bitget.com
+.bitlayer.org
 .bitly.com
 .bitly.is
 .bitmex.com
@@ -3585,6 +3586,7 @@
 .blackstonespoliceservice.com
 .blacktowhite.net
 .blaoshi.cc
+.blast.io
 .blazor.net
 .blender.org
 .blink.org
@@ -4140,11 +4142,14 @@
 .bmwusfactory.com
 .bmwusrideracademy.com
 .bmwvalueservice.com
+.bmwweb.solutions
 .bmwwholesaleconnect.com
 .bmwworld.com
 .bmwworld.net
 .bmwworld.tv
 .bmwzentrum.com
+.bnappweb.black
+.bnbchain.org
 .bnbstatic.com
 .bnef.com
 .bnext.com.tw
@@ -4388,7 +4393,9 @@
 .bs-adreview.com
 .bs-awh.ne.jp
 .bs.yandex.ru
+.bsappapi.cc
 .bsappapi.com
+.bscdnweb.com
 .bsi.ir
 .bsky.app
 .bsky.network
@@ -4929,6 +4936,7 @@
 .cftest8.com
 .cfwives.com
 .ch9.ms
+.chainid.network
 .championshipseriesleague.com
 .change.org
 .chargenow.com
@@ -5511,6 +5519,7 @@
 .coqnu.com
 .corbinfisher.com
 .cordcloud.org
+.coredao.org
 .coreduo.com
 .coreextreme.com
 .corel.com
@@ -6699,6 +6708,7 @@
 .dropboxpartners.com
 .dropboxstatic.com
 .dropboxusercontent.com
+.drpc.org
 .drtuber.com
 .drunk6.com
 .drunkenstepfather.com
@@ -7972,6 +7982,8 @@
 .fansteek.com
 .fantasiasguatemala.com
 .fantasti.cc
+.fantom.foundation
+.fantom.network
 .fantv.hk
 .fap-xxx.com
 .fap18.net
@@ -8160,6 +8172,7 @@
 .fi11.com
 .fi11av1.com
 .fi11tv1.com
+.fiat24.com
 .fibank.bg
 .fic.fan
 .ficador.com
@@ -8304,6 +8317,7 @@
 .fl310.com
 .flagrasamadores.net
 .flameunleashed.com
+.flare.network
 .flaru.com
 .flashtranny.com
 .flatandfuckedmilfs.com
@@ -11826,6 +11840,7 @@
 .irotv301.top
 .irribay.com
 .is.gd
+.isafepal.com
 .isbgpsafeyet.com
 .isca-speech.org
 .ischool.com
@@ -13677,6 +13692,7 @@
 .mega.io
 .mega.nz
 .megacamz.com
+.megaeth.com
 .megafilmporno.com
 .megafon.com
 .megafon.ru
@@ -13717,6 +13733,7 @@
 .meraki.hk
 .merakigo.com
 .meridian.net
+.merkl.xyz
 .meshmixer.com
 .meshmixerforum.com
 .messenger.com
@@ -13734,6 +13751,7 @@
 .metacritic.com
 .metacubex.one
 .metalpha.finance
+.metamask.io
 .metamind.io
 .metaporn.com
 .metart.com
@@ -13750,6 +13768,7 @@
 .metrotoons.com
 .meuhentai.com
 .mewe.com
+.mexc.co
 .mexc.com
 .mexcsensors.com
 .mfg-inspector.com
@@ -15244,6 +15263,7 @@
 .nhk.or.jp
 .nhkworld.jp
 .nhncorp.jp
+.nic.ru
 .niceanimegames.com
 .nicegram.app
 .nicegram.cloud
@@ -15252,6 +15272,7 @@
 .nicesshop.net
 .nichepornsite.com
 .nichepornsites.com
+.nichost.ru
 .nickscipio.com
 .nicky.xxx
 .nico
@@ -15518,6 +15539,7 @@
 .nodeimage.com
 .nodejs.org
 .nodequality.com
+.nodereal.io
 .nodeseek.com
 .nodesource.com
 .noisullifb.com
@@ -15815,6 +15837,7 @@
 .oaiusercontent.com
 .oanencore.com
 .oann.com
+.oasis.io
 .oath.cloud
 .oath.com
 .oauthz.com
@@ -15992,6 +16015,7 @@
 .oneteamconference.com
 .onetrust.com
 .oneworldmanystories.com
+.onfinality.io
 .onindiansex.com
 .oninstagram.com
 .onionshare.org
@@ -17673,6 +17697,7 @@
 .r-project.org
 .r.bing.com
 .r.mail.ru
+.r01.ru
 .r10s.com
 .r10s.jp
 .r18.clickme.net
@@ -17923,6 +17948,9 @@
 .ree007.xyz
 .refah-bank.ir
 .reform-apple.com
+.reg.cloud
+.reg.com
+.reg.ru
 .regex101.com
 .regiongold.com
 .registerhulu.com
@@ -18136,6 +18164,7 @@
 .rsf.org
 .rsg.sc
 .rshb.ru
+.rsk.co
 .rspao.com
 .rsshub.app
 .rssing.com
@@ -18281,6 +18310,7 @@
 .saasexch.cc
 .saasexch.co
 .saasexch.com
+.saasexch.info
 .saasexch.io
 .sabuibo.net
 .sacduc.com
@@ -18290,6 +18320,7 @@
 .safebooru.org
 .safechat.com
 .safeliner.tech
+.safepal.com
 .saffrontech.com
 .sagabank.co.jp
 .sage-observability.tech
@@ -19255,6 +19286,7 @@
 .sokuresu.ai
 .solarcity.com
 .solid.ru
+.solidifi.app
 .solostudioksale.com
 .solutionstation.com
 .solveforx.com
@@ -19669,6 +19701,7 @@
 .steam.tv
 .steamchina.com
 .steamcommunity.com
+.steamconnecttest.com
 .steamcontent.com
 .steamdb.info
 .steamdeck.com
@@ -19900,6 +19933,7 @@
 .swcdn.apple.com
 .swdist.apple.com
 .swdownload.apple.com
+.sweb.ru
 .sweetadult-tube.com
 .sweetandmaxwell.co.uk
 .sweetsext.com
@@ -20017,6 +20051,7 @@
 .tagapie.com.tw
 .tagbank.ru
 .taiav.com
+.taiko.xyz
 .tail-f.com
 .tailf.com
 .tailscale.com
@@ -20403,6 +20438,7 @@
 .thinkquarterly.com
 .thinkwithgoogle.com
 .thirdns.de
+.thirdweb.com
 .thisav.com
 .thisisgame.com
 .thisismoney.co.uk
@@ -22798,6 +22834,7 @@
 .xkontakt18.com
 .xkorean.cam
 .xl-gaytube.com
+.xlayer.tech
 .xlecx.org
 .xlgirls.com
 .xlinkz.to
@@ -25372,3 +25409,5 @@ xz.pphimalayanrt.com
 yangzhi.app
 yt3.googleusercontent.com
 zeenews-fonts.s3.amazonaws.com
+zftksc.cdn-settings.appsflyersdk.com
+zftksc.launches.appsflyersdk.com
