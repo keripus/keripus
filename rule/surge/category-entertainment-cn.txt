@@ -54,6 +54,7 @@
 .71acg.com
 .71acg.net
 .7k7k.com
+.91q.com
 .97ting.com
 .9game.cn
 .9xgame.com
@@ -162,6 +163,7 @@
 .ddmogo.com
 .debugmode.cn
 .diyring.cc
+.dmhmusic.com
 .dmzj.com
 .dobest.com
 .dongdianqiu.com
@@ -310,6 +312,7 @@
 .gouhuo.qq.com
 .gtgres.com
 .guoping123.com
+.gzlzfm.com
 .haidubooks.com
 .haohaowan.net
 .happyhlddz.com
@@ -452,6 +455,7 @@
 .lingxigames.com
 .lizhi.fm
 .lizhifm.com
+.lizhiinc.com
 .log-upload.mihoyo.com
 .log.hunantv.com
 .log.v2.hunantv.com
@@ -461,6 +465,8 @@
 .ludosuperstar.cn
 .ludoworld.net
 .luojilab.com
+.lz310.com
+.lzpipi.com
 .m1905.cn
 .m1905.com
 .mahjongai.net
@@ -499,6 +505,7 @@
 .mszdld.net
 .mtime.cn
 .mtime.com
+.mting.info
 .music.qq.com
 .muwai.com
 .muyewx.com
@@ -573,6 +580,7 @@
 .sgamer.com
 .shengqugames.com
 .shoutanjjj.com
+.showstart.com
 .shuhai.com
 .shuqi.com
 .shuqiapi.com
@@ -591,6 +599,8 @@
 .supercellsupport.cn
 .syxlgame.com
 .tadu.com
+.taihe.com
+.taihemusic.cn
 .taomee.com
 .tcfmglobal.com
 .tencent-gcloud.com
@@ -603,6 +613,7 @@
 .tgbus.com
 .tgpro.top
 .tgprocs.net
+.th-music.com
 .themisweeps.com
 .tiancity.com
 .tiancitycdn.com
@@ -645,6 +656,7 @@
 .woaihuoshan.com
 .wohst8.com
 .wsukwai.com
+.wting.info
 .wtzw.com
 .xhlsgs.com
 .xiaoheihe.cn

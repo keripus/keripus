@@ -4877,6 +4877,7 @@
 .celebgramme.com
 .celebmasta.live
 .celebritygay.com
+.celebritymoviearchive.com
 .celebritynakeds.com
 .celebrityslips.com
 .celebritystorysite.com
@@ -8594,6 +8595,7 @@
 .foxuv.com
 .foxweatherwatch.com
 .fpacebook.com
+.fpo.xxx
 .fptolia.com
 .fqcebook.com
 .fr-beatsbydrestore.com
@@ -8684,6 +8686,8 @@
 .freeviewplus.net.au
 .freewechat.com
 .freeweibo.com
+.freexh.blog
+.freexh.live
 .freexvideos.org
 .freexxx.best
 .freexxx.win
@@ -16704,6 +16708,7 @@
 .pikpakdrive.com
 .pillbeatsblackfridaysale.com
 .pimg.tw
+.pimpbunny.com
 .pin.it
 .pincong.rocks
 .pinduck.com
@@ -17337,6 +17342,7 @@
 .powershellgallery.com
 .powersrv.de
 .powersunitedvr.com
+.powfans.com
 .pp-soc.com
 .pp6.info
 .ppaypal.com
@@ -18632,6 +18638,7 @@
 .seqingx.com
 .sequence.com
 .ser7.cc
+.serakon.com
 .serbiporno.net
 .serialssolutions.com
 .serlucap.lol
@@ -22098,6 +22105,7 @@
 .vscode-unpkg.net
 .vscode.dev
 .vsemrabota.ru
+.vsex.in
 .vsezoo.com
 .vsphere.com
 .vsphere.net
@@ -22797,6 +22805,7 @@
 .xhamster2.com
 .xhamster3.com
 .xhamsterlive.com
+.xhapp.live
 .xhcdn.com
 .xhnews.live
 .xhot.pro
@@ -24259,6 +24268,7 @@ cds.apple.com.akadns.net
 cdsassets.apple.com
 certs-lb.apple.com.akadns.net
 certs.apple.com
+chatscc-hamivideo2.cdn.hinet.net
 checkin.gstatic.com
 chinapower.csis.org
 cisco.evergage.com
@@ -24439,6 +24449,7 @@ ecapi-pchome.cdn.hinet.net
 edge.geo.kaspersky.com
 edu.tinkoff.ru
 education.tbank.ru
+efe8f8a4-abd5-44c9-bf5c-cd217442c52f.t.ssp.hinet.net
 elib.maruzen.co.jp
 emoi-cncdn.bing.com
 epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
@@ -24568,6 +24579,7 @@ himalaya-exchange.zendesk.com
 hl2rcv.adobe.com
 hlrcv.stage.adobe.com
 hls-amt.itunes.apple.com
+hls-hamivideo.cdn.hinet.net
 hls.itunes.apple.com
 holoxx.f5.si
 homebrew.bintray.com
@@ -24950,6 +24962,7 @@ sa78gs.wpc.edgecastcdn.net
 safebrowsing-cache.google.com
 safebrowsing.googleapis.com
 sberpro.vedomosti.ru
+scc-hamivideo.cdn.hinet.net
 scc.ott.hinet.net
 scene7-cdn.dell.com
 scholar.google.ae
@@ -25136,6 +25149,7 @@ swscan.apple.com
 sylvan.apple.com
 sync.itunes.apple.com
 t.mail.ru
+t.ssp.hinet.net
 t21.nikkei.co.jp
 t21ipau.nikkei.co.jp
 tac.googleapis.com
@@ -25269,6 +25283,7 @@ weatherkit.apple.com
 web-analytics.wildberries.ru
 webchannel-alkalimakersuite-pa.clients6.google.com
 weblive-hamivideo.cdn.hinet.net
+weblivea-hamivideo.cdn.hinet.net
 webvodad-hamivideo.cdn.hinet.net
 whiteline.mail.ru
 widgets.stripst.com

@@ -13,6 +13,8 @@
 .hupu.com
 .hupucdn.com
 .ivwen.com
+.ixiaochuan.cn
+.izuiyou.com
 .jike.city
 .jikecdn.com
 .laiyagushi.com
@@ -28,6 +30,7 @@
 .tieba.baidu.com
 .tieba.com
 .vzuu.com
+.xiaochuankeji.cn
 .zhihu-web-analytics.zhihu.com
 .zhihu.com
 .zhimg.com
