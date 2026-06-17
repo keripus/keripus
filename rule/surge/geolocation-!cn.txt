@@ -1776,6 +1776,7 @@
 .appbridge.it
 .appcenter.ms
 .appcloud.com
+.appconsent.io
 .appdomain.cloud
 .appdynamics.co.uk
 .appdynamics.com
@@ -2675,6 +2676,7 @@
 .awwcn.xyz
 .awxcdn.com
 .axbdoll.com.tw
+.axept.io
 .axios.com
 .ayabank.com
 .ayshdade.info
@@ -4848,6 +4850,7 @@
 .cdkworkshop.com
 .cdmatech.com
 .cdn-apple.com
+.cdn-cookieyes.com
 .cdn-telegram.org
 .cdn-terapeak.com
 .cdn-tinkoff.ru
@@ -5485,6 +5488,7 @@
 .conquerwithcharacter.com
 .conscrypt.com
 .conscrypt.org
+.consentmanager.net
 .consentpro.com
 .constructware.com
 .consul.io
@@ -5495,9 +5499,11 @@
 .contentful.com
 .contest.com
 .convrgencegame.com
+.cookiebot.com
 .cookiechoices.org
 .cookielaw.org
 .cookiepro.com
+.cookieyes.com
 .cool-comics.com
 .cool18.com
 .cool3c.com
@@ -6611,7 +6617,6 @@
 .dowjones.com
 .dowjones.io
 .dowjoneson.com
-.download-cdn.jetbrains.com.cn
 .download.com
 .download.windowsupdate.com
 .downloadpass.com
@@ -12168,6 +12173,7 @@
 .jetbrains.ai
 .jetbrains.cloud
 .jetbrains.com
+.jetbrains.com.cn
 .jetbrains.net
 .jetbrains.space
 .jetbrains.team
@@ -18353,6 +18359,7 @@
 .samokat.ru
 .samsung
 .samsung.com
+.samsungadhub.com
 .samsungads.com
 .samsungapps.com
 .samsungcloud.com
@@ -19854,7 +19861,6 @@
 .supanimegames.com
 .superadultgames.com
 .supercell.com
-.supercell.helpshift.com
 .supercell.net
 .supercellcreators.com
 .supercellgames.com
@@ -20233,6 +20239,7 @@
 .teraperk.com
 .terk.nl
 .termius.com
+.termly.io
 .termux.com
 .termux.dev
 .termux.org
@@ -20778,6 +20785,7 @@
 .trunest.com
 .trust-provider.cn
 .trust-provider.com
+.trustarc.com
 .trustcenter.cn
 .trustcor.ca
 .trustcor.com
@@ -25132,6 +25140,8 @@ storeedgefd.dsx.mp.microsoft.com
 straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 streamingaudio.itunes.apple.com
 su.itunes.apple.com
+supercell.helpshift.com
+supercell.zendesk.com
 support-china.apple-support.akadns.net
 support.apple.com
 supportassist.dell.com
