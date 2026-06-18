@@ -63,7 +63,9 @@
 .popcornjs.org
 .publicsuffix.org
 .seamonkey-project.org
+.tb.pro
 .thunderbird.net
+.thundermail.com
 .webmademovies.org
 ads-img.mozilla.org
 ads.mozilla.org

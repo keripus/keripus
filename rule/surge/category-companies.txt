@@ -3353,6 +3353,7 @@
 .gobuyonlinestore.net
 .godaddy
 .godaddy.com
+.godaddy.net
 .godoc.org
 .gofile.me
 .gogettaxi.org
@@ -6528,6 +6529,7 @@
 .taxiaid.org
 .taxiguru.org
 .taxitax.org
+.tb.pro
 .teamviewer.cn
 .teamviewer.com
 .teamviewer.us
@@ -6593,6 +6595,7 @@
 .thumbzilla.com
 .thunderbird.net
 .thunderbolttechnology.net
+.thundermail.com
 .tiltbrush.com
 .timefxapp.com
 .timelinestoryteller.com
@@ -7094,6 +7097,7 @@
 .worldsecureemail.com
 .worldsecuresystems.com
 .worldsfastestgamer.net
+.wsimg.com
 .wuxiapple.com
 .wwapple.net
 .wwtbam.com

@@ -6213,6 +6213,7 @@
 .dewitwithdurex.com
 .dexterhorn.com
 .dezyred.com
+.dfvpn.com
 .dgaqp.com
 .dgg.gg
 .dgwav.com
@@ -8909,6 +8910,7 @@
 .gamesstack.com
 .gametap.com
 .gameuxmasterguide.com
+.gamewtb.com
 .gaming-notebooks.com
 .gandhara.ru
 .gandi.net
@@ -9369,6 +9371,7 @@
 .gockhuatviet.com
 .godaddy
 .godaddy.com
+.godaddy.net
 .godbolt.org
 .godoc.org
 .goduckgo.com
@@ -20125,6 +20128,7 @@
 .taylorandfrancis.com
 .taylorfrancis.com
 .tb-esim.ru
+.tb.pro
 .tbank-online.com
 .tbank.ru
 .tbib.org
@@ -20495,6 +20499,7 @@
 .thumbzilla.com
 .thunderbird.net
 .thunderbolttechnology.net
+.thundermail.com
 .thz7.net
 .thzu.cc
 .tiandixing.org
@@ -22648,6 +22653,7 @@
 .ws-blau.com
 .ws-tcg.com
 .ws.symantec.com
+.wsimg.com
 .wsj.com
 .wsj.jobs
 .wsj.net
