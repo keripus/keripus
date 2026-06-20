@@ -1781,10 +1781,9 @@ flightsimulator.azureedge.net
 gamedownloads-rockstargames-com.akamaized.net
 gamer-cds.cdn.hinet.net
 gamer2-cds.cdn.hinet.net
-gog-cdn-fastly.gog.com
+gog-cdn-lumen.secure2.footprint.net
 gog-cdn.akamaized.net
 gog.qtlglb.com
-gogalaxy.gog-statics.com
 hamivideo.hinet.net
 hb.imgix.net
 heads-ak-spotify-com.akamaized.net
@@ -1805,7 +1804,6 @@ lolstatic-a.akamaihd.net
 lv.queniujq.cn
 m1.ppy.sh
 media-rockstargames-com.akamaized.net
-menu-static.gog-statics.com
 mobilelive-hamivideo.cdn.hinet.net
 msh.amazon.co.uk
 netflix.com.edgesuite.net
@@ -1826,7 +1824,6 @@ p16-tiktokcdn-com.akamaized.net
 play-edge.itunes.apple.com
 prd-priconne-redive.akamaized.net
 prodforza.blob.core.windows.net
-productcard.gog-statics.com
 pubg1.battleye.com
 pvr-hamivideo.cdn.hinet.net
 roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
@@ -1846,7 +1843,6 @@ spotify.map.fastly.net
 spotify.map.fastlylb.net
 ssl-lvlt.cdn.ea.com
 static-hamivideo.cdn.hinet.net
-static-login.gog-statics.com
 static.siege-amazon.com
 steambroadcast.akamaized.net
 steamcdn-a.akamaihd.net
@@ -1907,6 +1903,5 @@ weblive-hamivideo.cdn.hinet.net
 weblivea-hamivideo.cdn.hinet.net
 webvodad-hamivideo.cdn.hinet.net
 ws.audioscrobbler.com
-www4-static.gog-statics.com
 xz.pphimalayanrt.com
 yt3.googleusercontent.com

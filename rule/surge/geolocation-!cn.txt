@@ -24530,10 +24530,9 @@ github-production-repository-image-32fea6.s3.amazonaws.com
 github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
 github-production-user-asset-6210df.s3.amazonaws.com
 gitlab-assets.oss-cn-hongkong.aliyuncs.com
-gog-cdn-fastly.gog.com
+gog-cdn-lumen.secure2.footprint.net
 gog-cdn.akamaized.net
 gog.qtlglb.com
-gogalaxy.gog-statics.com
 gonglchuangl.net
 gongyichuangyi.net
 google-analytics-cn.com
@@ -24707,7 +24706,6 @@ mdn.mozillademos.org
 mdr.ksn.kaspersky-labs.com
 media-rockstargames-com.akamaized.net
 medone-education.thieme.com
-menu-static.gog-statics.com
 mesu-cdn.apple.com.akadns.net
 mesu-china.apple.com.akadns.net
 mesu.apple.com
@@ -24864,7 +24862,6 @@ prod-databe.floonet.goog
 prod-support.apple-support.akadns.net
 prod.databe.floonet.goog
 prodforza.blob.core.windows.net
-productcard.gog-statics.com
 production-openaicom-storage.azureedge.net
 productionresultssa0.blob.core.windows.net
 productionresultssa1.blob.core.windows.net
@@ -25108,7 +25105,6 @@ staging.databe.floonet.goog
 standchartbank.sc.omtrdc.net
 standchartbank.tt.omtrdc.net
 static-hamivideo.cdn.hinet.net
-static-login.gog-statics.com
 static.gc.apple.com
 static.siege-amazon.com
 statics-marketingsites-eas-ms-com.akamaized.net
@@ -25425,7 +25421,6 @@ www.quora.com.cdn.cloudflare.net
 www.recaptcha-cn.net
 www.recaptcha.net
 www.support.apple.com
-www4-static.gog-statics.com
 xapi.ozon.by
 xapi.ozon.com
 xapi.ozon.com.by
