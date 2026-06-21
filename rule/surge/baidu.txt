@@ -45,6 +45,7 @@
 .cbjs.baidu.com
 .chuanke.com
 .cm.baidu.com
+.combofin.com
 .cpro.baidu.com
 .cpro.baidustatic.com
 .cpu.baidu.com
@@ -61,10 +62,12 @@
 .duxiaoman-int.com
 .duxiaoman.com
 .duxiaomanfintech.com
+.duxiaomanfund.com
 .duxiaomantech.com
 .dwz.cn
 .dxm-cdn.com
 .dxm-int.com
+.dxmbaoxian.com
 .dxmjinr.com
 .dxmlcf.com
 .dxmlcfintech.com

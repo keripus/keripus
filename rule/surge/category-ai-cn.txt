@@ -35,6 +35,7 @@
 .doubaocdn.com
 .dui.ai
 .duiopen.com
+.dumate.cn
 .faxingbao.com
 .hailuoai.com
 .hi-butterfly.cn
@@ -47,9 +48,11 @@
 .liblib.tv
 .linka2a.net
 .maoxiangai.com
+.mcpworld.com
 .meta.law
 .metaso.cn
 .miaibox.com
+.miaoda.cn
 .miaoyanai.com
 .minimaxi.com
 .moonshot.ai

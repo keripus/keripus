@@ -13,4 +13,5 @@
 .ctexcel.com.hk
 .ctexcel.fr
 .ctexcel.us
+.dlife.cn
 .vnet.cn
