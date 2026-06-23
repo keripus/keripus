@@ -3,6 +3,7 @@
 .acpica.com
 .adaptivecards.io
 .adventofcode.com
+.almalinux.org
 .alpinelinux.org
 .amp.dev
 .ampproject.com
@@ -47,6 +48,7 @@
 .buck.build
 .buckbuild.com
 .bugsnag.com
+.busybox.net
 .calendarserver.org
 .canonical.com
 .carekit.org
@@ -177,6 +179,7 @@
 .gitgud.io
 .github.ai
 .github.blog
+.github.career
 .github.com
 .github.community
 .github.dev
@@ -273,6 +276,7 @@
 .macruby.net
 .macruby.org
 .makeitopen.com
+.manjaro.org
 .mariadb.org
 .mate-desktop.org
 .mathoverflow.net
@@ -415,6 +419,7 @@
 .rocksdb.com
 .rocksdb.net
 .rocksdb.org
+.rockylinux.org
 .rpmfusion.org
 .ruby-lang.org
 .rubygems.org
@@ -513,7 +518,10 @@
 .vsassets.io
 .vscode-cdn.net
 .vscode-unpkg.net
+.vscode-webview.net
 .vscode.dev
+.vscodeedu.app
+.vscodeedu.com
 .w.org
 .wapm.io
 .wasmer.io

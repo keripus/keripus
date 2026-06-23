@@ -723,6 +723,7 @@
 .learnwithleague.com
 .legendofzelda.cn
 .legendofzelda.com.cn
+.lifeatspotify.com
 .linetv.tw
 .litbus-anime.com
 .litv.tv
@@ -1227,6 +1228,7 @@
 .spotifycharts.com
 .spotifycodes.com
 .spotifyforbrands.com
+.spotifyforvendors.com
 .spotifyjobs.com
 .spyjinx.com
 .sqool.net
