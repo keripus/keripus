@@ -24095,6 +24095,7 @@ a4.mzstatic.com
 a4e8s8k3.map2.ssl.hwcdn.net
 a5.mzstatic.com
 abematv.akamaized.net
+account-cn.alibabacloud.com
 activate-sea.adobe.com
 activate-sjc0.adobe.com
 activate.activation-v2.kaspersky.com
@@ -24203,6 +24204,7 @@ api-ru.mindbox.cloud
 api-secure.carrotquest.app
 api-secure.carrottrack.app
 api-staging.mindbox.ru
+api.alibabacloud.com
 api.carrotquest.app
 api.carrotquest.io
 api.carrottrack.app
@@ -24343,6 +24345,7 @@ cloudcode-pa.googleapis.com
 cloudsync-prod.s3.amazonaws.com
 cma.itunes.apple.com
 cn-smp-paymentservices.apple.com
+cn.alibabacloud.com
 cn.download.nvidia.com
 cn.widevine.com
 cn.windowssearch.com
@@ -25156,6 +25159,7 @@ stats.dev.telega.info
 stats.rustore.ru
 stats.telega.info
 stats.vk-portal.net
+status.alibabacloud.com
 steambroadcast.akamaized.net
 steamcdn-a.akamaihd.net
 steamcloudsweden.blob.core.windows.net
