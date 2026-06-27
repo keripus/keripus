@@ -70,7 +70,6 @@
 .acfunchina.cn
 .acfunchina.com
 .acfunchina.net
-.acplay.net
 .activity-wbsj.com
 .activity-zhendingtech.com
 .ad.tencentmusic.com
@@ -158,7 +157,6 @@
 .cy.com
 .da.hunantv.com
 .da.mgtv.com
-.dandanplay.com
 .dataeye.com
 .dc.letv.com
 .ddmogo.com

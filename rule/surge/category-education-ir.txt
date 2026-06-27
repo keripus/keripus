@@ -4,5 +4,7 @@
 .iranlms.org
 .learnby.ir
 .maktabkhooneh.org
+.melotar.com
+.newdars.com
 .toplearn.com
 .webinarplus.online

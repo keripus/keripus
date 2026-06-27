@@ -296,6 +296,7 @@
 .714.com
 .71acg.com
 .71acg.net
+.71shi.net
 .7230.com
 .72byte.com
 .72whys.com
@@ -324,6 +325,7 @@
 .88cdn.com
 .88y.cn
 .8btc.com
+.8m2.net
 .8uri.cn
 .900.la
 .900cha.com
@@ -378,7 +380,6 @@
 .acfunchina.cn
 .acfunchina.com
 .acfunchina.net
-.acplay.net
 .activity-wbsj.com
 .activity-zhendingtech.com
 .acwifi.net
@@ -489,6 +490,7 @@
 .anhuinews.com
 .anhuiyun.com
 .anitabi.cn
+.anixplayer.net
 .anjuke.com
 .anjukestatic.com
 .anlaiye.com
@@ -508,7 +510,6 @@
 .anytocopy.com
 .anywlan.com
 .anzhuo.cn
-.ao-x.ac.cn
 .aocde.com
 .aoshu.com
 .aotrip.net
@@ -649,7 +650,6 @@
 .bdfund.cn
 .bdimg.com
 .bdmozon.com
-.bdmyandex.com
 .bdstatic.com
 .bdtjrcv.com
 .bdu.focus.cn
@@ -993,6 +993,7 @@
 .cicc.com
 .ciccwm.com
 .cidp.com.cn
+.cilisouou.com
 .cindasc.com
 .citibank.com.cn
 .citv.net.cn
@@ -1241,7 +1242,6 @@
 .dalongyun.com
 .dancf.com
 .dandan818.com
-.dandanplay.com
 .dandanvoice.com
 .dangbei.com
 .dangbei.net
@@ -1423,6 +1423,7 @@
 .dui.ai
 .dui88.com
 .duiba.com.cn
+.duifene.com
 .duiopen.com
 .duitang.com
 .duiwai.baidu.com
@@ -1846,6 +1847,7 @@
 .golue.com
 .gongxiangcj.com
 .gongxiangjizhang.com
+.goodq.top
 .goofish.pro
 .goosail.com
 .goproxy.cn
@@ -1896,6 +1898,7 @@
 .guazi.net
 .guazistatic.com
 .gucheng.com
+.gugudata.com
 .guigu.org
 .guodu.com
 .guoguo-app.com
@@ -1962,6 +1965,7 @@
 .haosou.com.cn
 .haosou.net
 .haote.com
+.haowenti.net
 .haoyouyinxiang.com
 .hapjs.org
 .happyhlddz.com
@@ -2373,6 +2377,7 @@
 .jet-ego.com
 .jet-logistics.com
 .jetlogistic.com
+.jfcoop.com
 .jfdaily.com
 .jhwan.com.cn
 .jhzq.com.cn
@@ -2400,6 +2405,7 @@
 .jiemeng8.com
 .jiemian.com
 .jiemian.com.cn
+.jigecili.com
 .jiguang.cn
 .jike.city
 .jikecdn.com
@@ -3033,6 +3039,7 @@
 .miraclevision.com
 .mirrorcast.cn
 .mirrors.yun-idc.com
+.misaka-net.top
 .miusi.co
 .miyatech.com
 .miyoushe.com
@@ -3063,6 +3070,7 @@
 .mojidict.com
 .mokahr.com
 .moleecel.com
+.moliranran.com
 .monika.love
 .monitor.music.qq.com
 .mooc.cn
@@ -3233,6 +3241,7 @@
 .oceancloudapi.com
 .ocfund.cn
 .oeeee.com
+.oend.net
 .offcn.com
 .officese.com
 .ofweek.com
@@ -3343,6 +3352,7 @@
 .pkuh6.cn
 .pkulaw.com
 .playcool.com
+.pljzy.top
 .pmphmooc.com
 .podcast.xyz
 .polyv.net
@@ -3360,13 +3370,13 @@
 .procg.cn
 .programmer.com.cn
 .programmer.net.cn
+.proj101.cn
 .proximabeta.com
 .psbc.com
 .pubghelper.com
 .pubgno1.cn
 .pubgtool.com
 .pubyun.com
-.puddingcat.top
 .puh3.net.cn
 .pupuapi.com
 .pupumall.com
@@ -3442,6 +3452,7 @@
 .qingsongchou.com
 .qingstor.com
 .qingting.fm
+.qingtingai.net
 .qiniu.com
 .qiniucdn.com
 .qiniudn.com
@@ -3495,6 +3506,7 @@
 .quyaoya.com
 .qweather.com
 .qweather.net
+.qweatherapi.com
 .qwen.ai
 .qwenlm.ai
 .qwps.cn
@@ -3936,6 +3948,7 @@
 .tiancity.com
 .tiancitycdn.com
 .tiangong.cn
+.tianhw.top
 .tianjimedia.com
 .tianjin-air.com
 .tianlailive.com
@@ -3985,7 +3998,6 @@
 .tobosu.com
 .todesk.cn
 .todesk.com
-.tokcoder.com
 .tokyotrial.cn
 .tom.com
 .tongdun.net
@@ -4188,6 +4200,7 @@
 .vrzwk.net
 .vrzwk.top
 .vsread.com
+.vtdd.vip
 .vzuu.com
 .wahaha.com.cn
 .waifushangcheng.com
@@ -4331,6 +4344,7 @@
 .wsdvs.com
 .wsglb.com
 .wsglb.net
+.wsjqnmmrmv.world
 .wsoso.com
 .wss.cc
 .wss.email
@@ -4731,6 +4745,7 @@
 .zggbdszt.com.cn
 .zggbdszt.net.cn
 .zggqzp.com
+.zggx100.com
 .zgjm.org
 .zgjsks.com
 .zgjtb.com

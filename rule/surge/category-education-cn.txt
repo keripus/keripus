@@ -41,6 +41,7 @@
 .dearedu.com
 .dgjy.net
 .dict.cn
+.duifene.com
 .edu.cn
 .eduei.com
 .eduu.com
@@ -108,6 +109,7 @@
 .qgzb.com.cn
 .qgzb.gov.cn
 .qgzb.net
+.qingtingai.net
 .rainclassroom.com
 .saduck.top
 .schoopia.com
@@ -146,6 +148,7 @@
 .zbbm.gov.cn
 .zbbm.net
 .zggqzp.com
+.zggx100.com
 .zgjsks.com
 .zgsydw.com
 .zhan.com
