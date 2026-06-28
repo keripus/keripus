@@ -2607,6 +2607,7 @@
 .kimg.cn
 .kimi.com
 .kimiss.com
+.kimxz.com
 .kingdee.com
 .kinghomechina.com
 .kingsoft-office-service.com
@@ -2640,7 +2641,6 @@
 .ks-cdn1.com
 .ks-live.com
 .ksapisrv.com
-.kscord.com
 .kshbank.cn
 .kskwai.com
 .ksmobile.com
