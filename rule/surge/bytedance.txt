@@ -142,6 +142,7 @@
 .byteq5k.com
 .byteq8u.net
 .bytescm.com
+.bytespeech.com
 .bytesslb.net
 .bytetcc.com
 .bytetech.info

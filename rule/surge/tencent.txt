@@ -29,6 +29,7 @@
 .adsview2.qq.com
 .adv.app.qq.com
 .adver.qq.com
+.aireads.cn
 .alloyteam.com
 .anticheatexpert.com
 .apcdns.net
@@ -42,10 +43,19 @@
 .brawlstars.cn
 .btrace.qq.com
 .bugly.qq.com
+.chatdrama.cn
+.chatdrama.net
+.chatqidian.cn
+.chatqidian.net
+.chattext.cn
+.chatwrite.net
+.chatxiaoxiang.com
+.chatyuewen.cn
 .cnb.cool
 .coding.me
 .coding.net
 .codm.com
+.dishu3.com
 .e.qq.com
 .fanxingliveshow.com
 .ffbuddy.com
@@ -112,6 +122,7 @@
 .in.th
 .inte.sogou.com
 .inte.sogoucdn.com
+.iot-tencent.com
 .isdspeed.qq.com
 .ivweb.io
 .kg.qq.com
@@ -287,6 +298,7 @@
 .weishi.com
 .weixin.com
 .weixinbridge.com
+.weixinsxy.com
 .weiyun.com
 .werepository.com.cn
 .wetv.vip
@@ -299,6 +311,7 @@
 .wxcloudrun.com
 .wxgateway.com
 .wxlivecdn.com
+.wxmpurl.cn
 .xiangrikuijianzhan.com
 .xiangrikuisite.com
 .ximalaya.com
@@ -309,6 +322,7 @@
 .xs.cn
 .xs8.cn
 .xxsy.net
+.xxsypro.com
 .y.qq.com
 .yeyousg.com
 .yidianliulan.cn

@@ -3592,6 +3592,7 @@
 .blacksonblondes.com
 .blackstonespoliceservice.com
 .blacktowhite.net
+.blanc.ru
 .blaoshi.cc
 .blast.io
 .blazor.net
@@ -4241,6 +4242,7 @@
 .bossagency.co.uk
 .boswp.com
 .botframework.com
+.botim.me
 .botmechanic.io
 .botorch.org
 .botstop.com
@@ -10475,6 +10477,9 @@
 .horizontal-systems.com
 .horizontalglue.com
 .horizontalsystems.com
+.hornet.com
+.hornetapp.com
+.hornetx.com
 .hornyasianmilfs.com
 .hornybitches.org
 .hornybutt.com
@@ -12980,6 +12985,7 @@
 .listenbrainz.org
 .listinganalytics.net
 .litbus-anime.com
+.litecoin.org
 .literatumonline.com
 .literotica.com
 .littleasians.com
@@ -15137,7 +15143,9 @@
 .netflixtechblog.com
 .netlify.app
 .netlify.com
+.netlifydns.com
 .netlifystatus.com
+.netlifyusercontent.com
 .netlock.hu
 .netname.com.br
 .netpornsex.com
@@ -15654,6 +15662,7 @@
 .ntdtvla.com
 .ntdvideo.tw
 .ntdvn.com
+.ntl.fyi
 .ntnews.com.au
 .ntp-os01.ocn.ad.jp
 .ntp-tk01.ocn.ad.jp
@@ -20192,6 +20201,7 @@
 .technogym.su
 .technologyandsociety.org
 .techradar.com
+.techspot.com
 .techstreet.com
 .techtimes.com
 .techtudo.com
@@ -24105,6 +24115,7 @@ a4e8s8k3.map2.ssl.hwcdn.net
 a5.mzstatic.com
 abematv.akamaized.net
 account-cn.alibabacloud.com
+acd89244c803f7181.awsglobalaccelerator.com
 activate-sea.adobe.com
 activate-sjc0.adobe.com
 activate.activation-v2.kaspersky.com
@@ -24161,6 +24172,7 @@ advert-api.wildberries.ru
 advert-media-api.wb.ru
 advert-media-api.wildberries.ru
 advk.vk.ru
+afa7f374f51cc8991.awsglobalaccelerator.com
 afcs.dell.com
 agency-adv.ozon.ru
 ai.google.dev

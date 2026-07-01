@@ -50,6 +50,7 @@
 .5wyxi.com
 .6.cn
 .61.com
+.66rpg.com
 .6rooms.com
 .71acg.com
 .71acg.net
@@ -142,6 +143,7 @@
 .cdkeynogap.com
 .cdncl.net
 .cgames.com
+.cgyouxi.com
 .changdunovel.com
 .changyou.com
 .chat.top
@@ -513,6 +515,7 @@
 .mysiteres.com
 .nadianshi.com
 .nagcloudcs.com
+.nalrer.cn
 .natfrp.com
 .news.yxrb.net
 .newstjk.com
@@ -524,6 +527,7 @@
 .novelfmstatic.com
 .novelfmvod.com
 .nzsiteres.com
+.open-douyin.com
 .pearvideo.com
 .phira.cn
 .pipi.cn
@@ -683,6 +687,7 @@
 .yeshen.com
 .yingxiong.com
 .yiyouliao.com
+.yjwujian.cn
 .yokaverse.com
 .youba.com
 .youxichaguan.com
@@ -698,6 +703,7 @@
 .yximgs.com
 .yxwsgame.com
 .yy.com
+.yysls.cn
 .yystatic.com
 .yystv.cn
 .yzyxgame.com
