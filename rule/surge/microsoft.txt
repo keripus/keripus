@@ -161,6 +161,7 @@
 .cn.mm.bing.net
 .codethemicrobit.com
 .collector.github.com
+.copilot.com
 .copilot.microsoft.com
 .cortanaanalytics.com
 .cortanaskills.com

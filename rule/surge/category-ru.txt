@@ -337,6 +337,7 @@
 .fon.bet
 .fon.promo
 .forshtadt.ru
+.foto-planeta.com
 .freeassange.tech
 .freede.tech
 .freedert.online
@@ -823,6 +824,8 @@
 .psk.ru
 .pskb.ru
 .pskov.ru
+.ptcloud.ru
+.ptsecurity.com
 .ptz.ru
 .pushgrow.io
 .pvubank.com
@@ -838,6 +841,7 @@
 .radiosputnik.ru
 .raiffeisen-media.ru
 .raiffeisen.ru
+.randomgodbot.com
 .rbcollect.ru
 .rbcredit.ru
 .rbth.com
@@ -1012,6 +1016,8 @@
 .selkombank.ru
 .servercore.com
 .servercore.live
+.servicepipe.ru
+.servicepipe.tech
 .setka.ru
 .sevastopol.ru
 .sferum-dev.ru
@@ -1058,6 +1064,7 @@
 .spvb.ru
 .srv-hub.org
 .ssb.msk.ru
+.standoff365.com
 .start.ru
 .static-storage.net
 .staticmy.com
