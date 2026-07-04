@@ -549,6 +549,7 @@
 .apple-store.cn
 .apple-store.net
 .apple-store.wang
+.apple-studies.com
 .apple-usa.net
 .apple-watch.com.ru
 .apple.ae
@@ -907,6 +908,7 @@
 .atlassian-dev.net
 .atlassian.com
 .atlassian.net
+.atmeta.com
 .atokara.jp
 .atom.io
 .atscaleconference.com
@@ -1162,6 +1164,7 @@
 .aztask.cn
 .azure
 .azure-api.cn
+.azure-api.net
 .azure-apihub.cn
 .azure-automation.cn
 .azure-connectedvehicles-stage.cn
@@ -1225,6 +1228,7 @@
 .azureserviceprofiler.com
 .azuresmartspaces.net
 .azurestackvalidation.com
+.azurestaticapps.net
 .azurewebsites.net
 .b2c-digest.ru
 .b2clogin.cn
@@ -2102,6 +2106,7 @@
 .coova.com
 .coova.net
 .coova.org
+.copilot.cloud.microsoft
 .copilot.com
 .copilot.microsoft.com
 .coreduo.com
@@ -4571,6 +4576,7 @@
 .itunes-apple.cn
 .itunes-apple.com.akadns.net
 .itunes-radio.net
+.itunes.apple.com
 .itunes.ca
 .itunes.co
 .itunes.co.th
@@ -7974,6 +7980,7 @@ ea2cn-prod-outlet.dell.com
 ea2cn-staging-outlet.dell.com
 edge.geo.kaspersky.com
 emoi-cncdn.bing.com
+entitlements-edge.itunes.apple.com
 ereg.adobe.com
 ereg.wip.adobe.com
 ereg.wip1.adobe.com
@@ -8003,6 +8010,7 @@ flightsimulator.azureedge.net
 fontfiles.googleapis.com
 fonts.googleapis.com
 fonts.gstatic.com
+fpinit.itunes.apple.com
 fta.dell.com
 ftaapj.dell.com
 ftaemea.dell.com
@@ -8094,7 +8102,6 @@ inappcheck.itunes.apple.com
 incoming-telemetry.thunderbird.net
 incoming.telemetry.mozilla.org
 informer.yandex.ru
-ingest.apple-studies.com
 init-kt.apple.com
 init-p01md-lb.push-apple.com.akadns.net
 init-p01md.apple.com

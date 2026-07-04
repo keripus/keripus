@@ -17,7 +17,6 @@
 .af
 .afl
 .africa
-.africamagic
 .ag
 .agakhan
 .ai
@@ -90,6 +89,7 @@
 .bharti
 .bi
 .bible
+.bing
 .bingo
 .bj
 .blockbuster

@@ -1579,7 +1579,6 @@
 .amlg.io
 .amodoll.com
 .amourangels.com
-.amp-api.podcast.apple.com
 .amp.dev
 .amplifi.com
 .amplifi.com.cn
@@ -1824,6 +1823,7 @@
 .apple-store.cn
 .apple-store.net
 .apple-store.wang
+.apple-studies.com
 .apple-usa.net
 .apple-watch.com.ru
 .apple.ae
@@ -2324,6 +2324,7 @@
 .atlassian-dev.net
 .atlassian.com
 .atlassian.net
+.atmeta.com
 .atnext.com
 .atokara.jp
 .atom.io
@@ -2722,6 +2723,7 @@
 .aztask.cn
 .azure
 .azure-api.cn
+.azure-api.net
 .azure-apihub.cn
 .azure-automation.cn
 .azure-connectedvehicles-stage.cn
@@ -2786,6 +2788,7 @@
 .azureserviceprofiler.com
 .azuresmartspaces.net
 .azurestackvalidation.com
+.azurestaticapps.net
 .azurewebsites.net
 .b-cdn.net
 .b-eroland.net
@@ -2841,7 +2844,6 @@
 .badvirtue.com
 .baeb.com
 .bag-glasses1.com
-.bag.itunes.apple.com
 .bahamut.akamaized.net
 .bahamut.com.tw
 .bai29.xyz
@@ -4197,7 +4199,6 @@
 .bookbrainz.org
 .bookclubcorner.com
 .bookclubgirl.com
-.bookeeper.itunes.apple.com
 .bookfi.net
 .booking-tec.ru
 .booking.cn
@@ -5527,6 +5528,7 @@
 .coova.com
 .coova.net
 .coova.org
+.copilot.cloud.microsoft
 .copilot.com
 .copilot.microsoft.com
 .copro.pw
@@ -11927,6 +11929,7 @@
 .itunes-apple.cn
 .itunes-apple.com.akadns.net
 .itunes-radio.net
+.itunes.apple.com
 .itunes.ca
 .itunes.co
 .itunes.co.th
@@ -16948,6 +16951,7 @@
 .pocketbiketrader.com
 .pocketcasts.com
 .pod-15-sunco-ws.zendesk.com
+.podcast.apple.com
 .poe.com
 .poecdn.net
 .pogo.com
@@ -24517,6 +24521,7 @@ education.tbank.ru
 efe8f8a4-abd5-44c9-bf5c-cd217442c52f.t.ssp.hinet.net
 elib.maruzen.co.jp
 emoi-cncdn.bing.com
+entitlements-edge.itunes.apple.com
 epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
 ereg.adobe.com
 ereg.wip.adobe.com
@@ -24558,6 +24563,7 @@ fonts.googleapis.com
 fonts.gstatic.com
 fontshop-prod-responsive-images.s3.amazonaws.com
 foxnewsplayer-a.akamaihd.net
+fpinit.itunes.apple.com
 fta.dell.com
 ftaapj.dell.com
 ftaemea.dell.com
@@ -24670,7 +24676,6 @@ inappcheck.itunes.apple.com
 incoming-telemetry.thunderbird.net
 incoming.telemetry.mozilla.org
 informer.yandex.ru
-ingest.apple-studies.com
 init-kt.apple.com
 init-p01md-lb.push-apple.com.akadns.net
 init-p01md.apple.com

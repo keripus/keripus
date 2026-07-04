@@ -503,6 +503,7 @@
 .anlaiye.com
 .anlaiye.com.cn
 .anmo.com
+.anquan
 .anquan.org
 .anquanke.com
 .anruan.com
@@ -3706,6 +3707,7 @@
 .shmetro.com
 .shobserver.com
 .shopss.com
+.shouji
 .shoujihuifu.com
 .shouqianba.com
 .shoutanjjj.com
@@ -3734,6 +3736,7 @@
 .sifou.com
 .simei8.com
 .simuwang.com
+.sina
 .sinesafe.com
 .singworld.net
 .sinopec-usa.com
@@ -4279,6 +4282,7 @@
 .wegamedeveloper.com
 .wegameplus.com
 .wegobank.cn
+.weibo
 .weicaifu.com
 .weidian.com
 .weilaicaijing.com
@@ -4459,6 +4463,7 @@
 .xiazaiba.com
 .xiezuocat.com
 .xiguacity.cn
+.xihuan
 .xilu.com
 .ximalaya.com
 .xinchacha.com
@@ -4504,6 +4509,7 @@
 .xn--6qq986b3xl
 .xn--8y0a063a
 .xn--9et52u
+.xn--9krt00a
 .xn--czr694b
 .xn--czrs0t
 .xn--czru2d
@@ -4726,6 +4732,7 @@
 .yuelun.com
 .yuketang.cn
 .yumchina.com
+.yun
 .yun.139.com
 .yunaq.com
 .yunba.io

@@ -97,6 +97,7 @@
 .apple-store.cn
 .apple-store.net
 .apple-store.wang
+.apple-studies.com
 .apple-usa.net
 .apple-watch.com.ru
 .apple.ae
@@ -1190,6 +1191,7 @@
 .itunes-apple.cn
 .itunes-apple.com.akadns.net
 .itunes-radio.net
+.itunes.apple.com
 .itunes.ca
 .itunes.co
 .itunes.co.th
@@ -1620,8 +1622,10 @@ devstreaming-cdn.apple.com
 discussionschinese.apple.com
 download.developer.apple.com
 downloaddispatch.itunes.apple.com
+entitlements-edge.itunes.apple.com
 experiments.apple.com
 fides-pol.apple.com
+fpinit.itunes.apple.com
 gs-loc-cn.apple.com
 gs-loc.apple.com
 gsp10-ssl-cn.ls.apple.com
@@ -1652,7 +1656,6 @@ images.apple.com.edgekey.net.globalredir.akadns.net
 inappcheck-cn.itunes-apple.com.akadns.net
 inappcheck-lb.itunes-apple.com.akadns.net
 inappcheck.itunes.apple.com
-ingest.apple-studies.com
 init-kt.apple.com
 init-p01md-lb.push-apple.com.akadns.net
 init-p01md.apple.com
