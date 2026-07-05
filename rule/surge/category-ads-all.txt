@@ -127,6 +127,7 @@
 .optaim.com
 .pbmp.ali213.net
 .presage.io
+.pub.network
 .pubmatic.co.jp
 .pubmatic.com
 .reachmax.cn

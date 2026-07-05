@@ -89,6 +89,7 @@
 .onesignal.com
 .optaim.com
 .pbmp.ali213.net
+.pub.network
 .reachmax.cn
 .realsrv.com
 .reyun.com
