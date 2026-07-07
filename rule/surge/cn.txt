@@ -519,6 +519,7 @@
 .anywlan.com
 .anzhuo.cn
 .aocde.com
+.aorizon.cn
 .aoshu.com
 .aotrip.net
 .aoyou.com
@@ -1014,6 +1015,7 @@
 .cjjd19.com
 .cjol.com
 .cjsc.com
+.cjyun.org
 .ckd.im
 .ckxx.net
 .clawhub-mirror.com
@@ -1990,6 +1992,8 @@
 .haoyouyinxiang.com
 .hapjs.org
 .happyhlddz.com
+.happyhorse.cn
+.happyshrimp.cn
 .harmonyos.com
 .haydaypop.cn
 .hazq.com
@@ -2219,6 +2223,7 @@
 .hxsd.com
 .hxzq.cn
 .hybiome.com
+.hydun.com
 .hypercachenode.com
 .hytung.cn
 .hzdtv.tv
@@ -2897,6 +2902,7 @@
 .lorhf.com
 .lotpc.com
 .loupan.com
+.lovestu.com
 .lppz.com
 .lppzimg.com
 .lrts.me
@@ -3214,6 +3220,8 @@
 .nicaifu.com
 .nihaoafrica.org
 .nihaorwanda.cn
+.nikkigames.cn
+.nikkigames.com.cn
 .ningtingche.com
 .nio.cn
 .nio.com
@@ -3322,6 +3330,8 @@
 .pan.quark.cn
 .pan.xunlei.com
 .paopaoche.net
+.papegames.cn
+.papegames.com
 .papocket.com
 .paydxm.com
 .pc6.com
@@ -3753,6 +3763,7 @@
 .skypixel.com
 .skywt.cn
 .sl916.com
+.sleeplesshorizon.cn
 .slk1.net
 .sllssrq.com
 .smartapps.cn
@@ -3917,6 +3928,7 @@
 .talkingdata.com
 .talkinggame.com
 .tangeche.com
+.tanwan.com
 .tao123.com
 .taobao
 .taoche.com
@@ -4092,6 +4104,8 @@
 .tvmao.com
 .tvzhe.com
 .twscholar.com
+.twyx.cn
+.twyxh.com
 .txrjy.com
 .u-cdn.net
 .u.tools
@@ -4225,6 +4239,7 @@
 .vipbcw.com
 .vipexam.org
 .vipstatic.com
+.vistopia.com.cn
 .viviv.com
 .vobao.com
 .voc.com.cn
@@ -4545,6 +4560,7 @@
 .xpccdn.com
 .xpgod.com
 .xqfunds.com
+.xrbk.cn
 .xsa239.com
 .xsbapp.cn
 .xsdzq.cn
@@ -4602,6 +4618,8 @@
 .yeshen.com
 .yeshj.com
 .yesky.com
+.yeyou.com
+.yeyoucdn.com
 .yfcache.com
 .yfcalc.com
 .yfcdn.net
@@ -4942,6 +4960,7 @@
 .zuoyebang.cc
 .zuoyebang.com
 .zway.top
+.zx.com
 .zxhgroup.com
 .zxsales.cn
 .zxxk.com

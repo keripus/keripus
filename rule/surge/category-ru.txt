@@ -47,6 +47,7 @@
 .adygtelecom.com
 .afisha.ru
 .ahilesva.info
+.aiesa.ru
 .akbars.ru
 .alefbank.com
 .alfa.me
@@ -54,6 +55,9 @@
 .alfabank.st
 .alfadirect.ru
 .algoritmika.org
+.alice.yandex.net
+.alice.yandex.ru
+.alicepro.yandex.ru
 .alt-ad.mail.ru
 .altai.ru
 .amediateka.ru
@@ -206,6 +210,7 @@
 .comss.org
 .comss.ru
 .coolera.ru
+.copymonkey.app
 .counter.yandex.ru
 .cplsb.ru
 .credistory.ru
@@ -334,6 +339,8 @@
 .fix-price.com
 .flocktory.com
 .flomni.com
+.flowwow-images.com
+.flowwow.com
 .fon.bet
 .fon.promo
 .forshtadt.ru
@@ -341,6 +348,8 @@
 .freeassange.tech
 .freede.tech
 .freedert.online
+.funpay.com
+.funpay.ru
 .future-cs.ru
 .g-ib.ae
 .g-ib.ru
@@ -363,6 +372,7 @@
 .genotek.health
 .genotek.ru
 .geobasket.ru
+.gerwin.io
 .getsynapse.io
 .gib-global.com
 .gib.sg
@@ -387,6 +397,7 @@
 .gov.ru
 .government.ru
 .gpb.ru
+.gptunnel.ru
 .green-box-tv.com
 .grfc.ru
 .group-ib.ae
@@ -805,6 +816,7 @@
 .pochta.ru
 .pochtabank.ru
 .polyclinika.ru
+.polza.ai
 .ponyexpress.ru
 .popmechanic.io
 .popmechanic.ru
@@ -863,6 +875,7 @@
 .rkomi.ru
 .rncoluminis.ru
 .rnd.ru
+.robotext.io
 .rocketozon.by
 .roistat.com
 .romanovs100.com
@@ -934,6 +947,7 @@
 .ru.ccb.com
 .ru.com
 .ru.net
+.rugpt.io
 .ruhub.tv
 .runewsrt.com
 .ruptly.agency
@@ -1022,6 +1036,7 @@
 .sevastopol.ru
 .sferum-dev.ru
 .sferum.ru
+.sfunpay.com
 .sgcheck.ru
 .shedevrum.ai
 .shop-rt.com
@@ -1136,6 +1151,7 @@
 .tilda.ws
 .tildaapi.com
 .tildacdn.com
+.tildacdn.net
 .time-messenger.ru
 .timeweb.cloud
 .timeweb.com
@@ -1156,6 +1172,7 @@
 .tochka-tech.com
 .tochka.com
 .tok.media
+.tokenator.top
 .tom.ru
 .tomsk.ru
 .top-fwz1.mail.ru

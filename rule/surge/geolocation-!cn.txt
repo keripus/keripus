@@ -8374,6 +8374,8 @@
 .flowfront.com
 .flowfront.net
 .flowtype.org
+.flowwow-images.com
+.flowwow.com
 .fluffychat.im
 .fluidfxapp.com
 .fluidpreview.com
@@ -8819,6 +8821,8 @@
 .funimation.com
 .funnyfacebook.org
 .funnyordie.com
+.funpay.com
+.funpay.ru
 .funshemale.com
 .fuq.com
 .fuqqt.com
@@ -18897,6 +18901,7 @@
 .sferum.ru
 .sfmcompile.club
 .sforce.com
+.sfunpay.com
 .sfx.ms
 .sg120.me
 .sg1lib.org
@@ -20593,6 +20598,7 @@
 .tilda.ws
 .tildaapi.com
 .tildacdn.com
+.tildacdn.net
 .tiltbrush.com
 .time-messenger.ru
 .time.gov

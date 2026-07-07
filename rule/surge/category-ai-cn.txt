@@ -1,6 +1,7 @@
 .aispeech.com
 .antafu.com
 .antaq.com
+.aorizon.cn
 .api-building.fun
 .askdiandian.com
 .baichuan-ai.com
@@ -38,6 +39,8 @@
 .dumate.cn
 .faxingbao.com
 .hailuoai.com
+.happyhorse.cn
+.happyshrimp.cn
 .hi-butterfly.cn
 .hunyuan.tencent.com
 .instreet.com
@@ -73,6 +76,7 @@
 .rwkv.com
 .safeskill.cn
 .skillhub.cn
+.sleeplesshorizon.cn
 .tapnow.top
 .tiangong.cn
 .tongyi.aliyun.com

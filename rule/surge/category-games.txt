@@ -1,4 +1,6 @@
 .100classicbooks.com
+.17173.com
+.17173cdn.com
 .17roco.com
 .2k.com
 .2kcoretech.online
@@ -518,6 +520,8 @@
 .nikke-jp.com
 .nikke-kr.com
 .nikke-sea.com
+.nikkigames.cn
+.nikkigames.com.cn
 .nintendo-europe-sales.com
 .nintendo-europe.com
 .nintendo.at
@@ -568,6 +572,8 @@
 .origin.tv
 .orithegame.com
 .pandanet-igs.com
+.papegames.cn
+.papegames.com
 .papermc.io
 .paragon.com
 .personaltrainermath.com
@@ -815,6 +821,7 @@
 .swtor.net
 .syxlgame.com
 .take2games.com
+.tanwan.com
 .tarkov.com
 .tcfmglobal.com
 .teamneedforspeed.com
@@ -845,6 +852,8 @@
 .tuer123.com
 .tuyoo.com
 .twinmotion.com
+.twyx.cn
+.twyxh.com
 .ubi.com
 .ubisoft.com
 .ubisoftconnect.com
@@ -947,6 +956,8 @@
 .xoyo.com
 .xoyocdn.com
 .ycgame.com
+.yeyou.com
+.yeyoucdn.com
 .yingxiong.com
 .yjwujian.cn
 .ylands.com
@@ -976,6 +987,7 @@
 .zhuoyou.com
 .zhuoyuegame.com
 .zjshulong.com
+.zx.com
 .zynga.com
 .zyngaplayersupport.com
 .zyngapoker.com
