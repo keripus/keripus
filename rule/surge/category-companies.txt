@@ -523,6 +523,7 @@
 .appldnld.apple.com
 .apple
 .apple-appstore.cn
+.apple-cloudkit.com
 .apple-darwin.com
 .apple-darwin.net
 .apple-darwin.org
@@ -825,6 +826,7 @@
 .applestoreonline.com
 .applestorepro.eu
 .applesurveys.com
+.appleswift.com
 .appletaiwan.com
 .appletips.net
 .appletv.com
@@ -1757,6 +1759,7 @@
 .cadoverlay.com
 .cadren.com
 .caice.com
+.calendarserver.org
 .calicolabs.com
 .callbackkiller.com
 .callersbane.com
@@ -1842,6 +1845,7 @@
 .capitalg.com
 .carbon.com
 .careersatfb.com
+.carekit.org
 .carrot-mail.io
 .carrotquest-mail.io
 .carrotquest.app
@@ -2155,6 +2159,7 @@
 .csifund.org
 .cuffiesaldi.com
 .cups.online
+.cups.org
 .currently.com
 .currently.net
 .custhelp.com
@@ -2420,13 +2425,17 @@
 .dev-my.games
 .developer-advisor.com
 .developer.allizom.org
+.developer.apple.com
 .developer.mozilla.org
+.developerservices2.apple.com
 .developria.com
 .device-manager.us
+.devimages-cdn.apple.com
 .devm2m.com
 .devopsassessment.net
 .devopsms.com
 .devsitetest.how
+.devstreaming-cdn.apple.com
 .dialogflow.com
 .dictate.ms
 .dierectv.com
@@ -3128,6 +3137,7 @@
 .fotolia.com
 .fotolia.tv
 .fotolja.com
+.foundationdb.org
 .fourthns.systems
 .foxkeh.com
 .foxkeh.jp
@@ -4891,6 +4901,7 @@
 .macintoshsoftware.com
 .macmini.com
 .macos.com.au
+.macosforge.org
 .macossierra.com
 .macosx.info
 .macosxlion.com
@@ -4898,6 +4909,9 @@
 .macreach.com
 .macreach.net
 .macromedia.com
+.macruby.com
+.macruby.net
+.macruby.org
 .madewithcode.com
 .madewithmaya.com
 .madewithstudiotools.com
@@ -5403,6 +5417,7 @@
 .mtsmedia.ru
 .mudbox3d.com
 .multiplydiversity.com
+.music.apple.com
 .musickit.net
 .musixmatch.com
 .muumuu-domain.com
@@ -5843,6 +5858,7 @@
 .playads.jp
 .playfab.com
 .playfabapi.com
+.playgrounds-cdn.apple.com
 .playshow.io
 .playshowtv.com
 .playstation
@@ -5857,6 +5873,7 @@
 .pmem.org
 .pmem.us
 .pocketbiketrader.com
+.podcasts.apple.com
 .pointtown.com
 .polymer-project.org
 .polymerproject.org
@@ -6058,7 +6075,14 @@
 .report-megafon.ru
 .repsneakermall.com
 .repswing.com
+.researchandcare.org
 .researchintel.com
+.researchkit.cn
+.researchkit.com.cn
+.researchkit.hk
+.researchkit.net
+.researchkit.org
+.researchkit.tv
 .respawnbyrazer.com
 .restream-media.net
 .restream.ru
@@ -6204,6 +6228,7 @@
 .services-apple.net
 .services-exchange.com
 .serviceshp.com
+.servicetalk.io
 .serving-sys.com
 .setka.ru
 .sfbassets.com
@@ -6518,6 +6543,9 @@
 .swdist.apple.com
 .swdownload.apple.com
 .sweb.ru
+.swift.org
+.swiftui.cn
+.swiftui.com.cn
 .swiss-machining.com
 .swiss-turn.com
 .swscan.apple.com
@@ -6622,6 +6650,7 @@
 .tiltbrush.com
 .timefxapp.com
 .timelinestoryteller.com
+.timestamp.apple.com
 .timeweb.cloud
 .timeweb.com
 .tinkerboxapp.com
@@ -7021,9 +7050,12 @@
 .webex.es
 .webex.fr
 .webhosting.com
+.webkit.org
+.webkitgtk.org
 .webmademovies.org
 .webmproject.org
 .webobjects.co.uk
+.webobjects.com
 .webobjects.de
 .webobjects.eu
 .webobjects.net
@@ -7122,6 +7154,7 @@
 .worldsecureemail.com
 .worldsecuresystems.com
 .worldsfastestgamer.net
+.wpewebkit.org
 .wsimg.com
 .wuxiapple.com
 .wwapple.net
@@ -7765,6 +7798,7 @@ amp-api-updates.apps.apple.com
 amp-api.apps.apple.com
 amp-api.media.apple.com
 amp-api.music.apple.com
+amp-api.podcasts.apple.com
 an.mail.ru
 analytics.google.com
 analytics.mobile.yandex.net
@@ -7802,10 +7836,11 @@ appldnld.g.aaplimg.com
 apple-tv-plus-press.apple.com
 apple.com.akadns.net
 appleid.cdn-apple.com
+appleworldwidedeveloper.hb-api.omtrdc.net
+appleworldwidedeveloper.sc.omtrdc.net
 apps.mzstatic.com
 apps5.oingo.com
 apptrailers.itunes.apple.com
-auth.music.apple.com
 avail.googleflights.net
 az764295.vo.msecnd.net
 azure.microsoft.com
@@ -8201,6 +8236,8 @@ myapp.itunes.apple.com
 myvs.download.prss.microsoft.com
 na1r.services.adobe.com
 nexus.dell.com
+notary-submissions-prod.s3-accelerate.amazonaws.com
+notary-submissions-prod.s3.us-west-2.amazonaws.com
 notebooklm-pa.googleapis.com
 notebooklm.googleapis.com
 np-edge.itunes.apple.com
@@ -8224,6 +8261,7 @@ oscdn.origin-apple.com.akadns.net
 osrelease.download.prss.microsoft.com
 osxapps.itunes.apple.com
 osxapps.itunes.g.aaplimg.com
+p-events-delivery.akamaized.net
 p.cdn.persaas.dell.com
 p00.upd.kaspersky.com
 p01.upd.kaspersky.com
@@ -8259,6 +8297,8 @@ pki.google.com
 play-edge.itunes.apple.com
 play.itunes.apple.com
 play.music.apple.com
+podcasts.apple.com
+podcasts.itunes.apple.com
 poshtestgallery.cloudapp.net
 practivate.adobe
 practivate.adobe.com

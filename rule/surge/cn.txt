@@ -584,6 +584,7 @@
 .babytreeimg.com
 .badjs.weixinbridge.com
 .badou.com
+.baicaf.com
 .baichuan-ai.com
 .baicizhan.com
 .baicizhan.org
@@ -1297,6 +1298,7 @@
 .dcdkjx.com
 .dcloud.io
 .dcloud.net.cn
+.dcshfu.com
 .dd373.com
 .ddcorp.net
 .ddfresh.net
@@ -1825,6 +1827,7 @@
 .ghsl.cn
 .ghxi.com
 .ghzq.com.cn
+.gifpay.com
 .gifshow.com
 .gijsq.com
 .gio.ren
@@ -2107,6 +2110,7 @@
 .houyuantuan.com
 .howbuy.com
 .hpplay.cn
+.hprtupgrade.com
 .hqchip.com
 .hqdoc.com
 .hqpcb.com
@@ -2322,6 +2326,7 @@
 .imsyy.com
 .in.th
 .incopat.com
+.indeedpower.com
 .indienova.com
 .inewsweek.cn
 .infineon.cn
@@ -2347,6 +2352,7 @@
 .ipchaxun.com
 .ipchaxun.net
 .iplaysoft.com
+.iposl.com
 .ipplus360.com
 .iprdp.net
 .iprintworks.cn
@@ -2866,6 +2872,7 @@
 .linsn.com
 .linuxidc.com
 .liqucn.com
+.listenai.com
 .litessl.cn
 .litessl.com
 .liulanqi.net
@@ -2918,6 +2925,7 @@
 .lufaxcdn.com
 .lufunds.com
 .luhua.cn
+.lulian.cn
 .lunwengo.net
 .luogu.com.cn
 .luojilab.com
@@ -3042,6 +3050,7 @@
 .miaowu.baidu.com
 .miaoyanai.com
 .miaozhen.com
+.micun.com
 .midasbuy.com
 .midea.cn
 .midea.com
@@ -3164,6 +3173,7 @@
 .mysqil.com
 .myssl-uri.com
 .myssl.com
+.mystery0.vip
 .mysxl.cn
 .myypark.com
 .myyx618.com
@@ -3689,6 +3699,7 @@
 .shangzhibo.tv
 .shanshuihotel.com
 .shanxijianzhuzizhi.com
+.share123.top
 .shareintelli.com
 .sharejs.com
 .sharesdk.cn
@@ -3965,6 +3976,7 @@
 .texasholdemcup.net
 .tfzq.com
 .tgbus.com
+.tggfl.com
 .tgpro.top
 .tgprocs.net
 .th-music.com
@@ -3980,6 +3992,7 @@
 .thinkprinter.cn
 .thinkprinter.com.cn
 .thinkprinter.net
+.thispx.com
 .thmnet.com
 .threatbook.cn
 .threatbook.com
@@ -4038,6 +4051,7 @@
 .tmtpost.com
 .tmtsmartlife.com
 .tmtsmartrun.com
+.tmwanba.com
 .tnettms.com
 .to8to.com
 .tobosu.com
@@ -4151,6 +4165,8 @@
 .uewaf.com
 .ufileos.com
 .uggame.com
+.ugnas.cloud
+.ugnas.com
 .ugslb.cn
 .ugslb.com
 .ugslb.info
