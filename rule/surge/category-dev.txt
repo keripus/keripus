@@ -73,6 +73,7 @@
 .cpan.org
 .crashlytics.com
 .crates.io
+.crocoblock.com
 .cups.org
 .cve.org
 .cygwin.com
@@ -306,6 +307,7 @@
 .mongodb.com
 .mongodb.org
 .mono-project.com
+.motocms.com
 .motopress.com
 .mpv.io
 .msdn.com
