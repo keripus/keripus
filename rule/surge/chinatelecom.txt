@@ -14,4 +14,5 @@
 .ctexcel.fr
 .ctexcel.us
 .dlife.cn
+.play.cn
 .vnet.cn

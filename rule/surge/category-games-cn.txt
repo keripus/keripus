@@ -73,6 +73,9 @@
 .cowlevel.net
 .cy.com
 .dobest.com
+.duoyi.com
+.duoyigroup.cn
+.duoyiwangluo.com
 .edu4399.com
 .feihuo.com
 .ffbuddy.com
@@ -100,6 +103,7 @@
 .gtgres.com
 .guoping123.com
 .haohaowan.net
+.happyelements.com
 .happyhlddz.com
 .haydaypop.cn
 .hdyxgame.com
@@ -121,6 +125,7 @@
 .langrenclub.com
 .laohu.com
 .ledu.com
+.leyuansu.com
 .lingxigames.com
 .log-upload.mihoyo.com
 .longtugame.com
@@ -236,6 +241,7 @@
 .ycgame.com
 .yeyou.com
 .yeyoucdn.com
+.ygduoyi.com
 .yingxiong.com
 .yjwujian.cn
 .yokaverse.com

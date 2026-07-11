@@ -169,6 +169,7 @@
 .getcomposer.org
 .getfedora.org
 .getpaint.net
+.getsentry.com
 .getzola.org
 .gh.io
 .ghcr.io
@@ -433,6 +434,7 @@
 .scientificlinux.org
 .scoop.sh
 .sentry-cdn.com
+.sentry.dev
 .sentry.io
 .serverfault.com
 .servicetalk.io

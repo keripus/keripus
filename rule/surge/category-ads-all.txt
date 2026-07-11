@@ -7,7 +7,6 @@
 .ad-delivery.net
 .ad-srv.net
 .ad.12306.cn
-.ad.api.moji.com
 .ad.hpplay.cn
 .ad.unimhk.com
 .ad.wang502.com
@@ -75,6 +74,7 @@
 .exoclick.com
 .exosrv.com
 .g1.tagtic.cn
+.getsentry.com
 .gio.ren
 .giocdn.com
 .go2.global
@@ -140,6 +140,9 @@
 .segmenthub.com
 .segmentify.com
 .sensors.umetrip.com.cn
+.sentry-cdn.com
+.sentry.dev
+.sentry.io
 .shhs-ydd8x2.yjrmss.cn
 .shuzilm.cn
 .sigmob.com

@@ -193,6 +193,9 @@
 .dungeonkeeper.cn
 .dungeonkeeper.com
 .dungeonkeeper.com.cn
+.duoyi.com
+.duoyigroup.cn
+.duoyiwangluo.com
 .ea-anz-press.com
 .ea.com
 .eaaccess.com
@@ -316,6 +319,7 @@
 .guoping123.com
 .hackyourconsole.com
 .haohaowan.net
+.happyelements.com
 .happyhlddz.com
 .hayday.com
 .haydaygame.com
@@ -396,6 +400,7 @@
 .ledu.com
 .legendofzelda.cn
 .legendofzelda.com.cn
+.leyuansu.com
 .lingxigames.com
 .log-upload-os.hoyoverse.com
 .log-upload.mihoyo.com
@@ -958,6 +963,7 @@
 .ycgame.com
 .yeyou.com
 .yeyoucdn.com
+.ygduoyi.com
 .yingxiong.com
 .yjwujian.cn
 .ylands.com

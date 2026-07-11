@@ -4,7 +4,6 @@
 .aaxads.com
 .ad-srv.net
 .ad.12306.cn
-.ad.api.moji.com
 .ad.hpplay.cn
 .ad.unimhk.com
 .ad.wang502.com

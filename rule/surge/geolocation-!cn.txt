@@ -9144,6 +9144,7 @@
 .getporn.tv
 .getprintersupports.com
 .getscorecash.com
+.getsentry.com
 .getsexgames.com
 .getsynapse.io
 .gettr.com
@@ -18696,6 +18697,7 @@
 .sensualmothers.com
 .sensueel.net
 .sentry-cdn.com
+.sentry.dev
 .sentry.io
 .senzuritv.net
 .seo-dash.net
