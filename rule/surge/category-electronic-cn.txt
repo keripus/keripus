@@ -7,10 +7,6 @@
 .cxmt.com
 .eda.cn
 .elecfans.com
-.esp8266.cn
-.esp8266.com.cn
-.espressif.cn
-.espressif.com.cn
 .fa-part.com
 .forface3d.com
 .hqchip.com

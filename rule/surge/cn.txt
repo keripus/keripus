@@ -1579,10 +1579,6 @@
 .erp321.com
 .erp321.net
 .ersjk.com
-.esp8266.cn
-.esp8266.com.cn
-.espressif.cn
-.espressif.com.cn
 .essence.com.cn
 .et-api.com
 .et001.com

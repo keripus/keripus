@@ -7551,8 +7551,6 @@
 .esmarthealth.com
 .esmatube.com
 .esopworld.com
-.esp32.com
-.esp8266.com
 .espadoldettol.com.ar
 .esperanzagomez.org
 .espn.co.uk
@@ -7562,7 +7560,6 @@
 .espnqa.com
 .esports.gg
 .esposasymaridos.com
-.espressif.com
 .esri.com
 .esrt.online
 .esrt.press
@@ -22312,6 +22309,7 @@
 .wbautomation.ru
 .wbautomation.tech
 .wbbasket.ru
+.wbcontent.net
 .wbd.ms
 .wbdnbo.net
 .wbdubna.ru
