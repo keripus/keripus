@@ -1465,6 +1465,7 @@
 .duiopen.com
 .duitang.com
 .duiwai.baidu.com
+.dulupay.com
 .dumate.cn
 .duoduocdn.com
 .duomai.com
@@ -4856,6 +4857,7 @@
 .yystv.cn
 .yytcdn.com
 .yzcdn.cn
+.yzsgo.com
 .yzwb.net
 .yzyxgame.com
 .z-bank.com

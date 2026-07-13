@@ -33,7 +33,6 @@
 .insidefilms.com
 .insight.tech
 .intc.com
-.intel
 .intel-research.net
 .intel-university-collaboration.net
 .intel.ac

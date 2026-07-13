@@ -4965,6 +4965,7 @@
 .chatango.com
 .chatgpt.com
 .chatgpt.livekit.cloud
+.chatgpt.site
 .chatgptvideo.xyz
 .chatgptvideob.buzz
 .chatsex.xxx
@@ -6583,7 +6584,6 @@
 .dollarphotosclub.com
 .dolphiners.com
 .dolyame.ru
-.domain:alfabank.oavdo.amc
 .domain:okaapps.com
 .dombosco.com.br
 .domrfbank.ru
@@ -9438,7 +9438,6 @@
 .gonike.com
 .gonzo-movies.com
 .gonzo.com
-.goo
 .goo.gl
 .gooblox.com
 .good-apps.jp
@@ -11485,7 +11484,6 @@
 .intagrm.com
 .intc.com
 .integral7.com
-.intel
 .intel-research.net
 .intel-university-collaboration.net
 .intel.ac
@@ -12573,6 +12571,7 @@
 .khayannpyar.blogspot.com
 .khotruyentranhx.com
 .kichikuou.com
+.kick.com
 .kickporn.com
 .kickshatchannel.com
 .kicksnike1.com
@@ -12692,7 +12691,6 @@
 .konachan.com
 .konachan.net
 .konachan.wjcodes.com
-.konami
 .konami-igaming.online
 .konami.co.jp
 .konami.com
@@ -24947,11 +24945,7 @@ podcasts.itunes.apple.com
 poshtestgallery.cloudapp.net
 ppl-ai-file-upload.s3.amazonaws.com
 pplx-res.cloudinary.com
-practivate.adobe
 practivate.adobe.com
-practivate.adobe.ipp
-practivate.adobe.newoa
-practivate.adobe.ntp
 prd-priconne-redive.akamaized.net
 preprod-publicca.googleapis.com
 probe.siri.apple.com

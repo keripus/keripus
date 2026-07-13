@@ -3388,7 +3388,6 @@
 .golang.net
 .golang.org
 .gonglchuangl.net
-.goo
 .goo.gl
 .good-apps.jp
 .goodsdunk.net
@@ -4223,7 +4222,6 @@
 .intagram.com
 .intagrm.com
 .intc.com
-.intel
 .intel-research.net
 .intel-university-collaboration.net
 .intel.ac
@@ -8300,11 +8298,7 @@ play.music.apple.com
 podcasts.apple.com
 podcasts.itunes.apple.com
 poshtestgallery.cloudapp.net
-practivate.adobe
 practivate.adobe.com
-practivate.adobe.ipp
-practivate.adobe.newoa
-practivate.adobe.ntp
 preprod-publicca.googleapis.com
 probe.siri.apple.com
 prod-controlbe.floonet.goog

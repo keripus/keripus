@@ -73,7 +73,6 @@
 .deutsche-bank.ru
 .deutschebank.ru
 .dolyame.ru
-.domain:alfabank.oavdo.amc
 .domrfbank.ru
 .eaptechka.online
 .eapteka.ru

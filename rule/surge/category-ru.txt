@@ -260,7 +260,6 @@
 .dodostatic.net
 .dolyame.ru
 .dom.ru
-.domain:alfabank.oavdo.amc
 .domrfbank.ru
 .donationalerts.com
 .dostaevsky.ru
@@ -832,7 +831,6 @@
 .psb-ocenka.ru
 .psb.ru
 .psbank.ru
-.psk
 .psk.ru
 .pskb.ru
 .pskov.ru
