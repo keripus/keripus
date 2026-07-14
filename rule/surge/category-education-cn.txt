@@ -55,6 +55,7 @@
 .fenbike.com
 .fenbilantian.cn
 .fenbilantian.com
+.gaojidata.com
 .gaokao.com
 .gatzs.com.cn
 .gfbzb.cn
@@ -64,6 +65,7 @@
 .gfbzb.net
 .gk100.com
 .guojibk.com
+.gzasc.com
 .haofenshu.com
 .hjapi.com
 .hjfile.cn

@@ -566,6 +566,8 @@
 .qqmusic.com
 .qtfm.cn
 .quehu.com
+.qwapp.top
+.qwdjapp.com
 .qznovel.com
 .qznovelpic.com
 .qznovelstatic.com
@@ -578,6 +580,9 @@
 .roblox.qq.com
 .robloxdev.cn
 .roco.qq.com
+.rrmj.plus
+.rrsp.app
+.rrsp.com.cn
 .sanguosha.com
 .sao.cn
 .saolife.com
@@ -701,6 +706,7 @@
 .yeyou.com
 .yeyoucdn.com
 .ygduoyi.com
+.yichengwlkj.com
 .yingxiong.com
 .yiyouliao.com
 .yjwujian.cn

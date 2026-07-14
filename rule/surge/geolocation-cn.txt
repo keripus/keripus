@@ -1797,6 +1797,7 @@
 .ganjiangvpn.com
 .ganjistatic1.com
 .gaodun.com
+.gaojidata.com
 .gaokao.com
 .gaoshouyou.com
 .gaoxiaojob.com
@@ -1961,6 +1962,7 @@
 .gxtv.cn
 .gxxmt.com
 .gyzq.com.cn
+.gzasc.com
 .gzcqs.com
 .gzctyiptv.cn
 .gzlzfm.com
@@ -3580,6 +3582,8 @@
 .qunjielong.com
 .qunliao.info
 .quyaoya.com
+.qwapp.top
+.qwdjapp.com
 .qweather.com
 .qweather.net
 .qweatherapi.com
@@ -3629,6 +3633,8 @@
 .routewize.com
 .rqnoj.cn
 .rrmj.plus
+.rrsp.app
+.rrsp.com.cn
 .rsscc.cn
 .rt-mart.com.cn
 .rtbasia.com
@@ -4339,6 +4345,7 @@
 .webankcdn.net
 .webgame163.com
 .webmasterhome.cn
+.weboss.hk
 .webportal.top
 .webterren.com
 .wegame.com
@@ -4649,6 +4656,7 @@
 .yhfund.com.cn
 .yicai.com
 .yiche.com
+.yichengwlkj.com
 .yigao.com
 .yigoonet.com
 .yihaikerry.net.cn
