@@ -856,6 +856,7 @@
 .metacritic.com
 .mgo-images.com
 .mgo.com
+.mhgui.com
 .mickey.tv
 .miitomo.com
 .miitomo.com.cn

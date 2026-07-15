@@ -2773,6 +2773,7 @@
 .azuredns-prd.org
 .azureedge-test.net
 .azureedge.net
+.azureedge.us
 .azurefd.net
 .azurehdinsight.cn
 .azureiotcentral.com
@@ -5534,6 +5535,7 @@
 .coova.com
 .coova.net
 .coova.org
+.copilot-stg.com
 .copilot.cloud.microsoft
 .copilot.com
 .copilot.microsoft.com
@@ -8374,6 +8376,7 @@
 .floorp.app
 .floppy-tits.com
 .flow.dev
+.flow.google
 .flow.org
 .flowfront.com
 .flowfront.net
@@ -13839,6 +13842,7 @@
 .mgo.com
 .mhcb.ru
 .mhcbr.ru
+.mhgui.com
 .mhhanman.xyz
 .mhqwe.xyz
 .mhradio.org
@@ -19740,6 +19744,7 @@
 .starfox.com
 .stargazer-games.com
 .stark-verlag.ch
+.starlink.com
 .starott.com
 .starp2p.com
 .starplus.com
@@ -25297,8 +25302,6 @@ t21ipau.nikkei.co.jp
 tac.googleapis.com
 target.vk.com
 teamviewer.com.cdn.cloudflare.net
-tesla-cdn.thron.cn
-tesla-cdn.thron.com
 tf-feedback.itunes.apple.com
 thumbnail-hamivideo.cdn.hinet.net
 time-a-b.nist.gov
