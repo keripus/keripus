@@ -2137,6 +2137,7 @@
 .hqdoc.com
 .hqpcb.com
 .hrsec.com.cn
+.hrsecn.com
 .hsbc.com.cn
 .hsbcinsurance.com.cn
 .hsbcqh.com.cn
@@ -5049,6 +5050,7 @@ ads3-normal.zijieapi.com
 ads5-normal-hl.zijieapi.com
 ads5-normal.zijieapi.com
 ai.zhaomi.cn
+api.blipsandchitz.me
 apilog-web.acfun.cn
 ctdsb.clouddiffuse.xyz
 cueme-api.quark.cn
