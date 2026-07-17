@@ -5442,6 +5442,7 @@
 .mybeatscheapbydre.com
 .mycdn.me
 .myciscobenefits.com
+.mycloudnas.com
 .mydirectgroove.com
 .mydirectvchannels.com
 .mydirtyhobby.com
@@ -5968,6 +5969,7 @@
 .qlinkto.cn
 .qnap.com
 .qnap.com.cn
+.qnapsupport.net
 .qprize.com
 .qualcomm-email.com
 .qualcomm-inc.com
