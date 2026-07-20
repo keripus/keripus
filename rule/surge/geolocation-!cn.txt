@@ -3302,6 +3302,7 @@
 .berkeley.edu
 .berlincompanions.com
 .best-sex-games.com
+.best2pay.net
 .best4bim.com
 .bestbeats4u.com
 .bestbhy.com
@@ -5212,6 +5213,7 @@
 .clashofclans.com
 .clashroyale.com
 .clashroyaleapp.com
+.clashyun.com
 .clasporno.org
 .classicnike.com
 .classymomsex.com
@@ -7676,6 +7678,8 @@
 .f-droid.com
 .f-droid.org
 .f-secure.com
+.f1.com
+.f1tv.com
 .f5pf.com
 .f6.dev
 .f6.ru
@@ -8426,6 +8430,7 @@
 .forhertube.com
 .formit360.com
 .formitfactory.com
+.formula1.com
 .forpojie.pics
 .forshtadt.ru
 .fortawesome.com
@@ -10884,6 +10889,7 @@
 .hustler.com
 .hutao.cloud
 .hutpromos.com
+.hva.im
 .hwgo.com
 .hwslabs.com
 .hxcsxs.pro
@@ -17883,8 +17889,10 @@
 .rbnainternational.com
 .rbplc.com
 .rbrandlibrary.com
+.rbsgate.com
 .rbsgr.com
 .rbspeakup.com
+.rbsuat.com
 .rbth.com
 .rbx.com
 .rbxcdn.com
@@ -20858,7 +20866,6 @@
 .trixhentai.com
 .trmini.com
 .troisrivieresmini.com
-.trojan-gfw.github.io
 .tropictube.com
 .trpger.us
 .trueamateurmodels.com
@@ -23164,7 +23171,6 @@
 .xsz-av.com
 .xtapes.to
 .xtegvk.xyz
-.xtls.github.io
 .xtom.au
 .xtom.com
 .xtom.de
@@ -25351,6 +25357,7 @@ tools.google.com
 top-staging.mail.ru
 tp.louisvuitton.com
 tracing-http.megamarket.tech
+trojan-gfw.github.io
 tv.applemusic.com
 tvcastlive-hamivideo.cdn.hinet.net
 ubisoft-orbit-savegames.s3.amazonaws.com
@@ -25567,6 +25574,7 @@ xapi.ozon.ru
 xapi.ozonru.me
 xp.apple.com
 xray.mail.ru
+xtls.github.io
 xtratime.qcomgeo2.com
 xz.pphimalayanrt.com
 yangzhi.app

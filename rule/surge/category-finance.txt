@@ -62,6 +62,7 @@
 .bbr.ru
 .bcs-bank.ru
 .bcs.ru
+.best2pay.net
 .bfa.ru
 .bim.ir
 .bk.mufg.jp
@@ -215,6 +216,7 @@
 .hsbcprivatebank.com
 .hsbcqh.com.cn
 .hsbctrinkaus.de
+.hva.im
 .hyakugo.co.jp
 .ibamoscow.ru
 .ibkr.ca
@@ -395,6 +397,8 @@
 .rb24.ir
 .rbcollect.ru
 .rbcredit.ru
+.rbsgate.com
+.rbsuat.com
 .refah-bank.ir
 .rencapbank.ru
 .rencredit.ru

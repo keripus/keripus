@@ -131,6 +131,7 @@
 .beget.ru
 .belgorod.ru
 .berizaryad.ru
+.best2pay.net
 .betboom.ru
 .bfa.ru
 .bimsaas.ru
@@ -423,6 +424,7 @@
 .hhcdn.ru
 .homecredit.ru
 .hrtek.ru
+.hva.im
 .i-ola.ru
 .ibamoscow.ru
 .icq-download.com
@@ -620,6 +622,7 @@
 .max-tcs.ru
 .max.ru
 .mc.yandex.ru
+.mcc250.pub.3gppnetwork.org
 .mcs.st
 .mediumquality.ru
 .medsi-premium.ru
@@ -854,7 +857,11 @@
 .randomgodbot.com
 .rbcollect.ru
 .rbcredit.ru
+.rbsgate.com
+.rbsuat.com
 .rbth.com
+.reaviz.com
+.reaviz.ru
 .reg.cloud
 .reg.com
 .reg.ru
