@@ -12,6 +12,7 @@
 .ads.union.jd.com
 .baitiao.com
 .blackdragon.com
+.buyjingxi.com
 .c-nfa.jd.com
 .caiyu.com
 .chicalot.cn
@@ -186,6 +187,7 @@
 .jddapeigou.com
 .jddebug.com
 .jddglobal.com
+.jddj.com
 .jdemall.com
 .jdfw1.com
 .jdgslb.com
@@ -202,6 +204,7 @@
 .jdx.com
 .jhscm.com
 .jingdong.com
+.jingdonghealth.cn
 .jingdongjinrong.com
 .jingpinhui.com
 .jingxi.com

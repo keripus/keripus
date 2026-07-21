@@ -154,6 +154,7 @@
 .click.gamersky.com
 .click.hunantv.com
 .codm.com
+.colorv.com
 .cookicut.com
 .cowlevel.net
 .cy.com
@@ -445,6 +446,7 @@
 .kwaizt.com
 .kwimgs.com
 .labycore.cn
+.laifeng.com
 .langrenclub.com
 .laohu.com
 .ldmnq.com
@@ -482,6 +484,8 @@
 .mahjongcup.net
 .mail4399.com
 .maindown4399.com
+.mamecn.com
+.manmankan.com
 .max-c.com
 .maxadmin.cn
 .maxjia.com
@@ -683,6 +687,8 @@
 .wsukwai.com
 .wting.info
 .wtzw.com
+.xcz.im
+.xczim.com
 .xhlsgs.com
 .xiaoheihe.cn
 .xiaoyuzhoufm.com

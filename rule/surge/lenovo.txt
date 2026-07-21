@@ -4,7 +4,6 @@
 .blurdev.com
 .cftsupport.com
 .chainedbox.com
-.con-c-hybris.lenovo.com
 .cunchuhulian-ln.cn
 .dayin8.com
 .filez.com
@@ -16,6 +15,7 @@
 .juhuiwan.com
 .juhuiwan.com.cn
 .juhuiwan.net
+.lecoo.com
 .lenauth.com
 .lenovo.cn
 .lenovo.com

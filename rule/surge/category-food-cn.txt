@@ -43,6 +43,7 @@
 .qmimg.cn
 .shuanghui.net
 .shuxinyc.com
+.telunsu.net
 .tracking.mcdonalds.com.cn
 .trackingprd.hwwt8.com
 .trackserver.shuxinyc.com
