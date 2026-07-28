@@ -76,6 +76,9 @@
 .appsmail.ru
 .apptracer.ru
 .apptrackpets.com
+.apteka-april.ru
+.apteka.ru
+.aptekiplus.ru
 .arabicrt.ru
 .arctic.ru
 .arkhangelsk.ru
@@ -212,8 +215,10 @@
 .comss.ru
 .coolera.ru
 .copymonkey.app
+.corp.express
 .counter.yandex.ru
 .cplsb.ru
+.crazedns.ru
 .credistory.ru
 .credit-zenit.ru
 .crimea.ru
@@ -327,11 +332,13 @@
 .eurasiadaily.su
 .evrasia.rest
 .ewisdom.us.kg
+.express.ms
 .f6.dev
 .f6.ru
 .f6.security
 .facct.email
 .facct.ru
+.farmlend.ru
 .fasten.ru
 .finambank.ru
 .finuslugi.ru
@@ -389,6 +396,7 @@
 .gogettaxi.org
 .goicq.org
 .gorodpay.ru
+.gorzdrav.org
 .gorzdrav.spb.ru
 .gosdolgi.ru
 .goskey.ru
@@ -399,6 +407,7 @@
 .gpb.ru
 .gptunnel.ru
 .green-box-tv.com
+.greywallpass.com
 .grfc.ru
 .group-ib.ae
 .group-ib.co.uk
@@ -489,6 +498,9 @@
 .itirex.ru
 .ivanovo.ru
 .ivi.ru
+.ivicdn.tv
+.ixbt.com
+.ixbt.site
 .izbirkom.ru
 .izhevsk.ru
 .jamal.ru
@@ -634,6 +646,7 @@
 .megafonpro.ru
 .megamarket.ru
 .megamarket.tech
+.megapteka.ru
 .memealerts.com
 .meteofor.com
 .meteofor.st
@@ -644,6 +657,7 @@
 .metrika.yandex.net
 .metrika.yandex.ru
 .metro-cc.ru
+.mfa.center
 .mfk-bank.ru
 .mfk-t-finance.ru
 .mgfn.ru
@@ -692,6 +706,7 @@
 .mtsbank.ru
 .mtsdengi.ru
 .mtsmedia.ru
+.multifactor.ru
 .murmansk.ru
 .mvideo.ru
 .mvk.com
@@ -716,6 +731,10 @@
 .naydex.net
 .nbki.ru
 .neon.click
+.netcraze.club
+.netcraze.link
+.netcraze.pro
+.netcraze.ru
 .netmonet.co
 .ngenix.net
 .nic.ru
@@ -766,6 +785,7 @@
 .oryol.ru
 .oskelly.co
 .oskelly.ru
+.ostin.com
 .ostrovok.ru
 .otello.ru
 .otpbank.ru
@@ -840,6 +860,7 @@
 .ptcloud.ru
 .ptsecurity.com
 .ptz.ru
+.public.express
 .pushgrow.io
 .pvubank.com
 .pz.help
@@ -996,6 +1017,7 @@
 .sber.ru
 .sberauto.com
 .sberbank-insurance.ru
+.sberbank-tele.com
 .sberbank.com
 .sberbank.ru
 .sberbankaktivno.ru
@@ -1089,6 +1111,7 @@
 .static-storage.net
 .staticmy.com
 .stavropol.ru
+.stolichki.ru
 .stv.ru
 .su
 .summerstage.ru
@@ -1246,11 +1269,13 @@
 .userapi.com
 .userapi.ru
 .usocial.pro
+.uteka.ru
 .uweb.ru
 .vamzakaz.ru
 .velberis.ru
 .viju.ru
 .vildberis.ru
+.vimu.tv
 .vipmed.ru
 .viqeo.tv
 .viqeotv.com
@@ -1437,6 +1462,7 @@
 .x5q.ru
 .x5static.net
 .x5w.ru
+.xlnk.ms
 .xmail.ru
 .xn-----6kc7adj0c9esa.com
 .xn----7sbaba0dc6cdn7cxcj.com
@@ -1562,6 +1588,7 @@
 .yuzhno-sakhalinsk.ru
 .zarplata.ru
 .zdrav10.ru
+.zdravcity.ru
 .zenit-card.ru
 .zenit.ru
 .ziraatbank.ru

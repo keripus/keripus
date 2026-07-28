@@ -5,6 +5,7 @@
 .browserleaks.com
 .bypasscensorship.org
 .c4rex.co
+.ceno.app
 .censorship.ai
 .censorship.no
 .cf-ipfs.com

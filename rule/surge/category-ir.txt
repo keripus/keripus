@@ -237,6 +237,7 @@
 .parspack.com
 .pay.ir
 .payping.ir
+.pazhnetwork.com
 .pec.ir
 .pep.co.ir
 .picofile.com
