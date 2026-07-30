@@ -31,6 +31,7 @@
 .metrika.yandex.ru
 .my-manager-account.com
 .naydex.net
+.realtyverif.ru
 .rostaxi.org
 .shedevrum.ai
 .sourcecraft.dev
@@ -112,6 +113,7 @@
 .yastatic-net.ru
 .yastatic.net
 .yccdn.ru
+.yndx.net
 adfstat.yandex.ru
 ads.yandex.com
 ads.yango.com

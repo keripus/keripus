@@ -120,6 +120,7 @@
 .mycdn.me
 .mytopf.com
 .mytrk.link
+.o-uchi.ru
 .odkl.ru
 .odnoklasniki.by
 .odnoklasniki.ua
@@ -173,6 +174,7 @@
 .tracker.my.com
 .tusco.ru
 .uchi.ru
+.uchilk.ru
 .uma.media
 .umschool.net
 .userapi.com
@@ -240,6 +242,7 @@
 .xn----7sbbamm1bv2bh7i.com
 .xn----8sbaroledu6bi7j.com
 .xn----8sbeoy5bze.com
+.xn----otbzjdu.xn--p1ai
 .xn--80aqcf7a6do.com
 .xn--80asgb.xn--p1ai
 .xn--e1aigb.xn--p1ai

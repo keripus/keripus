@@ -1743,6 +1743,7 @@
 .api.ai
 .api.news
 .api2.amplitude.com
+.apiauto.ru
 .apibay.org
 .apigee.com
 .apihub-internal.cn
@@ -2403,6 +2404,7 @@
 .authorxml.com
 .authpass.app
 .authy.com
+.auto.ru
 .autocad-schulungen.com
 .autocad.com
 .autocad360.com
@@ -2541,6 +2543,7 @@
 .automaton-media.com
 .automobile.fr
 .automotive-cadcam.com
+.autoru.me
 .autosketch.com
 .autumn-jade.com
 .auxdubai.com
@@ -2633,6 +2636,7 @@
 .avstar6.com
 .avstar8.com
 .avstar9.com
+.avto.ru
 .avwong.com
 .avwto.com
 .avxde.org
@@ -5055,6 +5059,8 @@
 .cherrypanpan.com
 .cherrypimps.com
 .cherrypornhd.com
+.chess.com
+.chesscomfiles.com
 .chianxv.buzz
 .chibabank.co.jp
 .chibakogyo-bank.co.jp
@@ -5128,6 +5134,9 @@
 .chyoa.com
 .ci-en.jp
 .ci-en.net
+.cian.ru
+.cian.site
+.ciangroup.ru
 .ciattackers.com
 .cici.com
 .ciciai.com
@@ -5344,6 +5353,7 @@
 .clubtubes.com
 .clusterconnection.com
 .clzz2.xyz
+.cm.expert
 .cmhalq.com
 .cmmedia.com.tw
 .cmpaas.com
@@ -6533,6 +6543,7 @@
 .dmed.technology
 .dmgmediaprivacy.co.uk
 .dmhy.org
+.dmir.ru
 .dmit.io
 .dmit.sh
 .dml-lang.org
@@ -6731,6 +6742,7 @@
 .drmgmggyi-mm.blogspot.com
 .drnastran.com
 .drobbox.pro
+.drom.ru
 .dronedj.com
 .dropbox-dns.com
 .dropbox.com
@@ -15906,6 +15918,7 @@
 .nytimes.com
 .nytstyle.com
 .o-courier.ru
+.o-uchi.ru
 .o2action.co.kr
 .o3.ru
 .o365cn.com
@@ -17404,6 +17417,7 @@
 .posty.kr
 .postyourgirls.ws
 .potenza.jp
+.poudobnee.com
 .povpornonly.com
 .povr.com
 .poweranimator.com
@@ -17909,6 +17923,7 @@
 .rbxtrk.com
 .rcl07.xyz
 .rclon.com
+.rdrom.ru
 .rds-yes.buzz
 .rdtcdn.com
 .re25.vip
@@ -17979,6 +17994,7 @@
 .realtor.com
 .realtype.co.jp
 .realtype.jp
+.realtyverif.ru
 .realvision.com
 .realviz.com
 .realzoomovies.com
@@ -21137,6 +21153,7 @@
 .ubuntuforums.org
 .uchi.ru
 .uchicago.edu
+.uchilk.ru
 .ucla.edu
 .ucoz.ae
 .ucoz.club
@@ -22989,6 +23006,7 @@
 .xn----8sbkfzespdwig.xn--p1ai
 .xn----8sbwjbxyd.xn--p1ai
 .xn----fr0b94b15d2ue8q7a1o3e.xn--wcvs22d.xn--j6w193g
+.xn----otbzjdu.xn--p1ai
 .xn--096-4g6em5t.com
 .xn--201-4g6em5t.com
 .xn--202-4g6em5t.com
@@ -23007,6 +23025,8 @@
 .xn--7hv594h.com
 .xn--7hvy28f.cn
 .xn--80a9a4b.xn--p1ai
+.xn--80aaafbpzn5blfby1p.xn--p1ai
+.xn--80aaeib8abrryx4k.xn--p1ai
 .xn--80aafgovrgbc7am.xn--p1ai
 .xn--80acbjgmges7ca.xn--p1ai
 .xn--80acbjgsdq2cl.xn--p1ai
@@ -23678,6 +23698,7 @@
 .ymhsf.top
 .ymhsf1.top
 .ync.ne.jp
+.yndx.net
 .ynoproject.net
 .yo-star.com
 .yo1health.com
@@ -24854,6 +24875,7 @@ misc-assets.itunes.apple.com
 ml.cdn-apple.com
 mobilelive-hamivideo.cdn.hinet.net
 mozilla-ohttp.fastly-edge.com
+mozilla.map.fastly.net
 mpnbenefits.download.prss.microsoft.com
 mpnbenefitsrtl.download.prss.microsoft.com
 mpnbenefitsrtluat.download.prss.microsoft.com
