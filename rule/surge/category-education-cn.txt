@@ -117,6 +117,8 @@
 .qgzb.com.cn
 .qgzb.gov.cn
 .qgzb.net
+.qianxuecloud.com
+.qianxueyunke.com
 .qingtingai.net
 .quyixian.com
 .rainclassroom.com
@@ -147,6 +149,7 @@
 .xuetangx.com
 .ybccode.com
 .yeshj.com
+.yooc.me
 .youjiao.com
 .ystbds.com
 .yuanfudao.com
@@ -165,6 +168,7 @@
 .zgsydw.com
 .zhan.com
 .zhihuishu.com
+.zhixingyunke.com
 .zhongkao.com
 .zjzs.net
 .zuowen.com
