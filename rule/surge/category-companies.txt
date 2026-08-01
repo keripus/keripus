@@ -146,6 +146,7 @@
 .acmvalidationsaws.com
 .acpica.com
 .acrobat.com
+.actifio.com
 .ad.mail.ru
 .adam.jp
 .adaptivecards.io
@@ -494,6 +495,7 @@
 .aplestore.com
 .aplleipods.com
 .apole.com
+.app-ads-services.com
 .app-analytics-services-att.com
 .app-analytics-services.com
 .app-dynamics.com
@@ -5566,6 +5568,7 @@
 .nomulus.foo
 .nomyne.com
 .nonlinearnastran.com
+.notebook.google.com
 .notebooklm.google
 .notebooklm.google.com
 .now-ashare.com
@@ -5757,6 +5760,7 @@
 .openweather.co.uk
 .openweathermap.org
 .openweave.io
+.openxla.org
 .optanedifference.com
 .opticore.com
 .opticsforthecloud.net

@@ -69,6 +69,8 @@
 .generativeai.google
 .generativelanguage.googleapis.com
 .githubcopilot.com
+.grazie.ai
+.grazie.aws.intellij.net
 .grok.com
 .grok.x.com
 .grokipedia.com
@@ -79,6 +81,7 @@
 .host.livekit.cloud
 .huggingface.co
 .jasper.ai
+.jetbrains.ai
 .jules.google
 .jules.google.com
 .kiro.dev
@@ -98,6 +101,7 @@
 .minimax.io
 .mistral.ai
 .mozilla.ai
+.notebook.google.com
 .notebooklm.google
 .notebooklm.google.com
 .oaistatic.com

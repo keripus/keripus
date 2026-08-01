@@ -6,6 +6,7 @@
 .2mdn.net
 .466453.com
 .abc.xyz
+.actifio.com
 .adgoogle.net
 .admeld.com
 .admob-cn.com
@@ -35,6 +36,7 @@
 .antigravity.google
 .api.ai
 .apigee.com
+.app-ads-services.com
 .app-analytics-services-att.com
 .app-analytics-services.com
 .app-measurement-cn.com
@@ -578,6 +580,7 @@
 .new.day
 .nexus
 .nomulus.foo
+.notebook.google.com
 .notebooklm.google
 .notebooklm.google.com
 .oauthz.com
@@ -592,6 +595,7 @@
 .opensourceinsights.dev
 .openthread.io
 .openweave.io
+.openxla.org
 .orbitera.com
 .page.link
 .pagead.l.google.com
