@@ -848,6 +848,7 @@
 .cbinews.com
 .cbjq.com
 .cbjs.baidu.com
+.cbn.cn
 .cc-pay.cn
 .ccf.org.cn
 .ccfund.com.cn
@@ -1014,7 +1015,6 @@
 .chinazns.com
 .chinesemooc.org
 .chiphell.com
-.chn.cn
 .chndoi.org
 .chnppmuseum.com
 .chongbuluo.com
