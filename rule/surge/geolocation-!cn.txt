@@ -178,6 +178,7 @@
 .2019baidu.xyz
 .2023aga.oen.tw
 .2025copy.com
+.20thcenturystudios.com
 .20thcenturystudios.com.au
 .20thcenturystudios.com.br
 .20thcenturystudios.jp
@@ -207,10 +208,14 @@
 .2bit8.com
 .2buybeatsbydre.com
 .2ch.hk
+.2ch.life
 .2ch.net
+.2ch.org
+.2ch.su
 .2chav.com
 .2dgen.com
 .2drdrebeats.com
+.2dust.link
 .2gayboys.com
 .2gis.ae
 .2gis.am
@@ -561,6 +566,7 @@
 .abc.xyz
 .abcheadphones.com
 .abclider.com
+.abcnews.com
 .abeatsbydrdre.com
 .abellalist.com
 .abema-tv.com
@@ -1578,6 +1584,7 @@
 .amerikiskhma.com
 .amiibo.com
 .amlg.io
+.amnezia.org
 .amodoll.com
 .amourangels.com
 .amp.dev
@@ -2860,6 +2867,7 @@
 .baltnews.com
 .baltnews.lt
 .bamgrid.com
+.bamtech.net
 .bamtoki.com
 .banan.tv
 .bananacall.ru
@@ -4576,7 +4584,6 @@
 .byspotify.com
 .bystys.tech
 .bytedapm.com
-.byteoversea.com
 .bytick.com
 .c-ij.com
 .c-msedge.net
@@ -5222,10 +5229,13 @@
 .clarity.ms
 .clarivate.com
 .clash.com
+.clashmi.app
 .clashmini.com
 .clashofclans.com
+.clashparty.org
 .clashroyale.com
 .clashroyaleapp.com
+.clashverge.dev
 .clashyun.com
 .clasporno.org
 .classicnike.com
@@ -5287,9 +5297,11 @@
 .cloudflare-ipfs.com
 .cloudflare-quic.com
 .cloudflare-terms-of-service-abuse.com
+.cloudflare.app
 .cloudflare.com
 .cloudflare.dev
 .cloudflare.net
+.cloudflare.pay
 .cloudflare.tv
 .cloudflareaccess.com
 .cloudflareanycast.net
@@ -6188,6 +6200,7 @@
 .detaliczny.com
 .detentiongirls.com
 .detodosparatodos.org
+.detpress.com
 .dettol-prize.com
 .dettol.at
 .dettol.be
@@ -6458,7 +6471,9 @@
 .disney.ru
 .disney.se
 .disney.sg
+.disneyaccount.com
 .disneyadsales.com
+.disneyanimation.com
 .disneyarena.com
 .disneyaulani.com
 .disneybaby.com
@@ -6474,6 +6489,7 @@
 .disneyinternationalhd.com
 .disneyjunior.com
 .disneyjuniortreataday.com
+.disneylandparis.com
 .disneylatino.com
 .disneymagicmoments.co.il
 .disneymagicmoments.co.uk
@@ -6495,12 +6511,13 @@
 .disneypeoplesurveys.com
 .disneyplus.bn5x.net
 .disneyplus.com
-.disneyplus.com.ssl.sc.omtrdc.net
+.disneyprivacycenter.com
 .disneyredirects.com
 .disneysrivieraresort.com
 .disneystore.com
 .disneystreaming.com
 .disneysubscription.com
+.disneytermsofuse.com
 .disneytickets.co.uk
 .disneyturkiye.com.tr
 .disneytvajobs.com
@@ -8378,6 +8395,7 @@
 .flatmates.com.au
 .flatpak.org
 .flatt.tech
+.flclashx.app
 .fldz8.buzz
 .fleshbot.com
 .fleshlyx.com
@@ -8404,6 +8422,7 @@
 .flowfront.com
 .flowfront.net
 .flowtype.org
+.flowvy.io
 .flowwow-images.com
 .flowwow.com
 .fluffychat.im
@@ -8710,6 +8729,7 @@
 .freefacebookads.net
 .freefblikes.com
 .freefbx.com
+.freeform.com
 .freegaypornhdtube.com
 .freegaysexgames.com
 .freehdinterracialporn.in
@@ -10506,6 +10526,7 @@
 .honestpornreviews.com
 .hongjie10.xyz
 .hongjie11.xyz
+.hongkongdisneyland.com
 .hongkongdoll.tv
 .hongkongdollvideo.org
 .hongkongfp.com
@@ -11381,6 +11402,7 @@
 .incezt.net
 .inclusivegrowthscore.com
 .incommon-rsa.org
+.incy.cc
 .ind.sh
 .indazn.com
 .indaznlab.com
@@ -12522,6 +12544,7 @@
 .karechat.ai
 .karger.com
 .karinahart.com
+.karing.app
 .karlajames.com
 .karmahelp.ru
 .karta-banka-rf.ru
@@ -13240,6 +13263,7 @@
 .lubetube.com
 .lucahmelayu.club
 .lucasentertainment.com
+.lucasfilm.com
 .luckyissue.com
 .luckysrv.de
 .lululu.one
@@ -15127,6 +15151,7 @@
 .nbys.tv
 .nbys1.tv
 .nbyy.tv
+.ncbi.nlm.nih.gov
 .ncl.edu.tw
 .ncloud.com
 .near.by
@@ -15153,6 +15178,7 @@
 .neicad.com
 .neiexplicit.com
 .neifea.com
+.neigbuy.com
 .neimotion.com
 .neinastranincad.com
 .neisoftware.com
@@ -15711,6 +15737,7 @@
 .nsfw247.to
 .nsfwmemes.com
 .nsimg.net
+.nsloon.com
 .nspk.ru
 .ntc.party
 .ntd.com
@@ -16128,6 +16155,7 @@
 .oneteamconference.com
 .onetrust.com
 .oneworldmanystories.com
+.onexray.com
 .onfinality.io
 .onindiansex.com
 .oninstagram.com
@@ -16906,6 +16934,7 @@
 .piwheels.org
 .pixanalytics.com
 .pixapp.net
+.pixar.com
 .pixate.com
 .pixel.facebook.com
 .pixfs.net
@@ -17557,6 +17586,7 @@
 .privatevoyeurvideos.com
 .privilege.hk
 .privilege.tw
+.prizrak.app
 .proactivebackend-pa.googleapis.com
 .proctoscopeexam.com
 .prod-my.games
@@ -18697,6 +18727,7 @@
 .seaofsolitude.com
 .seaporn.org
 .search.xxx
+.searchlightpictures.com
 .seasidestory.tokyo
 .seattlespheres.com
 .seb.ru
@@ -18999,6 +19030,7 @@
 .sh83.xyz
 .shadbase.com
 .shadowcomplex.com
+.shadowlaunch.com
 .shadowslaves.com
 .shadowsocks.com
 .shadowsocks.nl
@@ -19009,6 +19041,7 @@
 .shahvani.site
 .shakethesnake.com
 .shameless.com
+.shanghaidisneyresort.com
 .shaparak.ir
 .shapelcounset.xyz
 .sharefile.com
@@ -19826,6 +19859,8 @@
 .starwarsjedifallenorder.com
 .starwarskids.com
 .starwarstheoldrepublic.com
+.stash.wiki
+.stash.ws
 .stateofthemap.com
 .stateofthemap.org
 .static-cisco.com
@@ -20584,6 +20619,7 @@
 .theuab.net
 .theverge.com
 .thevirtualsexreview.com
+.thewaltdisneycompany.com
 .theweek.in
 .thewonderful101.com
 .theyxxx.com
@@ -20757,6 +20793,7 @@
 .tokyo-hot.com
 .tokyo-sports.co.jp
 .tokyo-tosho.net
+.tokyodisneyresort.jp
 .tokyomotion.com
 .tokyomotion.net
 .tokyonightstyle.com
@@ -22312,6 +22349,7 @@
 .walmart.com
 .walmart.pharmacy
 .walmartimages.com
+.waltdisneystudios.com
 .wana-tv.sbs
 .wancctv.asia
 .wandan-dh.buzz
@@ -22504,6 +22542,7 @@
 .wfm.com
 .wgcdn.co
 .wgcrowd.io
+.wgtunnel.com
 .whasil.xyz
 .what-fan.net
 .whatboyswant.com
@@ -22693,6 +22732,7 @@
 .wirelessreach.com
 .wiremoneytoirelandwithxoomeasierandcheaper.com
 .wireshark.org
+.wiresock.net
 .wise-research.com
 .wise.com
 .wisecoin.com
@@ -24586,6 +24626,7 @@ dgeft87wbj63p.cloudfront.net
 discord-attachments-uploads-prd.storage.googleapis.com
 discussionschinese.apple.com
 disney.my.sentry.io
+disneyplus.com.ssl.sc.omtrdc.net
 dl.begellhouse.com
 dl.dell.com
 dl.google.com
@@ -24884,6 +24925,7 @@ m1.ppy.sh
 maps.apple.com
 marketing-info.wildberries.ru
 marketplace-sentry.wb.ru
+matsuridayo.github.io
 mbs.download.prss.microsoft.com
 mc.yandex.com
 mc.yandex.net
@@ -24896,6 +24938,7 @@ mensura.cdn-apple.com
 mesu-cdn.apple.com.akadns.net
 mesu-china.apple.com.akadns.net
 mesu.apple.com
+metacubex.github.io
 metrics.21-school.ru
 misa-prod.s3.ap-northeast-1.amazonaws.com
 misc-assets.itunes.apple.com
@@ -24923,8 +24966,6 @@ mwf-service.akamaized.net
 myapp.itunes.apple.com
 myvs.download.prss.microsoft.com
 na1r.services.adobe.com
-nab.demdex.net
-nationalaustraliaban.tt.omtrdc.net
 nbbb1bb7.pmhcjk.com
 netflix.com.edgesuite.net
 new-adv.ozon.ru
@@ -25099,6 +25140,7 @@ questions-adv.ozon.ru
 r0.mail.ru
 r0.mradx.net
 r1.mail.ru
+rabbit-hole-1.gitbook.io
 recaptcha-cn.net
 recaptcha.net
 redirector.bdn.dev
@@ -25371,6 +25413,7 @@ tac.googleapis.com
 target.vk.com
 teamviewer.com.cdn.cloudflare.net
 tf-feedback.itunes.apple.com
+throneproj.github.io
 thumbnail-hamivideo.cdn.hinet.net
 time-a-b.nist.gov
 time-a-g.nist.gov

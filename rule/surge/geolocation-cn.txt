@@ -364,6 +364,8 @@
 .95516.com
 .95516.net
 .9553.com
+.95598.cn
+.95598pay.com
 .962.net
 .9718.com
 .97ting.com
@@ -430,6 +432,7 @@
 .adukwai.com
 .adv-sv-show.focus.cn
 .adv-sv-stat.focus.cn
+.adx.36kr.com
 .adx.xiaodutv.com
 .adxvip.com
 .afd.baidu.com
@@ -1209,6 +1212,7 @@
 .csdn.net.cn
 .csdnimg.cn
 .csfounder.com
+.csg.cn
 .csmjzs.com
 .cspro.org
 .csqaq.com
@@ -1579,6 +1583,7 @@
 .ebscn.com
 .ebtrust.com
 .eceshi.com
+.echargenet.com
 .ecjobhome.com
 .eclick.baidu.com
 .ecloud-gdu.com
@@ -1586,6 +1591,7 @@
 .ecmb.bdimg.com
 .ecmc.bdimg.com
 .ecns.cn
+.ecsg.com.cn
 .ecukwai.com
 .eda.cn
 .edgecloudx.cn
@@ -1629,6 +1635,7 @@
 .erp321.com
 .erp321.net
 .ersjk.com
+.esgcc.com.cn
 .essence.com.cn
 .et-api.com
 .et001.com
@@ -3569,6 +3576,7 @@
 .postfund.com.cn
 .postmail.cn
 .postoa.com.cn
+.poweremarket.com
 .ppkankan01.com
 .pplive.cn
 .pplive.com
@@ -3880,6 +3888,7 @@
 .sffix.cn
 .sfgy.org
 .sgamer.com
+.sgcc.com.cn
 .shanbay.com
 .shang360.com
 .shangc.net

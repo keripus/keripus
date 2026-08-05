@@ -2,6 +2,7 @@
 .bigbigshop.com
 .encoretvb.com
 .mytvsuper.com
+.neigbuy.com
 .tvb.com
 .tvb.com.au
 .tvbanywhere.com

@@ -1,6 +1,7 @@
 .cloudflare-dns.com
 .nextdns.io
 .opendns.com
+5u35p8m9i7.cloudflare-gateway.com
 ada.openbld.net
 adblock.dns.mullvad.net
 all.dns.mullvad.net
@@ -21,6 +22,7 @@ dns.adguard-dns.com
 dns.adguard.com
 dns.alidns.com
 dns.arapurayil.com
+dns.astracat.ru
 dns.bebasid.com
 dns.caliph.dev
 dns.cfiec.net
@@ -30,8 +32,11 @@ dns.de.futuredns.eu.org
 dns.decloudus.com
 dns.digitale-gesellschaft.ch
 dns.dnswarden.com
+dns.geohide.ru
 dns.google
 dns.jupitrdns.com
+dns.mafioznik.xyz
+dns.malw.link
 dns.marbledfennec.net
 dns.mullvad.net
 dns.oszx.co
@@ -118,4 +123,5 @@ us-nyc.doh.sb
 us-sjc.doh.sb
 v.recipes
 wikimedia-dns.org
+xbox-dns.ru
 zero.dns0.eu
