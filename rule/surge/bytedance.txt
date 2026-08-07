@@ -68,6 +68,7 @@
 .building.fun
 .butterfly-static.cn
 .butterflyai.cn
+.buydouke.com
 .bvfcdn.com
 .bvfcdn2.com
 .bvfcdn3.com
@@ -184,6 +185,7 @@
 .bytetraffic.net
 .bytetstatic.com
 .bytetstatic.net
+.byteurl.cn
 .bytevalk.com
 .bytevcloudapi.com
 .bytevcloudvod.com
@@ -192,6 +194,7 @@
 .bytexservice.com
 .cache4ever.com
 .cache666.com
+.capcut.cn
 .capcut.com
 .capcutcdn-us.com
 .cdnbuild.com
@@ -223,6 +226,7 @@
 .cozetest3.cn
 .csjplatform.com
 .ctobsnssdk.com
+.dailygn.com
 .datawindexmarket.com
 .dbbuilding.fun
 .dcarapi.com
@@ -241,17 +245,19 @@
 .doudou.com
 .douyincloud.net
 .douyincloud.run
-.douyinec.com
 .draftstatic.com
 .druid.vip
 .dycloud.run
 .dycloudbk.com
 .ecombdapi.com
+.ecombdimg.com
 .ecombdstatic.com
+.ecombdvod.com
 .edgeceler.com
 .emr-volces.com
 .extlog.snssdk.com
 .faceu.com
+.faceu.mobi
 .fanqiecopyright.com
 .fanqienovel.com
 .fanqieopen.com
@@ -360,9 +366,11 @@
 .novelfmpic.com
 .novelfmstatic.com
 .novelfmvod.com
+.nvsgames.cn
 .obriccloud.com
 .obricclouddw.com
 .oceancloudapi.com
+.oceanengine.com
 .omini-shield.com
 .oortgslb.com
 .openbcs.com
