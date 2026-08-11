@@ -158,6 +158,7 @@
 .mdt.qq.com
 .metalrevolution.com
 .midasbuy.com
+.mmbizurl.cn
 .monitor.music.qq.com
 .monitor.uu.qq.com
 .mpush.qq.com
@@ -286,6 +287,7 @@
 .ugdtimg.com
 .ultimatemusic.cn
 .uranus.sogou.com
+.url.cn
 .videoxiaoyouxi.com
 .wannianqingjianzhan.com
 .wcbygame.com
