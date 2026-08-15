@@ -20,6 +20,7 @@
 .ali-gtm-pressure.com
 .ali-restore.net
 .api-building.fun
+.applogcdn.com
 .arco.design
 .ark-doc-resources.cn
 .auto-validation.com
@@ -420,6 +421,7 @@
 .samasty.com
 .sealsuite.com
 .sealsuite.net
+.searchpstatp.com
 .searchstatic.com
 .searchtoutiaolive.com
 .sf3-ttcdn-tos.pstatp.com
