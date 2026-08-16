@@ -335,9 +335,11 @@
 .juejin.cn
 .juejin.im
 .juneyaotravelvolc.com
+.kesong.co
 .kfcbest.com
 .kuailepipixia.com
 .kych5.com
+.letsign.com
 .livecdnstatic.com
 .livesaascdn.com
 .livesaasvolccdn.com
@@ -677,6 +679,7 @@
 .wukongwenda.com
 .xck31.cn
 .xflowedge.com
+.xiaohe.cn
 .xiaoxiaapi.com
 .xiguaapp.cn
 .xiguaapp.com
@@ -684,6 +687,7 @@
 .xiguashipin.net
 .xiguavideo.cn
 .xiguavideo.net
+.xingtu.cn
 .xitu.io
 .xsgtvacct.com
 .xyf61.cn
