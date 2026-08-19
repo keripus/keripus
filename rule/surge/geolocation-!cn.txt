@@ -373,6 +373,7 @@
 .59mvmv.com
 .5axis-machining.com
 .5beatsbydre.com
+.5ch.io
 .5ch.net
 .5fang.cc
 .5i01.com
@@ -1560,6 +1561,7 @@
 .amazonvideo.com
 .amazonvideodirect.com
 .amazonwebservices.cn
+.amazonwebservices.com
 .amazonwebservices.com.cn
 .amazonworkdocs.cn
 .amazonworkdocs.com
@@ -2668,6 +2670,8 @@
 .aws-border.cn
 .aws-icp-domain-manager.cn
 .aws-iot-hackathon.com
+.aws.a2z.com
+.aws.amazon.com
 .aws.com
 .aws.dev
 .awsapprunner.com
@@ -6733,6 +6737,7 @@
 .dreamamateurs.com
 .dreambmw.ca
 .dreamforce.com
+.dreamgen.com
 .dreammovies.com
 .dreamorder.com
 .dreamteamfc.com
@@ -8062,6 +8067,7 @@
 .fans17.com
 .fans66.tw
 .fansking.tw
+.fansly.com
 .fansnudes.com
 .fansone.co
 .fanspot.jp
@@ -12679,6 +12685,7 @@
 .killercb.ru
 .kilmeadeandfriends.com
 .kimchi.tv
+.kimi.ai
 .kimogirl.cc
 .kimosex.com
 .kindgirls.com
@@ -14631,6 +14638,7 @@
 .moomoo.com
 .moomooequity.com
 .moomootrustee.com
+.moonshot.ai
 .moov.hk
 .moozporn.com
 .morazzia.com
@@ -15432,6 +15440,8 @@
 .nickscipio.com
 .nicky.xxx
 .nico
+.nico.ms
+.nicochannel.jp
 .nicodic.jp
 .nicolepeters.com
 .nicomanga.jp
@@ -15729,6 +15739,7 @@
 .notebook.google.com
 .notebooklm.google
 .notebooklm.google.com
+.notegpt.io
 .notepad-plus-plus.org
 .noticias-rt.com
 .notimundo.press
@@ -15739,6 +15750,7 @@
 .notion.site
 .notion.so
 .notionusercontent.com
+.novelai.net
 .noveltrove.com
 .novids.com
 .novinhabucetuda.com
@@ -20302,6 +20314,7 @@
 .talantix.ru
 .talentlens.com
 .taleofthenight.com
+.talkai.info
 .talkingkotlin.com
 .talksport.com
 .tamilsexvideos.cc
@@ -24371,7 +24384,6 @@ advert-media-api.wb.ru
 advert-media-api.wildberries.ru
 advk.vk.ru
 afa7f374f51cc8991.awsglobalaccelerator.com
-afcs.dell.com
 agb9r0ad.qllfkl.com
 agency-adv.ozon.ru
 ai.google.dev
@@ -24557,7 +24569,6 @@ client-api.itunes.apple.com
 client-teamviewer-com.trafficmanager.net
 clientflow.apple.com
 clientflow.apple.com.akadns.net
-clientperipherals.dell.com
 clients1.google.com
 clientservices.googleapis.com
 cloudaicompanion.googleapis.com
@@ -24595,7 +24606,6 @@ csis-prod.s3.amazonaws.com
 cstat.apple.com
 cstat.cdn-apple.com
 ctldl.windowsupdate.com
-customization-cdn.dell.com
 d1d0w7op819ely.cloudfront.net
 d1fijc56o1fzod.cloudfront.net
 d1g1f25tn8m2e6.cloudfront.net
@@ -24657,7 +24667,6 @@ dcb0z5ovq92mz.cloudfront.net
 dd-cdn.origin-apple.com.akadns.net
 ddacn6pr5v0tl.cloudfront.net
 ddpjwstwtpszg.cloudfront.net
-dds.dell.com
 default.exp-tas.com
 dejavu.apple.com
 dell.my.site.com
@@ -24675,7 +24684,6 @@ discussionschinese.apple.com
 disney.my.sentry.io
 disneyplus.com.ssl.sc.omtrdc.net
 dl.begellhouse.com
-dl.dell.com
 dl.google.com
 dl.l.google.com
 dlgarenanow-a.akamaihd.net
@@ -24723,9 +24731,6 @@ dtlgalleryint.cloudapp.net
 dykkng5hnh52u.cloudfront.net
 e122475.dscg.akamaiedge.net
 ea.tt.omtrdc.net
-ea2cn-dev-outlet.dell.com
-ea2cn-prod-outlet.dell.com
-ea2cn-staging-outlet.dell.com
 eaassets-a.akamaihd.net
 ebay-25-assets.s3-us-west-1.amazonaws.com
 ecapi-pchome.cdn.hinet.net
@@ -24734,7 +24739,6 @@ edu.tinkoff.ru
 education.tbank.ru
 efe8f8a4-abd5-44c9-bf5c-cd217442c52f.t.ssp.hinet.net
 elib.maruzen.co.jp
-emoi-cncdn.bing.com
 entitlements-edge.itunes.apple.com
 epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
 ereg.adobe.com
@@ -24755,7 +24759,6 @@ fandom.zendesk.com
 faronics.kayako.com
 favoritescc-hamivideo2.cdn.hinet.net
 fbcdn-a.akamaihd.net
-fcs.dell.com
 fides-pol.apple.com
 firebase-settings.crashlytics.com
 firebase.google.com
@@ -24778,10 +24781,6 @@ fonts.gstatic.com
 fontshop-prod-responsive-images.s3.amazonaws.com
 foxnewsplayer-a.akamaihd.net
 fpinit.itunes.apple.com
-fta.dell.com
-ftaapj.dell.com
-ftaemea.dell.com
-ftasitapj.dell.com
 g0.gstatic.com
 g1.gstatic.com
 g2.gstatic.com
@@ -24789,8 +24788,6 @@ g3.gstatic.com
 gamedownloads-rockstargames-com.akamaized.net
 gamer-cds.cdn.hinet.net
 gamer2-cds.cdn.hinet.net
-gbxgateway-dev.dell.com
-gbxgateway.dell.com
 gigabyte2.azureedge.net
 github-api.arkoselabs.com
 github-cloud.s3.amazonaws.com
@@ -24871,7 +24868,6 @@ hpefonts.s3.amazonaws.com
 hpstore.corpmerchandise.com
 hub.slarker.me
 hulu.playback.edge.bamgrid.com
-i.dell.com
 i.jeded.com
 i.pki.goog
 images-cn-8.ssl-images-amazon.com
@@ -25016,7 +25012,6 @@ na1r.services.adobe.com
 nbbb1bb7.pmhcjk.com
 netflix.com.edgesuite.net
 new-adv.ozon.ru
-nexus.dell.com
 nix-community.github.io
 notary-submissions-prod.s3-accelerate.amazonaws.com
 notary-submissions-prod.s3.us-west-2.amazonaws.com
@@ -25098,7 +25093,6 @@ osu.ppy.sh
 osxapps.itunes.apple.com
 osxapps.itunes.g.aaplimg.com
 p-events-delivery.akamaized.net
-p.cdn.persaas.dell.com
 p00.upd.kaspersky.com
 p01.upd.kaspersky.com
 p02.upd.kaspersky.com
@@ -25264,7 +25258,6 @@ safebrowsing.googleapis.com
 sberpro.vedomosti.ru
 scc-hamivideo.cdn.hinet.net
 scc.ott.hinet.net
-scene7-cdn.dell.com
 scholar.google.ae
 scholar.google.at
 scholar.google.be
@@ -25368,12 +25361,8 @@ sf-api-token-service.itunes.apple.com
 sh-pod2-smp-device.apple.com
 shazam-insights.cdn-apple.com
 shell.cdn.office.net
-si.cdn.dell.com
-sm.dell.com
 smp-device-content.apple.com
 sni1dcb6gl.wpc.edgecastcdn.net
-snp.cdn.dell.com
-snpi.dell.com
 software.download.prss.microsoft.com
 sp.itunes.apple.com
 spectator.ppy.sh
@@ -25438,7 +25427,6 @@ supercell.helpshift.com
 supercell.zendesk.com
 support-china.apple-support.akadns.net
 support.apple.com
-supportassist.dell.com
 surface.download.prss.microsoft.com
 surface.downloads.prss.microsoft.com
 swallow-apple-com.v.aaplimg.com
@@ -25507,7 +25495,6 @@ tmdb-image-prod.b-cdn.net
 tmdb-web-image-prod.b-cdn.net
 tools.google.com
 top-staging.mail.ru
-tp.louisvuitton.com
 tracing-http.megamarket.tech
 trojan-gfw.github.io
 tv.applemusic.com
@@ -25546,7 +25533,6 @@ update.googleapis.com
 updates-http.cdn-apple.com
 updates-http.cdn-apple.com.akadns.net
 updates.cdn-apple.com
-uplaypc-s-ubisoft.cdn.ubi.com
 upp.itunes.apple.com
 ut1-time.colorado.edu
 ut1-wwv.nist.gov
@@ -25701,13 +25687,10 @@ wwis-dubc1-vip97.adobe.com
 wwis-dubc1-vip98.adobe.com
 wwis-dubc1-vip99.adobe.com
 www-cdn.icloud.com.akadns.net
-www-csb.dell.com
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
-www.amd.com
 www.apple.com
 www.apple.com.edgekey.net.globalredir.akadns.net
-www.dell.com
 www.destinationurl.com
 www.entrust.cn
 www.gstatic.com
