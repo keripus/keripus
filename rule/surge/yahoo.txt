@@ -1,4 +1,5 @@
 .ads.yahoo.com
+.aolcdn.com
 .flic.kr
 .flickr
 .flickr.com
@@ -6,6 +7,7 @@
 .gemini.yahoo.com
 .maktoob.com
 .myguide.hk
+.ouryahoo.com
 .staticflickr.com
 .techcrunch.com
 .yahoo
@@ -163,6 +165,7 @@
 .yahoodns.net
 .yahoofinance.com
 .yahoohealth.com
+.yahooinc.com
 .yahoomusic.com
 .yahoosandbox.com
 .yahoosportsbook.com
