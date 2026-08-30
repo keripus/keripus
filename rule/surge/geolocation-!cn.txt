@@ -1757,7 +1757,6 @@
 .api-priconne-redive.cygames.jp
 .api.ai
 .api.news
-.api2.amplitude.com
 .apiauto.ru
 .apibay.org
 .apigee.com
