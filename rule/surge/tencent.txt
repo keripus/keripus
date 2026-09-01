@@ -268,8 +268,10 @@
 .tencent.net
 .tencent.net.cn
 .tencentcloud.com
+.tencentmiying.com
 .tencentmusic.com
 .tencentstart.com
+.tengmed.com
 .tenpay.com
 .texasholdemcup.cn
 .texasholdemcup.com

@@ -30,6 +30,7 @@
 .cueme.cn
 .dbbuilding.fun
 .deepseek.com
+.deepseeksvc.com
 .diandianlife.top
 .doubao-dev.com
 .doubao.com
@@ -84,6 +85,7 @@
 .tiangong.cn
 .tongyi.aliyun.com
 .tongyi.com
+.workbuddy.cn
 .xiaoaiassist.com
 .xiaomimimo.com
 .xiezuocat.com

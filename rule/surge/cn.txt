@@ -149,6 +149,7 @@
 .360pay.cn
 .360qhcdn.com
 .360safe.com
+.360scdn.com
 .360shouji.com
 .360sjyh.cn
 .360so.com
@@ -1407,6 +1408,7 @@
 .deepepg.com
 .deepinos.org
 .deepseek.com
+.deepseeksvc.com
 .dengguobi.com
 .deppon.com
 .deppon.com.cn
@@ -4262,6 +4264,7 @@
 .tclai.top
 .tcltech.com
 .tcp5.com
+.tctpwebankcdn.net
 .tdsdk.cpatrk.net
 .te5.com
 .teachblog.net
@@ -4633,6 +4636,7 @@
 .wasu.cn
 .wasu.tv
 .wasumedia.cn
+.wbweilicai.com
 .wcbygame.com
 .wch-ic.com
 .wch.cn
@@ -4736,6 +4740,7 @@
 .woodo.cn
 .wooyun.org
 .woozooo.com
+.workbuddy.cn
 .workercn.cn
 .worktile.com
 .worldofship.cn
