@@ -462,6 +462,7 @@
 .ahcjw.com
 .ahfda.com
 .ahitv.com
+.ahnews.com.cn
 .ahwang.cn
 .aicdn.com
 .aichaoxing.com
@@ -585,6 +586,7 @@
 .arpun.com
 .arrow.cn
 .asfiovnxocqpcry.com.cn
+.askci.com
 .askdiandian.com
 .asklib.com
 .asklink.com
@@ -841,6 +843,7 @@
 .c.sayhi.360.cn
 .caac.gov.cn
 .cabbagebox.com
+.cae.cn
 .caijing.com.cn
 .caijingwu.com
 .cailianpress.com
@@ -866,6 +869,7 @@
 .capitalonline.net
 .cardbaobao.com
 .carnoc.com
+.cas.cn
 .cb.baidu.com
 .cbern.com.cn
 .cbinews.com
@@ -876,6 +880,7 @@
 .ccf.org.cn
 .ccfund.com.cn
 .ccidcom.com
+.ccn.com.cn
 .ccnew.com
 .ccreports.com.cn
 .ccrgt.com
@@ -924,8 +929,11 @@
 .cf-ns.site
 .cf-ns.tech
 .cfgw.net.cn
+.cfi.cn
+.cfi.net.cn
 .cfp.cn
 .cfsc.com.cn
+.cfsn.cn
 .cftest5.cn
 .cftest6.cn
 .cftest7.com
@@ -950,6 +958,7 @@
 .changyan.com
 .changyou.com
 .chaojituzi.net
+.chaonei.com
 .chaoxing.cc
 .chaoxing.com
 .chaoxingv.com
@@ -983,7 +992,10 @@
 .china-nengyuan.com
 .china-sss.com
 .china-tower.com
+.china.cn
 .china.com
+.china.com.cn
+.china.org.cn
 .chinaaet.com
 .chinabdh.com
 .chinabooktrading.com
@@ -1036,6 +1048,7 @@
 .chinaunix.net
 .chinaweiyu.com
 .chinawutong.com
+.chinaxiv.org
 .chinayz.com.cn
 .chinaz.com
 .chinaz.net
@@ -1043,6 +1056,7 @@
 .chinesemooc.org
 .chiphell.com
 .chndoi.org
+.chnfund.com
 .chnppmuseum.com
 .chongbuluo.com
 .chongdiantou.com
@@ -1124,6 +1138,9 @@
 .cnbksy.com
 .cnblogs.com
 .cnblogs.vip
+.cncn.com
+.cncnimg.cn
+.cneo.com.cn
 .cnepub.com
 .cnfol.com
 .cnfolimg.com
@@ -1135,6 +1152,7 @@
 .cnki.com.cn
 .cnki.net
 .cnlaw.net
+.cnmo.com
 .cnmooc.org
 .cnms.net.cn
 .cnmstl.net
@@ -1359,11 +1377,13 @@
 .daodoc.com
 .daogou.ai
 .daojia.com
+.daotudashi.com
 .daovoice.io
 .data.pharmacodia.com
 .datacon.org.cn
 .dataeye.com
 .datasea.cn
+.datasheet5.com
 .datayi.cn
 .daton.com.cn
 .dayainfo.com
@@ -1435,6 +1455,8 @@
 .dida365.com
 .didachuxing.com
 .didapinche.com
+.digitaling.com
+.dili360.com
 .dingxiang-inc.com
 .dingxinwen.cn
 .diopic.net
@@ -1548,6 +1570,7 @@
 .duiwai.baidu.com
 .dulupay.com
 .dumate.cn
+.duoduo.link
 .duoduocdn.com
 .duomai.com
 .duoshan.com
@@ -1641,6 +1664,8 @@
 .eduu.com
 .eduuu.com
 .eduyun.cn
+.eefcdn.com
+.eefocus.com
 .eeo.com.cn
 .eeyy.com
 .eflycloud.com
@@ -1681,6 +1706,7 @@
 .everbright.com
 .evolife.cn
 .ewdcloud.com
+.eword.cn
 .ewww.com.cn
 .excelbbx.net
 .excelhome.net
@@ -1761,6 +1787,8 @@
 .fimmu.com
 .finchina.com
 .finclip.com
+.findlaw.cn
+.findlawimg.com
 .fixdown.com
 .fjctyiptv.cn
 .fjsen.com
@@ -1777,6 +1805,7 @@
 .fnnas.com
 .fnnas.net
 .fnos.net
+.fnrrc.com
 .focus-img.cn
 .focus.cn
 .fofa.info
@@ -1889,6 +1918,7 @@
 .gameabc.com
 .gamebonfire.com
 .gamediary.cn
+.gamedog.cn
 .gameitop.com
 .gamelook.com.cn
 .gameloop.com
@@ -1905,6 +1935,7 @@
 .gaodun.com
 .gaojidata.com
 .gaojiua.com
+.gaokao.cn
 .gaokao.com
 .gaoshouyou.com
 .gaoxiaojob.com
@@ -1997,6 +2028,8 @@
 .golinkapi.com
 .golinkcn.com
 .golue.com
+.gongniu.cn
+.gongniukaiguan.net
 .gongxiangcj.com
 .gongxiangjizhang.com
 .goodq.top
@@ -2110,6 +2143,7 @@
 .hainanairlines.com
 .haishun.com
 .halvie.com
+.hammi.cn
 .hanboshi.com
 .handanjob.com
 .hangjiayun.com
@@ -2233,6 +2267,7 @@
 .hnchasing.com
 .hndt.com
 .hnol.net
+.hnr.cn
 .hnrcsc.com
 .hntv.tv
 .hnxzctec.com
@@ -2337,12 +2372,14 @@
 .huazhucorp.com
 .hubeidaily.net
 .hugecore.net
+.huijiaoyun.com
 .huijistatic.com
 .huijiwiki.com
 .huize.com
 .hujia.org
 .hujiang.com
 .hunaniptv.com
+.hunantoday.cn
 .hunantv.com
 .hunyuan.tencent.com
 .huochepiao.com
@@ -2392,6 +2429,7 @@
 .hzman.net
 .i360mall.com
 .i3839.com
+.i4.cn
 .i618.com.cn
 .i8tq.com
 .iachina.cn
@@ -2482,6 +2520,7 @@
 .imgo.tv
 .imgstat.baidu.com
 .immersivetranslate.cn
+.immomo.com
 .imooc.com
 .imp.go.sohu.com
 .imsyy.com
@@ -2544,6 +2583,7 @@
 .itmop.com
 .itpub.net
 .itsk.com
+.ituchong.com
 .ivwen.com
 .iwanad.baidu.com
 .iwangding.com
@@ -2615,6 +2655,7 @@
 .jinchutou.com
 .jindidata.com
 .jingheiot.com
+.jingjiribao.cn
 .jinglingbiaozhu.com
 .jingpt.com
 .jinianbi.com
@@ -2635,6 +2676,7 @@
 .jiuyue919.com
 .jiuzhilan.com
 .jj20.com
+.jjrbs.cn
 .jjtravel.com
 .jjwxc.net
 .jkbl.com
@@ -2830,6 +2872,7 @@
 .kjrb.com.cn
 .kjwugx.com
 .kk1.vip
+.kkj.cn
 .kkmh.com
 .kksmg.com
 .kkzj.com
@@ -2969,6 +3012,7 @@
 .lawyee.org
 .lazycat.cloud
 .lazyer.net
+.lbdj.com
 .lbtp.com
 .lceda.cn
 .lckfb.com
@@ -3051,6 +3095,7 @@
 .lietou-static.com
 .lietou.com
 .lieyunwang.com
+.lifeweek.com.cn
 .lifexue.com
 .lightmake.site
 .lightonus.com
@@ -3208,6 +3253,7 @@
 .mcmod.cn
 .mcpworld.com
 .mdcdn.cn
+.mddclass.com
 .mdpda.com
 .me1.ltd
 .me4399.com
@@ -3218,6 +3264,7 @@
 .mediastory.cc
 .mediav.com
 .medicexam.net
+.medlive.cn
 .megawords.cc
 .meican.com
 .meicanstatic.com
@@ -3338,6 +3385,7 @@
 .mokahr.com
 .moleecel.com
 .moliranran.com
+.momocdn.com
 .monika.love
 .monitor.music.qq.com
 .mooc.cn
@@ -3424,6 +3472,7 @@
 .natfrp.com
 .nattest-china.com
 .nbd.com.cn
+.nbdeli.com
 .ncss.cn
 .ncss.org.cn
 .neea.cn
@@ -3441,6 +3490,7 @@
 .neoschool.com
 .nesc.cn
 .netbian.com
+.netbig.top
 .netzz.net
 .newaircloud.com
 .newasp.net
@@ -3590,6 +3640,7 @@
 .paperang.com
 .papocket.com
 .paydxm.com
+.pbccrc.org.cn
 .pc6.com
 .pcauto.com.cn
 .pcbeta.com
@@ -3606,6 +3657,7 @@
 .pdnews.cn
 .pearvideo.com
 .peccn.com
+.pedaily.cn
 .peeavp.com.cn
 .people.cn
 .people.com.cn
@@ -3718,6 +3770,7 @@
 .qiancangwms.com
 .qiangbus.com
 .qianjia.com
+.qianliaowang.com
 .qianlima.com
 .qianlong.com
 .qiantucdn.com
@@ -3777,6 +3830,7 @@
 .qizuang.com
 .qjmotorlink.com
 .ql1d.com
+.qlchat.com
 .qm989.com
 .qmai.cn
 .qmai.com
@@ -3804,6 +3858,7 @@
 .qtlcdn.com
 .qtlcdn.net
 .qtmojo.com
+.qudian.com
 .qudong.com
 .quecmall.cn
 .quectel.com.cn
@@ -3833,6 +3888,7 @@
 .qznovelstatic.com
 .qznovelvod.com
 .qzwb.com
+.radio.cn
 .rainclassroom.com
 .rainyun.com
 .rdfybk.com
@@ -3903,6 +3959,7 @@
 .safewk.com
 .sagemaker.com.cn
 .saibo.com
+.saicmobility.com
 .sandai.net
 .sangfor.com.cn
 .sanguosha.com
@@ -3926,6 +3983,7 @@
 .schoopia.com
 .scid.cn
 .sciencechina.cn
+.sciencenet.cn
 .sckg.com
 .sclick.baidu.com
 .scm121.cn
@@ -3943,6 +4001,7 @@
 .sda.cn
 .sdgdwljt.com
 .sdo.com
+.sdxjpc.com
 .seasungames.cn
 .seasungames.com
 .seasunwbl.com
@@ -4017,6 +4076,7 @@
 .shineacc.com
 .shinescan.tech
 .shipin520.com
+.shipxy.com
 .shixiseng.com
 .shmetro.com
 .shobserver.cn
@@ -4110,6 +4170,7 @@
 .soufun.com
 .soufun.com.cn
 .soufunimg.com
+.soulapp.cn
 .soulteary.com
 .souqian.com
 .southcn.com
@@ -4126,6 +4187,7 @@
 .springtour.com
 .sptcc.com
 .sq.cc
+.sqqmtj.com
 .sqqnh.cn
 .sqqnh.org
 .sqreader.com
@@ -4222,6 +4284,7 @@
 .t00ls.net
 .t1tms.com
 .t1y5.com
+.t3go.cn
 .t8tms.com
 .t9tms.com
 .tacool.com
@@ -4242,7 +4305,9 @@
 .talk-cloud.net
 .talkingdata.com
 .talkinggame.com
+.tancdn.com
 .tangeche.com
+.tantanapp.com
 .tanwan.com
 .tao123.com
 .taoche.com
@@ -4383,6 +4448,7 @@
 .tongxuepie.com
 .tongyi.aliyun.com
 .tongyi.com
+.toodaylab.com
 .tool56.com
 .tools.team
 .topnews.cn
@@ -4422,6 +4488,7 @@
 .tsingtengms.com
 .ttshitu.com
 .ttxsapp.com.cn
+.tuchong.com
 .tuer123.com
 .tuicool.com
 .tuiwen.net
@@ -4447,6 +4514,7 @@
 .u.tools
 .u3d.cn
 .ubmcvideo.baidustatic.com
+.uboxs.com
 .ubssdic.com
 .ubuntukylin.com
 .ucbug.com
@@ -4603,6 +4671,7 @@
 .vrzwk.top
 .vsread.com
 .vtdd.vip
+.vxhcm.com
 .vzuu.com
 .wahaha.com.cn
 .waifushangcheng.com
@@ -4674,6 +4743,7 @@
 .wenxiaozhan.net
 .wenxin-ge.com
 .werepository.com.cn
+.west.cn
 .west95582.com
 .weui.io
 .wf.pub
@@ -4709,6 +4779,9 @@
 .wjx.com
 .wjx.top
 .wkctj.baidu.com
+.wkepu.cn
+.wkepu.com
+.wkimg.com
 .wkzq.com.cn
 .wkzuche.com
 .wlzq.cn
@@ -4835,6 +4908,7 @@
 .xiaoheihe.cn
 .xiaoka.tv
 .xiaokaxiu.com
+.xiaolachuxing.com
 .xiaolianhb.com
 .xiaoluyouxuan.com
 .xiaoluzhidian.com
@@ -4883,6 +4957,7 @@
 .xiu123.cn
 .xiu8.com
 .xiucai.com
+.xiujiadian.com
 .xiumi.us
 .xiumius.com
 .xiyouyingyu.com
@@ -4890,6 +4965,7 @@
 .xjietiao.com
 .xkb.com.cn
 .xkw.com
+.xlcx.cn
 .xmcdn.com
 .xmhouse.com
 .xmoj.tech
@@ -4926,6 +5002,7 @@
 .xundupdf.com
 .xunfei.cn
 .xunfeixxj.com
+.xunjiepdf.com
 .xunlei.com
 .xunyou.com
 .xunyou.mobi
@@ -4937,18 +5014,21 @@
 .xycdn.com
 .xycloud.com
 .xywy.com
+.xyxy.net
 .xyys.com
 .xyzcdn.net
 .xyzfm.link
 .xyzfm.space
 .xyzq.com.cn
 .xzking.com
+.xzw.com
 .y.qq.com
 .yaduo.com
 .yahui.cc
 .yamibo.com
 .yangkeduo.com
 .yangshipin.cn
+.yangtse.com
 .yaolan.com
 .yaoyl.com
 .yaozh.com
@@ -5037,6 +5117,7 @@
 .yooc.me
 .yoojia.com
 .youba.com
+.youbianku.com
 .youboy.com
 .youhua.com
 .youjiao.com
@@ -5044,7 +5125,9 @@
 .youlai.cn
 .youliancloud.cn
 .youshang.com
+.youth.cn
 .youxiake.com
+.youxibao.com
 .youxichaguan.com
 .youxigt.com
 .youxihezi.net
@@ -5263,6 +5346,7 @@
 .zhlyen.com
 .zhongancloud.com
 .zhongkao.com
+.zhongliujie.com
 .zhuancorp.com
 .zhuangjiba.com
 .zhuaninc.com
@@ -5293,6 +5377,7 @@
 .zlfund.cn
 .zllinks.com
 .zmengzhu.com
+.zmn.cn
 .zmtqsh.cn
 .zmtqsh.com
 .znds.com
@@ -5307,6 +5392,7 @@
 .zs-jlc.com
 .zstatic.net
 .zsxq.com
+.zsyyb.cn
 .zszq.com
 .zt-express.com
 .zte.com.cn
@@ -5330,6 +5416,7 @@
 .zuidaima.com
 .zuihuimai.com
 .zuimeitianqi.com
+.zuiyou.tv
 .zuk.cn
 .zuk.com
 .zuk.com.cn

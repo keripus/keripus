@@ -3093,9 +3093,12 @@
 .findmyipad.com
 .fiotolia.com
 .firebase.com
+.firebase.dev
+.firebase.google.com
 .firebase.io
 .firebaseapp.com
 .firebaseio.com
+.firefox-portal-detection.com
 .firefox.com
 .firefox.hu
 .firefoxtweetmachine.com
@@ -3117,6 +3120,7 @@
 .flipwithsurface.com
 .flow.dev
 .flow.google
+.flow.google.com
 .flow.org
 .flowfront.com
 .flowfront.net
@@ -5577,6 +5581,7 @@
 .nomulus.foo
 .nomyne.com
 .nonlinearnastran.com
+.notebook.google
 .notebook.google.com
 .notebooklm.google
 .notebooklm.google.com
@@ -6632,6 +6637,7 @@
 .terragraph.com
 .tetrika-school.ru
 .texture.com
+.tfbnw.net
 .tfhub.dev
 .tfsallin.net
 .th.bing.com
@@ -8048,9 +8054,10 @@ faronics.kayako.com
 fbcdn-a.akamaihd.net
 fides-pol.apple.com
 firebase-settings.crashlytics.com
-firebase.google.com
 firebase.googleapis.com
 firebaseappcheck.googleapis.com
+firebaseappdistribution.googleapis.com
+firebaseapptesters.googleapis.com
 firebasedynamiclinks-ipv4.googleapis.com
 firebasedynamiclinks-ipv6.googleapis.com
 firebasedynamiclinks.googleapis.com

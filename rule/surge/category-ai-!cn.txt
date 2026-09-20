@@ -64,6 +64,7 @@
 .envato.com
 .envatousercontent.com
 .flow.google
+.flow.google.com
 .gateway.ai.cloudflare.com
 .geller-pa.googleapis.com
 .gemini.google
@@ -106,6 +107,7 @@
 .mistral.ai
 .moonshot.ai
 .mozilla.ai
+.notebook.google
 .notebook.google.com
 .notebooklm.google
 .notebooklm.google.com
