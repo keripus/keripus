@@ -28,7 +28,6 @@
 .ads.huantest.com
 .ads.trafficjunky.net
 .ads.wteam.xyz
-.adservice.sigmob.cn
 .adtechus.com
 .adtrue.com
 .advapi.joyplus.tv
@@ -138,6 +137,7 @@
 .sentry.io
 .shhs-ydd8x2.yjrmss.cn
 .shuzilm.cn
+.sigmob.cn
 .sigmob.com
 .spotxchange.com
 .ssacdn.com
