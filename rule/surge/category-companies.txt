@@ -4786,6 +4786,7 @@
 .l-msedge.net
 .labs.google
 .labs.google.com
+.labstailwind.pa.googleapis.com
 .lanternal.com
 .lasersawapp.com
 .latampartneruniversity.com
@@ -5058,6 +5059,7 @@
 .mesu.apple.com
 .meta.ai
 .meta.com
+.metaaivm.com
 .metabora.io
 .metacloud.com
 .metamind.io
@@ -5435,6 +5437,7 @@
 .mtsmedia.ru
 .mudbox3d.com
 .multiplydiversity.com
+.muse.ai
 .music.apple.com
 .musickit.net
 .musixmatch.com
@@ -8077,6 +8080,8 @@ g0.gstatic.com
 g1.gstatic.com
 g2.gstatic.com
 g3.gstatic.com
+geminiweb-pa.clients.google.com
+geminiweb-pa.clients6.google.com
 gigabyte2.azureedge.net
 github-api.arkoselabs.com
 github-cloud.s3.amazonaws.com

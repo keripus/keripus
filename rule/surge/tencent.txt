@@ -52,6 +52,7 @@
 .chatxiaoxiang.com
 .chatyuewen.cn
 .cnb.cool
+.cnb.space
 .coding.me
 .coding.net
 .codm.com
