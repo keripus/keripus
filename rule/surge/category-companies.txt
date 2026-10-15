@@ -5896,6 +5896,7 @@
 .playstation
 .playstation.com
 .playstation.net
+.playstationnetwork.com
 .plex.com
 .plex.services
 .plex.tv
@@ -6224,6 +6225,7 @@
 .sc-static.net
 .scaleform.com
 .scartel.ru
+.scea.com
 .scene7.com
 .schemer.com
 .scnshop.cc
@@ -6434,6 +6436,7 @@
 .sony.com.pa
 .sony.com.pe
 .sony.com.ph
+.sony.com.py
 .sony.com.sg
 .sony.com.sv
 .sony.com.tr
@@ -6476,8 +6479,10 @@
 .sonydna.com
 .sonyentertainmentnetwork.com
 .sonyglobalsolutions.jp
+.sonyinteractive.com
 .sonykigyo.jp
 .sonylatvija.com
+.sonymusic.com.hk
 .sonynetwork.co.jp
 .sonypcl.jp
 .sonypictures.com
