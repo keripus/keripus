@@ -5809,6 +5809,7 @@
 .cursor.com
 .cursor.sh
 .cursorapi.com
+.cursorvm.com
 .curve.fi
 .curvybbwwives.com
 .curvyerotic.com
@@ -16332,6 +16333,7 @@
 .opal.google.com
 .openai.com
 .openai.com.cdn.cloudflare.net
+.openai.org
 .openamt.com
 .openapiplatform.com
 .openapiservice.com
@@ -18790,6 +18792,7 @@
 .schwab.com.hk
 .schwab.com.sg
 .schwabassetmanagement.com
+.schwabcdn.com
 .schwabplan.com
 .sci-hub.ee
 .sci-hub.it.nf
@@ -20888,6 +20891,8 @@
 .timestamp.apple.com
 .timeweb.cloud
 .timeweb.com
+.timeweb.tech
+.timewebcloud.kz
 .timi1.me
 .timo0.com
 .ting53.xyz
@@ -21346,6 +21351,7 @@
 .typekit.com
 .typekit.net
 .typenetwork.com
+.typesafe.ai
 .typesquare.com
 .typography.com
 .tyre-cadcam.com
