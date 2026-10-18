@@ -891,7 +891,6 @@
 .asfiovnxocqpcry.com.cn
 .askfacebook.net
 .askfacebook.org
-.asobostudio.com
 .asp-cc.com
 .asp.net
 .aspnetcdn.com
@@ -1532,8 +1531,15 @@
 .beddit.tv
 .beesbfl.ru
 .beescrm.ru
+.beget.app
+.beget.cloud
 .beget.com
+.beget.de
+.beget.hosting
+.beget.pro
 .beget.ru
+.beget.tech
+.begetcdn.cloud
 .begin-trade.com
 .behance.net
 .behindthescreenz.com
@@ -1541,6 +1547,7 @@
 .berizaryad.ru
 .berkanawireless.com
 .beru.ru
+.beserver.ru
 .best4bim.com
 .bestbeats4u.com
 .bestbim.com
@@ -1554,6 +1561,7 @@
 .betterbim.com
 .betterwithautodesk.com
 .beyondcore.com
+.bget.ru
 .bhent.co.kr
 .biitii.com
 .bim-360.com
@@ -3120,7 +3128,6 @@
 .flickr
 .flickr.com
 .flickr.net
-.flightsimulator.com
 .flipshare.com
 .flipwithsurface.com
 .flow.dev
@@ -5990,6 +5997,7 @@
 .publishproxy.com
 .pullstring.net
 .pushgrow.io
+.pv-cdn.net
 .pwabuilder.com
 .pxt.io
 .pyrobot.org
@@ -6515,6 +6523,7 @@
 .sportsfacebook.com
 .sportstream.com
 .sprinklesapp.com
+.sprut.io
 .sptvbroadcast.com
 .sqlserveronlinux.com
 .squ1.com
@@ -7272,6 +7281,7 @@
 .xn--80arpq.xn--p1ai
 .xn--80asgb.xn--p1ai
 .xn--90absjljw3g.xn--p1ai
+.xn--90aefb9d.xn--p1ai
 .xn--9kr7l.com
 .xn--9trs65b.com
 .xn--cckwcxetd
@@ -8098,7 +8108,6 @@ firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 firebaseperusertopics-pa.googleapis.com
 firebaseremoteconfig.googleapis.com
-flightsimulator.azureedge.net
 fontfiles.googleapis.com
 fonts.googleapis.com
 fonts.gstatic.com
