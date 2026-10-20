@@ -12863,6 +12863,7 @@
 .koubaibu.jp
 .koukoku.jp
 .kouwobb.com
+.kp.yandex.net
 .kpacg.com
 .kphimsex.net
 .kpht85.com
@@ -13489,6 +13490,7 @@
 .magestic.com
 .magicalmirai.com
 .magicmovies.com
+.magnific.com
 .magnoliaav.com.cn
 .mahajantech.com
 .maidonanews.jp
@@ -14903,6 +14905,7 @@
 .mt.lv
 .mt0011.site
 .mtao.fun
+.mts-link.ru
 .mts-ws.net
 .mts.ru
 .mtsbank.ru
@@ -17597,6 +17600,7 @@
 .postimages.org
 .postimg.cc
 .postini.com
+.postman.com
 .posty.kr
 .postyourgirls.ws
 .potenza.jp
@@ -25071,6 +25075,8 @@ itunesconnect.apple.com
 izattime.qcomgeo2.com
 js-cdn.music.apple.com
 km.support.apple.com
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 ksn-cinfo-geo.kaspersky-labs.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-crypto-info-geo.kaspersky-labs.com

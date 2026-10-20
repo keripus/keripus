@@ -1,4 +1,5 @@
 .1917live.red
+.1c-bitrix.ru
 .1prime.ru
 .21-school.ru
 .24h.tv
@@ -70,6 +71,7 @@
 .altaiobr04.ru
 .amediateka.ru
 .amic.ru
+.amt-insurance.com
 .amur.ru
 .an.yandex.ru
 .analytics.vk.com
@@ -124,6 +126,7 @@
 .avto.ru
 .avtovokzaly.ru
 .azbukainterneta.ru
+.azbyka.ru
 .b17.ru
 .b2c-digest.ru
 .b37mrtl.ru
@@ -174,6 +177,16 @@
 .bget.ru
 .bimsaas.ru
 .bir.ru
+.bitrix.info
+.bitrix24.com
+.bitrix24.net
+.bitrix24.ru
+.bitrix24.tech
+.bitrix24public.com
+.bitrix24shop.ru
+.bitrix24site.ru
+.bitrixphone.com
+.bitrixsoft.com
 .bizmrg.com
 .bk.ru
 .bk6bba-resources.com
@@ -224,6 +237,7 @@
 .ceosummit.ru
 .cert-gib.com
 .cert-gib.ru
+.chat2desk.com
 .chel.ru
 .chelindbank.ru
 .chelinvest.ru
@@ -528,6 +542,7 @@
 .home.bank
 .homecredit.ru
 .hrtek.ru
+.hse.ru
 .hva.im
 .i-ola.ru
 .ibamoscow.ru
@@ -632,6 +647,7 @@
 .jivochat.ru
 .jivosite.com
 .jivosite.ru
+.joyreactor.cc
 .jpmorgan.ru
 .jump.taxi
 .jumpwork.ru
@@ -715,11 +731,14 @@
 .koshelek.app
 .koshelev-bank.ru
 .kostroma.ru
+.kp.yandex.net
 .krasnodar.su
 .krasnoeibeloe.ru
 .krasnoyarsk.ru
 .kremlin.ru
 .kremlinbank.ru
+.ktalk.host
+.ktalk.ru
 .ktech.team
 .kuban.ru
 .kubankredit.ru
@@ -732,6 +751,7 @@
 .lenta.com
 .lenta.tech
 .lerna.ru
+.lexgarant.com
 .lifestyle-tec.ru
 .ligadobra.ru
 .ligastavok-csr.ru
@@ -822,6 +842,7 @@
 .mosgorzdrav.ru
 .mosmetro.ru
 .mosmetro.tech
+.mospat.ru
 .mosreg.ru
 .movika.com
 .mp.world
@@ -832,6 +853,7 @@
 .ms.vk.com
 .ms.vk.ru
 .mspbank.ru
+.mts-link.ru
 .mts-ws.net
 .mts.ru
 .mtsbank.ru
@@ -979,6 +1001,7 @@
 .ozonsport.ru
 .ozonstatus.ru
 .ozonusercontent.com
+.patriarchia.ru
 .payecom.ru
 .payment.ru
 .paywb.com
@@ -1005,8 +1028,12 @@
 .ponyexpress.ru
 .popmechanic.io
 .popmechanic.ru
+.posledovania.ru
 .poudobnee.com
 .pravilno-pishem.ru
+.pravmir.com
+.pravmir.ru
+.pravoslavie.ru
 .premier.one
 .premiumlive.site
 .pressria.ru
@@ -1059,9 +1086,12 @@
 .reg.com
 .reg.ru
 .regard.ru
+.regionvideo.ru
 .relap.mail.ru
 .rencapbank.ru
 .rencredit.ru
+.renins.com
+.renins.ru
 .report-megafon.ru
 .reso-med.com
 .reso-med.ru
@@ -1076,6 +1106,7 @@
 .rncoluminis.ru
 .rnd.ru
 .ro-edu.ru
+.robohall.tech
 .robotext.io
 .rocketozon.by
 .roistat.com
@@ -1620,6 +1651,7 @@
 .wbtek.ru
 .wbwh.ru
 .wbwh.tech
+.webtypikon.ru
 .webvisor.com
 .webvisor.org
 .weildberries.ru
@@ -1720,6 +1752,7 @@
 .xn--80acbjgmges7ca.xn--p1ai
 .xn--80acbjgsdq2cl.xn--p1ai
 .xn--80acgfbsl1azdqr.xn--p1ai
+.xn--80adfddrquddgz.xn--p1ai
 .xn--80adxhks
 .xn--80aglzei.xn--p1ai
 .xn--80aj3b.xn--p1ai
@@ -1965,6 +1998,8 @@ education.tbank.ru
 error-tracking.megamarket.tech
 google-analytics-suite.ozon.ru
 informer.yandex.ru
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 ksn-cinfo-geo.kaspersky-labs.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-crypto-info-geo.kaspersky-labs.com
