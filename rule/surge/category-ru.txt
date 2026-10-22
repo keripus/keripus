@@ -365,6 +365,9 @@
 .drweb.kz
 .drweb.ru
 .drweb.uz
+.ds-servers.com
+.dsn.host
+.dsncdn.net
 .dtf.ru
 .durovscode.com
 .dvbank.ru
@@ -546,6 +549,7 @@
 .hhcdn.ru
 .home.bank
 .homecredit.ru
+.hostland.ru
 .hrtek.ru
 .hse.ru
 .hva.im
