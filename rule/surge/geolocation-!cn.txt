@@ -1607,7 +1607,6 @@
 .ampproject.org
 .ams.org
 .ams02.space
-.ams2.test-ipv6.com
 .amsterdamhotescort.com
 .amsterdamluxescort.com
 .amytele.com
@@ -5967,6 +5966,7 @@
 .dat.foundation
 .data-tscbank.ru
 .data.com
+.data.microsoft.com
 .databank.ru
 .datacloudmy.com
 .dataframeworks.com
@@ -8797,7 +8797,6 @@
 .fptolia.com
 .fqcebook.com
 .fr-beatsbydrestore.com
-.fra.test-ipv6.com
 .fracebook.com
 .fragment.com
 .fragrancebay.com
@@ -11525,6 +11524,7 @@
 .imtintl.com
 .imzog.com
 .in-bank.ru
+.in.applicationinsights.azure.com
 .inaporn.com
 .inasian.club
 .inbox.ru
@@ -13120,6 +13120,7 @@
 .library.lol
 .librarylovefest.com
 .libraryofthumbs.com
+.librewolf.dev
 .librewolf.net
 .libsolutions.app
 .libsolutions.domains
@@ -15375,6 +15376,7 @@
 .netflav5.com
 .netflix.ca
 .netflix.com
+.netflix.com.edgesuite.net
 .netflix.net
 .netflixdnstest0.com
 .netflixdnstest1.com
@@ -19471,7 +19473,6 @@
 .siteripz.net
 .situero.com
 .six9dy.pw
-.sixte.st
 .sjcollect.com
 .sjhsp1.buzz
 .skate2.com
@@ -19875,6 +19876,7 @@
 .spoti.fi
 .spotify-everywhere.com
 .spotify.com
+.spotify.com.edgesuite.net
 .spotify.design
 .spotify.link
 .spotifycdn.com
@@ -20608,6 +20610,7 @@
 .telegram.space
 .telekom.com
 .telekom.de
+.telemetry.microsoft.com
 .telerik.com
 .telesco.pe
 .telesec.de
@@ -20653,30 +20656,6 @@
 .teslamotors.com
 .teslamotors.com.cn
 .teslazta.net
-.test-ipv6.alpinedc.ch
-.test-ipv6.arauc.br
-.test-ipv6.belwue.net
-.test-ipv6.carnet.hr
-.test-ipv6.cl
-.test-ipv6.com
-.test-ipv6.cs.umd.edu
-.test-ipv6.csclub.uwaterloo.ca
-.test-ipv6.cz
-.test-ipv6.epic.network
-.test-ipv6.fratec.net
-.test-ipv6.freerangecloud.com
-.test-ipv6.go6.si
-.test-ipv6.hu
-.test-ipv6.is
-.test-ipv6.iu13.net
-.test-ipv6.ke.liquidtelecom.net
-.test-ipv6.noroutetohost.net
-.test-ipv6.roedu.net
-.test-ipv6.se
-.test-ipv6.sin.vr.org
-.test-ipv6.ttk.ru
-.testipv6.cn
-.testipv6.de
 .testonfox.com
 .tetrika-school.ru
 .tettediferro.it
@@ -24662,6 +24641,9 @@ appleworldwidedeveloper.hb-api.omtrdc.net
 appleworldwidedeveloper.sc.omtrdc.net
 apps.mzstatic.com
 apps5.oingo.com
+appsgenaiserver-pa.clients.google.com
+appsgenaiserver-pa.clients6.google.com
+appsgenaiserver-pa.googleapis.com
 apptrailers.itunes.apple.com
 as-dash-uk-live.akamaized.net
 as-hls-uk-live.akamaized.net
@@ -24861,6 +24843,8 @@ dartsearch-cn.net
 databank.worldbank.org
 database.asahi.com
 datarouter.apps.netherrealm.com
+dc.applicationinsights.azure.com
+dc.services.visualstudio.com
 dc1-cert.ksn.kaspersky-labs.com
 dc1-file.ksn.kaspersky-labs.com
 dc1-pp.ksn.kaspersky-labs.com
@@ -25169,6 +25153,7 @@ linear-abematv.akamaized.net
 link.theplatform.com
 linkedin.sc.omtrdc.net
 live-patreon-marketing.pantheonsite.io
+live.applicationinsights.azure.com
 lm.licenses.adobe.com
 lmlicenses.wip4.adobe.com
 location.microsoft.com
@@ -25221,7 +25206,6 @@ myapp.itunes.apple.com
 myvs.download.prss.microsoft.com
 na1r.services.adobe.com
 nbbb1bb7.pmhcjk.com
-netflix.com.edgesuite.net
 new-adv.ozon.ru
 nix-community.github.io
 notary-submissions-prod.s3-accelerate.amazonaws.com
@@ -25438,6 +25422,7 @@ rsshub.rssforever.com
 rsshub.umzzz.com
 rsshub.woodland.cafe
 rsshub2.asailor.org
+rt.services.visualstudio.com
 rtm.tnt-ea.com
 s.mzstatic.com
 s00.upd.kaspersky.com
@@ -25578,7 +25563,6 @@ software.download.prss.microsoft.com
 sp.itunes.apple.com
 spectator.ppy.sh
 speedysub.music.apple.com
-spotify.com.edgesuite.net
 spotify.map.fastly.net
 spotify.map.fastlylb.net
 srch-telemeter10.g.smailru.net
