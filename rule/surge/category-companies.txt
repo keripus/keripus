@@ -5073,6 +5073,7 @@
 .mesu.apple.com
 .meta.ai
 .meta.com
+.metaaiusercontent.com
 .metaaivm.com
 .metabora.io
 .metacloud.com
@@ -8555,7 +8556,9 @@ sentry.viqeo.tv
 sequoia.apple.com
 service.urchin.com
 sf-api-token-service.itunes.apple.com
+sh-pod1-smp-device.apple.com
 sh-pod2-smp-device.apple.com
+sh-pod3-smp-device.apple.com
 shazam-insights.cdn-apple.com
 shell.cdn.office.net
 smp-device-content.apple.com

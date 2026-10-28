@@ -2247,6 +2247,7 @@
 .artel.watch
 .arteldoc.com
 .arteldoc.tv
+.artificialanalysis.ai
 .artixlinux.org
 .artnudegalleries.com
 .artoferotica.info
@@ -5330,6 +5331,7 @@
 .client-update.queniuqe.com
 .climate-server.com
 .climateone.blogspot.co.id
+.cline.bot
 .clinical-videos.com
 .clinicalkey.com
 .clip16.com
@@ -5559,6 +5561,7 @@
 .comixzilla.com
 .comm-verse.com
 .commandandconquer.com
+.commandcode.ai
 .comments.app
 .commerceos.com
 .commerzbank.ru
@@ -5612,6 +5615,7 @@
 .content-ause1-ur-discovery1.uplynk.com
 .contentful.com
 .contest.com
+.context7.com
 .convrgencegame.com
 .cookiebot.com
 .cookiechoices.org
@@ -8483,6 +8487,7 @@
 .firstns.cc
 .firstpelvicexam.com
 .firstprivatebank.com.mm
+.firstrade.com
 .fishmpegs.com
 .fitbit.com
 .fitgirl-repacks.site
@@ -14012,6 +14017,7 @@
 .met-nude.com
 .meta.ai
 .meta.com
+.metaaiusercontent.com
 .metaaivm.com
 .metabora.io
 .metabrainz.org
@@ -15884,6 +15890,7 @@
 .notion.site
 .notion.so
 .notionusercontent.com
+.nousresearch.com
 .novelai.net
 .noveltrove.com
 .novids.com
@@ -20831,6 +20838,7 @@
 .thinkboxsoftware.com
 .thinkdifferent.us
 .thinkofliving.com
+.thinkorswim.com
 .thinkquarterly.co.uk
 .thinkquarterly.com
 .thinkwithgoogle.com
@@ -25554,7 +25562,9 @@ sequoia.apple.com
 servd-anthropic-website.b-cdn.net
 service.urchin.com
 sf-api-token-service.itunes.apple.com
+sh-pod1-smp-device.apple.com
 sh-pod2-smp-device.apple.com
+sh-pod3-smp-device.apple.com
 shazam-insights.cdn-apple.com
 shell.cdn.office.net
 smp-device-content.apple.com
