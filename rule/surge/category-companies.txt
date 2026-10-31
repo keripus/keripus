@@ -1590,6 +1590,7 @@
 .bingapistatistics.com
 .bingparachute.com
 .bingsandbox.com
+.bingstatic.com
 .bingvisualsearch.com
 .bingworld.com
 .binoculus.com
@@ -5418,6 +5419,7 @@
 .msfteducation.ca
 .msftncsi.com
 .msftnet.org
+.msftstatic.com
 .msgamesresearch.com
 .msgamestudios.com
 .mshome.net
