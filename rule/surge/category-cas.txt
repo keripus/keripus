@@ -220,6 +220,7 @@
 .vodafone.de
 .vodafone.it
 .vodafone.nl
+.vodafoneziggo.nl
 .wisecoin.com
 .wiseid.com
 .wisekey.com
@@ -228,6 +229,7 @@
 .wsimg.com
 .x.co
 .zert.ch
+.ziggo.nl
 c.pki.goog
 cdn.globalsigncdn.com.cdn.cloudflare.net
 certs-lb.apple.com.akadns.net

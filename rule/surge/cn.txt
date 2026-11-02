@@ -512,6 +512,7 @@
 .allday.work
 .allflow.cn
 .allhistory.com
+.allwinnertech.com
 .allyes.com
 .alookweb.com
 .aloys233.top
@@ -836,6 +837,7 @@
 .buke999.com
 .burningvocabulary.cn
 .burningvocabulary.com
+.busyming.com
 .butterfly-static.cn
 .butterflyai.cn
 .bvmlt.top
@@ -862,6 +864,7 @@
 .caiyunapp.com
 .caiyuncdn.com
 .calorietech.com
+.cambricon.com
 .camcard.com
 .camscanner.com
 .cang.com
@@ -1532,6 +1535,7 @@
 .doubanio.com
 .doubao-dev.com
 .doubao.com
+.doubaoapps.com
 .doubaocdn.com
 .doucang.cn
 .doucang.com
@@ -2287,6 +2291,7 @@
 .hnbntv.com
 .hnchasing.com
 .hndt.com
+.hnlshm.com
 .hnol.net
 .hnr.cn
 .hnrcsc.com
@@ -3381,6 +3386,7 @@
 .mlzt.com.cn
 .mmbang.com
 .mmbang.info
+.mnc015.mcc460.pub.3gppnetwork.org
 .mndqlib.net
 .mnw.cn
 .mob.com
@@ -3441,6 +3447,7 @@
 .mszdld.com
 .mszdld.net
 .mszq.com
+.mthreads.com
 .mti100.com
 .mtime.cn
 .mtime.com
@@ -3810,6 +3817,7 @@
 .qianyierp.com
 .qianzhan.com
 .qiaobutang.com
+.qiaqiafood.com
 .qichacha.com
 .qichamao.com
 .qie.tv
@@ -4200,6 +4208,7 @@
 .soulapp.cn
 .soulteary.com
 .souqian.com
+.southchip.com
 .southcn.com
 .southmoney.com
 .sparkletour.com
@@ -4309,6 +4318,7 @@
 .szu.app
 .szu.moe
 .szzfgjj.com
+.t-head.cn
 .t00ls.cc
 .t00ls.net
 .t1tms.com
@@ -5503,6 +5513,7 @@
 .zybang.com
 .zygbdszt.net.cn
 .zyh365.com
+.zymls.com
 .zysn.net
 .zysou.com
 .zyyct.com

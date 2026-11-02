@@ -274,6 +274,7 @@
 .tencentstart.com
 .tengmed.com
 .tenpay.com
+.tenpayglobal.com
 .texasholdemcup.cn
 .texasholdemcup.com
 .texasholdemcup.net
@@ -306,6 +307,8 @@
 .weixinsxy.com
 .weiyun.com
 .werepository.com.cn
+.wesure.cn
+.wesure100.com
 .wetv.vip
 .wetvinfo.com
 .weui.io

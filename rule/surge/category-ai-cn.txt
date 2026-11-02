@@ -34,6 +34,7 @@
 .diandianlife.top
 .doubao-dev.com
 .doubao.com
+.doubaoapps.com
 .doubaocdn.com
 .dui.ai
 .duiopen.com
