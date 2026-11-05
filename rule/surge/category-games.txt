@@ -423,6 +423,9 @@
 .legendofzelda.cn
 .legendofzelda.com.cn
 .leyuansu.com
+.limbuscompany.global
+.limbuscompanyapi.com
+.limbuscompanycdn.org
 .lingxigames.com
 .log-upload-os.hoyoverse.com
 .log-upload.mihoyo.com
@@ -655,6 +658,7 @@
 .priconne-redive.jp
 .prismlauncher.org
 .projectapex.com
+.projectmoon.studio
 .protondb.com
 .proximabeta.com
 .pubg.com
@@ -774,6 +778,7 @@
 .simcity.com
 .skate2.com
 .sketchfab.com
+.skinswap.com
 .skydweller.cn
 .skylanders.com
 .sl916.com
