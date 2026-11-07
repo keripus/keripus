@@ -1,3 +1,4 @@
+.ai-indeed.com
 .aispeech.com
 .antafu.com
 .antaq.com
@@ -83,6 +84,12 @@
 .rwkv.cn
 .rwkv.com
 .safeskill.cn
+.senseaudio.cn
+.senseavatar.com
+.sensecore.cn
+.sensefoundry.cn
+.sensenova.cn
+.sensetime.com
 .shunjing.xin
 .skillhub.cn
 .sleeplesshorizon.cn
@@ -92,6 +99,7 @@
 .tongyi.com
 .workbuddy.cn
 .xiaoaiassist.com
+.xiaohuanxiong.com
 .xiaomimimo.com
 .xiezuocat.com
 .xinghuo.xfyun.cn

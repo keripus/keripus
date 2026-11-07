@@ -120,7 +120,6 @@
 .ihappystudio.com
 .imqq.com
 .imweb.io
-.in.th
 .inte.sogou.com
 .inte.sogoucdn.com
 .iot-tencent.com
@@ -146,6 +145,7 @@
 .kugouyouth.com
 .kuwo.cn
 .labycore.cn
+.levelinfinite.com
 .log.tbs.qq.com
 .lrts.me
 .lu.sogou.com
@@ -173,6 +173,7 @@
 .nagcloudcs.com
 .nextstudios.com
 .nextworkshop.net
+.nikke-en.com
 .openmidas.com
 .pb.i.sogou.com
 .pgdt.gtimg.cn
@@ -269,6 +270,7 @@
 .tencent.net
 .tencent.net.cn
 .tencentcloud.com
+.tencentgames.com
 .tencentmiying.com
 .tencentmusic.com
 .tencentstart.com
