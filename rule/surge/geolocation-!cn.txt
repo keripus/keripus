@@ -10001,6 +10001,7 @@
 .gridaware.app
 .grok.com
 .grok.x.com
+.grokbot.com
 .grokipedia.com
 .grooby.com
 .groq.com
@@ -25090,6 +25091,7 @@ holoxx.f5.si
 homebrew.bintray.com
 hpefonts.s3.amazonaws.com
 hpstore.corpmerchandise.com
+http-intake.logs.us5.datadoghq.com
 hub.slarker.me
 hulu.playback.edge.bamgrid.com
 i.jeded.com
@@ -25289,6 +25291,7 @@ nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
 nvidia.custhelp.com
 nvidia.tt.omtrdc.net
 o.pki.goog
+o1158394.ingest.us.sentry.io
 o33249.ingest.sentry.io
 o33249.ingest.us.sentry.io
 o4504926511693824.ingest.sentry.io
@@ -25372,6 +25375,7 @@ prod-databe.floonet.goog
 prod-support.apple-support.akadns.net
 prod.databe.floonet.goog
 prodforza.blob.core.windows.net
+production-copilot-host-westus.webpubsub.azure.com
 production-openaicom-storage.azureedge.net
 productionresultssa0.blob.core.windows.net
 productionresultssa1.blob.core.windows.net
