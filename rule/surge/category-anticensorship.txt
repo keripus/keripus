@@ -85,6 +85,7 @@
 .psiphon.ca
 .psiphon3.com
 .pwnedpasswords.com
+.remna.dev
 .remna.st
 .sagernet.org
 .shadowlaunch.com

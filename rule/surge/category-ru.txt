@@ -1559,6 +1559,7 @@
 .venets-bank.ru
 .vezet.ru
 .vfbank.ru
+.vigo.tech
 .viju.ru
 .vildberis.ru
 .vimu.tv
@@ -1895,6 +1896,7 @@
 .yastat.net
 .yastatic-net.ru
 .yastatic.net
+.yb-payment.ru
 .yccdn.ru
 .yclients.com
 .ydb.tech
