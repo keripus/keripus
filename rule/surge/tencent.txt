@@ -269,6 +269,7 @@
 .tencent.design
 .tencent.net
 .tencent.net.cn
+.tencentads.com
 .tencentcloud.com
 .tencentgames.com
 .tencentmiying.com
