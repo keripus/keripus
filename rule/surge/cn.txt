@@ -2495,6 +2495,7 @@
 .ibuychem.com
 .icaidao.com
 .icbc
+.icc.link
 .iceo.com.cn
 .ichangtou.com
 .iciba.com
