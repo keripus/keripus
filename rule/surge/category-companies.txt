@@ -3222,6 +3222,7 @@
 .gemini.google.com
 .gemini.gstatic.com
 .gemini.yahoo.com
+.gemma.ai
 .generativeai.google
 .generativelanguage.googleapis.com
 .genetic-technologies.am

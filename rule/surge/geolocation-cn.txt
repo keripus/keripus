@@ -1104,6 +1104,7 @@
 .chugou360.com
 .chuimg.com
 .chujingapp.com
+.chunithm.wahlap.com
 .chunyu.mobi
 .chunyuyisheng.com
 .chushi.cool
@@ -3271,6 +3272,7 @@
 .maiche.com
 .mail4399.com
 .maimai.cn
+.maimai.wahlap.com
 .maimemo.com
 .maimemostatus.com
 .maindown4399.com
@@ -4415,6 +4417,7 @@
 .tfzq.com
 .tgbus.com
 .tggfl.com
+.tgk-wcaime.wahlap.com
 .tgpro.top
 .tgprocs.net
 .th-music.com
@@ -4742,6 +4745,7 @@
 .vxhcm.com
 .vzuu.com
 .wahaha.com.cn
+.wahlap.net
 .waifushangcheng.com
 .wallstcn.com
 .wallstreetcn.com
